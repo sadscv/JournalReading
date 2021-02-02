@@ -6,7 +6,8 @@
 
 * [Introduction](tmp_for_share/introduction.md)
 
-## 外刊阅读
+## 外刊阅读 <a id="articles"></a>
 
-* [Day 80-100](wai-kan-yue-du/day-80-100.md)
+* [Day 79-99](articles/day-79-99.md)
+* [Day100](articles/day-80-100.md)
 
