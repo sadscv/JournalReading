@@ -4,9 +4,6 @@
 
 ## articles
 
+* [Day347](articles/day347.md)
 * [Day 348](articles/d348.md)
-
----
-
-* [Day347](day347.md)
 
