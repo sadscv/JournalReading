@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JournalReading](README.md)
+* [test](README.md)
 
 ## articles
 

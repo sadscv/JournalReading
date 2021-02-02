@@ -2,7 +2,7 @@
 description: Economist articles read with friends in Soul.
 ---
 
-# JournalReading
+# test
 
 ## Getting Super Powers
 
