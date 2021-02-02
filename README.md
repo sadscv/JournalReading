@@ -1,2 +1,2 @@
-# JournalReading
+# Initial page
 
