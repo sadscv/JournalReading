@@ -1,6 +1,6 @@
 # Table of contents
 
-* [tmp for share](README.md)
+* [JournalReading](README.md)
 
 ## 外刊阅读 <a id="articles"></a>
 
