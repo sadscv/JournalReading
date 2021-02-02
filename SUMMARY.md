@@ -1,10 +1,6 @@
-# Table of contents
+# Your Book Title
 
-* [End](README.md)
-
-## articles
-
-* [Day 346](articles/D346.md)
-* [Day347](articles/day347.md)
-* [Day 348](articles/d348.md)
-
+- Articles
+  * [Day 346](articles/Day346.md)
+  * [Day 347](articles/Day347.md)
+  * [Day 348](articles/Day348.md)
