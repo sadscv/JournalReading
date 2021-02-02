@@ -1,2 +1,6 @@
-# Initial page
+---
+description: Economist articles read with friends in Soul.
+---
+
+# JournalReading
 
