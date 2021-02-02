@@ -2,8 +2,8 @@
 
 * [JournalReading](README.md)
 
-## articles <a id="articles-2"></a>
+## articles
 
-* [Day100](articles-2/day100.md)
-* [Day 79-99](articles-2/day-79-99.md)
+* [Day100](articles/day100.md)
+* [Day 79-99](articles/day-79-99.md)
 
