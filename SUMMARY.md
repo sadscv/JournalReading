@@ -1,5 +1,8 @@
 # Table of contents
 
 * [JournalReading](README.md)
-* [D348](d348.md)
+
+## articles
+
+* [Day 348](articles/d348.md)
 
