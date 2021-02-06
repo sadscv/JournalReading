@@ -10,3 +10,4 @@
   * [Day 348](articles/day348.md)
   * [Day 349](articles/day349.md)
   * [Day 350](articles/day350.md)
+  * [Day 351](articles/day351.md)
