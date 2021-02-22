@@ -1,8 +1,5 @@
 # Your Book Title
 
-- Book
-  - Articles
-    * [Day 100](_book/articles/day100.md)
 - [Articles](articles/README.md)
   * [Day 100](articles/day100.md)
   * [Day 346](articles/day346.md)
@@ -13,6 +10,5 @@
   * [Day 351](articles/day351.md)
   * [Day 353](articles/day353.md)
   * [Day 354](articles/day354.md)
-- [Book 1](book-1/README.md)
-  - [Articles](book-1/articles/README.md)
-    * [Day 100 1](book-1/articles/day-100 (1).md)
+  * [Day 356](articles/day356.md)
+  * [Day 366](articles/day366.md)
