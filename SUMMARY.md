@@ -1,6 +1,7 @@
 # Your Book Title
 
 - [Articles](articles/README.md)
+  * [D 312 D 335](articles/d312-d335.md)
   * [Day 100](articles/day100.md)
   * [Day 346](articles/day346.md)
   * [Day 347](articles/day347.md)
@@ -12,3 +13,5 @@
   * [Day 354](articles/day354.md)
   * [Day 356](articles/day356.md)
   * [Day 366](articles/day366.md)
+  * [Day 370](articles/day370.md)
+  * [Day 377](articles/day377.md)
