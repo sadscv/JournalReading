@@ -2,6 +2,7 @@
 
 - [Articles](articles/README.md)
   * [D 312 D 335](articles/d312-d335.md)
+  * [D 70](articles/d70.md)
   * [Day 100](articles/day100.md)
   * [Day 346](articles/day346.md)
   * [Day 347](articles/day347.md)
@@ -15,3 +16,4 @@
   * [Day 366](articles/day366.md)
   * [Day 370](articles/day370.md)
   * [Day 377](articles/day377.md)
+  * [Day 409](articles/day409.md)
