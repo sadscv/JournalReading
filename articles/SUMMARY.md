@@ -1,6 +1,6 @@
 # Your Book Title
 
-* [D 312 D 335](d312-d335.md)
+* [D 312-D 335](d312-d335.md)
 * [Day 100](day100.md)
 * [Day 346](day346.md)
 * [Day 347](day347.md)
