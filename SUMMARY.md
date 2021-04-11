@@ -1,7 +1,7 @@
 # Your Book Title
 
 - [Articles](articles/README.md)
-  * [Day 070](articles/day070.md)
+  * [Day 071](articles/day071.md)
   * [Day 100](articles/day100.md)
   * [Day 346](articles/day346.md)
   * [Day 347](articles/day347.md)
