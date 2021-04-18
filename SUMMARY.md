@@ -16,3 +16,6 @@
   * [Day 370](articles/day370.md)
   * [Day 377](articles/day377.md)
   * [Day 409](articles/day409.md)
+  * [Day 418](articles/day418.md)
+  * [Day 419](articles/day419.md)
+  * [Day 420](articles/day420.md)
