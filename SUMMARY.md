@@ -19,3 +19,6 @@
   * [Day 418](articles/day418.md)
   * [Day 419](articles/day419.md)
   * [Day 420](articles/day420.md)
+  * [Day 421](articles/day421.md)
+  * [Day 422](articles/day422.md)
+  * [Day 423](articles/day423.md)
