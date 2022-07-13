@@ -1,6 +1,7 @@
-# Your Book Title
+# Table of contents
 
-- [Articles](articles/README.md)
+* [README](README.md)
+* [Articles](articles/README.md)
   * [Day 071](articles/day071.md)
   * [Day 100](articles/day100.md)
   * [Day 346](articles/day346.md)
