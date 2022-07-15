@@ -1,5 +1,5 @@
 ---
-description: **The conflict shaped the economy as well as vice versa**
+description: The conflict shaped the economy as well as vice versa
 ---
 
 # D789 How Abraham Lincoln financed the civil war

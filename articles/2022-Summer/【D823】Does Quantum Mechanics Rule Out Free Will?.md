@@ -1,5 +1,5 @@
 ---
-description: **Superdeterminism, a radical quantum hypothesis, says our “choices” are illusory**
+description: Superdeterminism, a radical quantum hypothesis, says our “choices” are illusory
 ---
 
 # D823 Does Quantum Mechanics Rule Out Free Will?

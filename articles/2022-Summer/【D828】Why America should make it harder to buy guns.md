@@ -1,5 +1,5 @@
 ---
-description: **Perhaps make it a bit harder to buy one?  In many states, it is easier to own a gun than a dog. That is absurd**
+description: Perhaps make it a bit harder to buy one?  In many states, it is easier to own a gun than a dog. That is absurd
 ---
 
 # D828 Why America should make it harder to buy guns

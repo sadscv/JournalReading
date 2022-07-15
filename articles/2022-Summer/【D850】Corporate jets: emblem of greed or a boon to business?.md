@@ -1,5 +1,5 @@
 ---
-description: **The planes are a shortcut for testing someone’s gut instincts on management**
+description: The planes are a shortcut for testing someone’s gut instincts on management
 ---
 
 # D850 Corporate jets: emblem of greed or a boon to business?

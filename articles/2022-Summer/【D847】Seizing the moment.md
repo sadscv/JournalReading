@@ -1,5 +1,5 @@
 ---
-description: **Permanently grabbing Russian assets is a seductive idea. It would also be a mistake **
+description: Permanently grabbing Russian assets is a seductive idea. It would also be a mistake 
 ---
 
 # D847  Seizing the moment 

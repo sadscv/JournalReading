@@ -1,5 +1,5 @@
 ---
-description: **You know, the seventh planet from the sun? It could use some attention.**
+description: You know, the seventh planet from the sun? It could use some attention.
 ---
 
 # D792 Remember Uranus?

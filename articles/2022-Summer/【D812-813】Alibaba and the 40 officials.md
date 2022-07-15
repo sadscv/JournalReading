@@ -1,5 +1,5 @@
 ---
-description: **Can Chinese big tech learn to love Big Brother?**
+description: Can Chinese big tech learn to love Big Brother?
 ---
 
 # D812-813 Alibaba and the 40 officials

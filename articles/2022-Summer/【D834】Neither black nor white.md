@@ -1,5 +1,5 @@
 ---
-description: **Sue Gray gives a strikingly patchy account of the Downing Street parties**
+description: Sue Gray gives a strikingly patchy account of the Downing Street parties
 ---
 
 # D834 Neither black nor white

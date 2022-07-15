@@ -1,5 +1,5 @@
 ---
-description: **Recent discoveries about the biological underpinnings of human behavior are helping psychologists find new ways to improve people’s lives**
+description: Recent discoveries about the biological underpinnings of human behavior are helping psychologists find new ways to improve people’s lives
 ---
 
 # D798-799 New frontiers in neuroscience

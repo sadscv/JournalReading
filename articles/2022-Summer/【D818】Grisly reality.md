@@ -1,5 +1,5 @@
 ---
-description: **Getting to the bottom of the plunge in America’s stockmarket **
+description:  Getting to the bottom of the plunge in America’s stockmarket 
 ---
 
 # D818 Grisly reality

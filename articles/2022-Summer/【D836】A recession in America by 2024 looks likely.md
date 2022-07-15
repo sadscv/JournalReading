@@ -1,5 +1,5 @@
 ---
-description: **The coming downturn. It should be mild—but fear its consequences**
+description: The coming downturn. It should be mild—but fear its consequences
 ---
 
 # D836 A recession in America by 2024 looks likely

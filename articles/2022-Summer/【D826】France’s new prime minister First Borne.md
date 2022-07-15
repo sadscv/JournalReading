@@ -1,5 +1,5 @@
 ---
-description: **Macron nods to the left, sort of**
+description: Macron nods to the left, sort of
 ---
 
 # D826  France’s new prime minister First Borne

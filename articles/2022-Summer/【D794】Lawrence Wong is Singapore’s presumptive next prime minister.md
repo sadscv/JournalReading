@@ -1,5 +1,5 @@
 ---
-description: **The ruling party’s new leader-in-waiting is meant to show its softer side  **
+description: The ruling party’s new leader-in-waiting is meant to show its softer side  
 ---
 
 # D794 Lawrence Wong is Singapore’s presumptive next prime minister

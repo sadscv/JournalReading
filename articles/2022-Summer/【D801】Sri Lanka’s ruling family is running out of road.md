@@ -1,5 +1,5 @@
 ---
-description: **The Rajapaksas hang together. Now they are falling apart**
+description: The Rajapaksas hang together. Now they are falling apart
 ---
 
 # D801 Sri Lanka’s ruling family is running out of road

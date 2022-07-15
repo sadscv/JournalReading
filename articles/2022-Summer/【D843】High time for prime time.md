@@ -1,5 +1,5 @@
 ---
-description: **Why America’s probe into the attempted coup last year is needed, before it’s too late**
+description: Why America’s probe into the attempted coup last year is needed, before it’s too late 
 ---
 
 # D843 High time for prime time 

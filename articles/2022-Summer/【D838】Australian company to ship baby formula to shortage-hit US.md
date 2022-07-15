@@ -1,5 +1,5 @@
 ---
-description: **（from The Guardian）**
+description: （from The Guardian）
 ---
 
 # D838 Australian company to ship baby formula to shortage-hit US 

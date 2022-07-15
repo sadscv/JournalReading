@@ -1,5 +1,5 @@
 ---
-description: **Wearable technology is transforming health care. Do not delay the revolution **
+description: Wearable technology is transforming health care. Do not delay the revolution 
 ---
 
 # D809 The quantified self

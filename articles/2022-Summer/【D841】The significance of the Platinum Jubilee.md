@@ -1,5 +1,5 @@
 ---
-description: ** The celebrations are absurd, but the queen represents continuity and consensus **
+description:  The celebrations are absurd, but the queen represents continuity and consensus 
 ---
 
 # D841  The significance of the Platinum Jubilee 

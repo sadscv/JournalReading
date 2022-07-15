@@ -1,5 +1,5 @@
 ---
-description: **It shows the flimsiness of Vladimir Putin’s justification for invading Ukraine**
+description: It shows the flimsiness of Vladimir Putin’s justification for invading Ukraine
 ---
 
 # D824  The meaning of membership

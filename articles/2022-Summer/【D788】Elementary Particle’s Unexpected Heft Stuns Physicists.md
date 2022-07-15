@@ -1,5 +1,5 @@
 ---
-description: **A new analysis by the CDF collaboration is a bolt from the blue, finding that the W boson is significantly heavier than suggested by previous measurements and theoretical prediction**
+description: A new analysis by the CDF collaboration is a bolt from the blue, finding that the W boson is significantly heavier than suggested by previous measurements and theoretical prediction
 ---
 
 # D788 Elementary Particle’s Unexpected Heft Stuns Physicists

@@ -1,5 +1,5 @@
 ---
-description: **Foundation models**
+description: Foundation models
 ---
 
 # D842 How smarter AI will change creativity

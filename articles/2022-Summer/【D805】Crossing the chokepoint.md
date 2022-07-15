@@ -1,5 +1,5 @@
 ---
-description: **America has a plan to gut China’s chipmaking ecosystem**
+description: America has a plan to gut China’s chipmaking ecosystem
 ---
 
 # D805 Crossing the chokepoint

@@ -1,5 +1,5 @@
 ---
-description: **Logging in, deleting emails, mistyping things. It all adds up**
+description: Logging in, deleting emails, mistyping things. It all adds up
 ---
 
 # D854 Work, the wasted years

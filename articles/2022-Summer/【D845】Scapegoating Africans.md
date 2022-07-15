@@ -1,5 +1,5 @@
 ---
-description: **South Africans should not blame immigrants for their country’s failings **
+description: South Africans should not blame immigrants for their country’s failings 
 ---
 
 # D845  Scapegoating Africans 

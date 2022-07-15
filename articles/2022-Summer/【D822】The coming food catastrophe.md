@@ -1,5 +1,5 @@
 ---
-description: **War is tipping a fragile world towards mass hunger. Fixing that is everyone’s business**
+description: War is tipping a fragile world towards mass hunger. Fixing that is everyone’s business
 ---
 
 # D822 The coming food catastrophe

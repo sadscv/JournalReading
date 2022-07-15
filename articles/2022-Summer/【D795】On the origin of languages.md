@@ -1,5 +1,5 @@
 ---
-description: **It's tempting to think that they have clear beginnings. They don't.**
+description: It's tempting to think that they have clear beginnings. They don't.
 ---
 
 # D795 On the origin of languages

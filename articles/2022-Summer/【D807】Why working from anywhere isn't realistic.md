@@ -1,5 +1,5 @@
 ---
-description: **The globe-trotting lifestyle will be open only to a lucky few**
+description: The globe-trotting lifestyle will be open only to a lucky few
 ---
 
 # D807 Why working from anywhere isn't realistic

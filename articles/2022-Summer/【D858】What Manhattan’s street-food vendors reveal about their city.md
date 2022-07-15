@@ -1,5 +1,5 @@
 ---
-description: **The lessons of a day in Midtown with Sherif Baioumy and his halal cart**
+description: The lessons of a day in Midtown with Sherif Baioumy and his halal cart
 ---
 
 # D858 What Manhattan’s street-food vendors reveal about their city

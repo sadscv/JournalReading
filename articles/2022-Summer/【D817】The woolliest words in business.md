@@ -1,5 +1,5 @@
 ---
-description: **Innovation. Sustainability. Purpose. Yuck**
+description: Innovation. Sustainability. Purpose. Yuck
 ---
 
 # D817 The woolliest words in business

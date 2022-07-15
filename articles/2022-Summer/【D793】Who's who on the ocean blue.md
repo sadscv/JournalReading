@@ -1,5 +1,5 @@
 ---
-description: **Radio data, satellites and a high-tech game of cat and mouse**
+description: Radio data, satellites and a high-tech game of cat and mouse
 ---
 
 # D793 Who's who on the ocean blue

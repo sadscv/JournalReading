@@ -1,5 +1,5 @@
 ---
-description: **Astronomers have captured the Milky Way’s supermassive, mysterious abyss, 27,000 light-years from Earth.**
+description: Astronomers have captured the Milky Way’s supermassive, mysterious abyss, 27,000 light-years from Earth.
 ---
 
 # D814 Behold, the Bottomless Pit Holding Everything Together

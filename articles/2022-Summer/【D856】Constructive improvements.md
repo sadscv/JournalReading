@@ -1,5 +1,5 @@
 ---
-description: **The property industry has a huge carbon footprint. Here’s how to reduce it**
+description: The property industry has a huge carbon footprint. Here’s how to reduce it
 ---
 
 # D856 Constructive improvements 

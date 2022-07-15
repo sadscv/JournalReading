@@ -1,5 +1,5 @@
 ---
-description: **A wonder material that promised much but delivered little may at last have found its killer app **
+description: A wonder material that promised much but delivered little may at last have found its killer app 
 ---
 
 # D829-830 Pouring graphene’s bright future

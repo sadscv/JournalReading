@@ -1,5 +1,5 @@
 ---
-description: **Why Russia is on track for a record trade surplus **
+description: Why Russia is on track for a record trade surplus 
 ---
 
 # D819 Bearing up

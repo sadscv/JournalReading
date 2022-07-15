@@ -1,5 +1,5 @@
 ---
-description: **Why did a local official, at the turn of the twentieth century, maintain a ledger tracking Chinese residents?**
+description: Why did a local official, at the turn of the twentieth century, maintain a ledger tracking Chinese residents?
 ---
 
 # D790 The Dark Purpose Behind a Town Constable’s Journal

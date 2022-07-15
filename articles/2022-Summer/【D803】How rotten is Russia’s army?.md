@@ -1,5 +1,5 @@
 ---
-description: **Vladimir Putin uses warfare to make up for Russia’s weaknesses. That is why he is so dangerous **
+description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. That is why he is so dangerous 
 ---
 
 # D803 How rotten is Russia’s army?

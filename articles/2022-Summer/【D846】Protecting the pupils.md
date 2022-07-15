@@ -1,5 +1,5 @@
 ---
-description: **To fight an epidemic of myopia, schools should send their students outside **
+description: To fight an epidemic of myopia, schools should send their students outside 
 ---
 
 # D846  Protecting the pupils 

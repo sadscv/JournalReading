@@ -1,5 +1,5 @@
 ---
-description: **So far, people have sought Earthlike biology. That will change**
+description: So far, people have sought Earthlike biology. That will change
 ---
 
 # D832-833 How to improve the search for aliens

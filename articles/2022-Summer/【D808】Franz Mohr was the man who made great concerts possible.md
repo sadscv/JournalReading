@@ -1,5 +1,5 @@
 ---
-description: ** chief piano tuner for 24 years died on March 28th, aged 94**
+description:  chief piano tuner for 24 years died on March 28th, aged 94
 ---
 
 # D808 Franz Mohr was the man who made great concerts possible

@@ -1,5 +1,5 @@
 ---
-description: **Ireland’s best-loved travel writer died on May 22nd, aged 90**
+description: Ireland’s best-loved travel writer died on May 22nd, aged 90
 ---
 
 # D844 Dervla Murphy let nothing stand in the way of adventure

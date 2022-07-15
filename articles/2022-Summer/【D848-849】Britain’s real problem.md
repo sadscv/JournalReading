@@ -1,5 +1,5 @@
 ---
-description: **It’s not just Boris Johnson. Economic decline has become a chronic British disease**
+description: It’s not just Boris Johnson. Economic decline has become a chronic British disease
 ---
 
 # D848-849 Britain’s real problem 

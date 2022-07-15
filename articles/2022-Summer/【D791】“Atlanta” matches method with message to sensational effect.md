@@ -1,5 +1,5 @@
 ---
-description: **The basic template in Donald Glover’s genre-bending drama is the fairy tale**
+description: The basic template in Donald Glover’s genre-bending drama is the fairy tale
 ---
 
 # D791 “Atlanta” matches method with message to sensational effect

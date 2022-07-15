@@ -1,5 +1,5 @@
 ---
-description: **Researchers are learning more about how the SARS-CoV-2 coronavirus stifles smell — and how they might revive it.**
+description: Researchers are learning more about how the SARS-CoV-2 coronavirus stifles smell — and how they might revive it.
 ---
 
 # D851 COVID and smell loss: answers begin to emerge

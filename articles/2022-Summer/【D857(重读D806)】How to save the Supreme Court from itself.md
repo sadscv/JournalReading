@@ -1,5 +1,5 @@
 ---
-description: **To avoid breaking a precious institution, the nine justices need to restrain themselves**
+description: To avoid breaking a precious institution, the nine justices need to restrain themselves
 ---
 
 # D857(重读D806) How to save the Supreme Court from itself

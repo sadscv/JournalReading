@@ -1,5 +1,5 @@
 ---
-description: **With his threats to use the bomb, Russia’s president has overturned the nuclear order **
+description: With his threats to use the bomb, Russia’s president has overturned the nuclear order 
 ---
 
 # D839   A new nuclear era 

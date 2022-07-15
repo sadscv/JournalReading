@@ -1,5 +1,5 @@
 ---
-description: **The Indian economy is being rewired. The opportunity is immense—and so are the stakes**
+description: The Indian economy is being rewired. The opportunity is immense—and so are the stakes
 ---
 
 # D815 India’s next decade

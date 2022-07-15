@@ -1,5 +1,5 @@
 ---
-description: **The leadership at last admits to an outbreak of covid-19 within its borders**
+description: The leadership at last admits to an outbreak of covid-19 within its borders
 ---
 
 # D816 State of emergency

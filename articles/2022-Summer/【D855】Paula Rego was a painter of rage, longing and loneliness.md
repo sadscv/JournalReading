@@ -1,5 +1,5 @@
 ---
-description: **The Portuguese-British artist died on June 8th, aged 87**
+description: The Portuguese-British artist died on June 8th, aged 87
 ---
 
 # D855 Paula Rego was a painter of rage, longing and loneliness

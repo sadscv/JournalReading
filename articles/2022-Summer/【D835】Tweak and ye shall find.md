@@ -1,5 +1,5 @@
 ---
-description: **A new law allows the cultivation and sale of gene-edited crops. Good**
+description: A new law allows the cultivation and sale of gene-edited crops. Good
 ---
 
 # D835 Tweak and ye shall find

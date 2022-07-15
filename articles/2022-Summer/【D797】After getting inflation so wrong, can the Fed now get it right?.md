@@ -1,5 +1,5 @@
 ---
-description: **The hawks are taking flight**
+description: The hawks are taking flight
 ---
 
 # D797 After getting inflation so wrong, can the Fed now get it right?

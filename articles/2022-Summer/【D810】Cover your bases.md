@@ -1,5 +1,5 @@
 ---
-description: **How America and its allies should respond to China’s search for foreign outposts**
+description: How America and its allies should respond to China’s search for foreign outposts
 ---
 
 # D810 Cover your bases

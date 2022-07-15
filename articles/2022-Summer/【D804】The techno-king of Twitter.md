@@ -1,5 +1,5 @@
 ---
-description: **The world’s best-known engineer takes on the problem of free speech. We hope he succeeds.**
+description: The world’s best-known engineer takes on the problem of free speech. We hope he succeeds.
 ---
 
 # D804 The techno-king of Twitter

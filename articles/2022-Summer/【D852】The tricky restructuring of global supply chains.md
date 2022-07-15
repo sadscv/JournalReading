@@ -1,5 +1,5 @@
 ---
-description: **Why too much resilience is dangerous**
+description: Why too much resilience is dangerous
 ---
 
 # D852 The tricky restructuring of global supply chains

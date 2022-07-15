@@ -1,5 +1,5 @@
 ---
-description: **Doctors and therapists are using comic books to spread awareness of conditions and help patients express themselves**
+description: Doctors and therapists are using comic books to spread awareness of conditions and help patients express themselves
 ---
 
 # D825  Comic relief

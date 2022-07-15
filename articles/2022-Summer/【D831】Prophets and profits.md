@@ -1,5 +1,5 @@
 ---
-description: **Why investors are increasingly worried about recession in America**
+description: Why investors are increasingly worried about recession in America
 ---
 
 # D831  Prophets and profits

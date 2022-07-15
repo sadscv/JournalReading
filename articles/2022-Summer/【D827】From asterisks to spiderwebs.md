@@ -1,5 +1,5 @@
 ---
-description: **The old travel patterns are not coming back. Time for a new approach to public transport**
+description: The old travel patterns are not coming back. Time for a new approach to public transport
 ---
 
 # D827 From asterisks to spiderwebs

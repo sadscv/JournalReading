@@ -1,5 +1,5 @@
 ---
-description: **A struggle over artistic freedom suggests a better way out of the culture wars**
+description: A struggle over artistic freedom suggests a better way out of the culture wars
 ---
 
 # D802 Philip Guston’s paintings are controversial. But here they are
