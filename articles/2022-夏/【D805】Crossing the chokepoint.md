@@ -1,6 +1,8 @@
-# D805 Crossing the chokepoint
+---
+description: **America has a plan to gut China’s chipmaking ecosystem**
+---
 
-### **America has a plan to gut China’s chipmaking ecosystem**
+# D805 Crossing the chokepoint
 2.Such tools handle the complex processes of **scratching** billions of electric circuits into a silicon wafer. Those circuits shuttle electrons to do the calculations that display this article on a screen, plot your route across town or allow your fingerprint to unlock your phone. They must be perfect. kla makes measurement tools which are essentially electron microscopes on **steroid**s, scanning each part of a finished chip automatically for defects and errors. Some Lam Research tools are designed to** etch** patterns in a **silicon wafer** by firing beams of individual atoms at its surface. Applied Materials builds machines which can deposit films of material that are merely a few atoms thick.
 
 > **scratch**: damage surface损坏表面

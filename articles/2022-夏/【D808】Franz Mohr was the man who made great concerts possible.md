@@ -1,6 +1,8 @@
-# D808 Franz Mohr was the man who made great concerts possible
+---
+description: ** chief piano tuner for 24 years died on March 28th, aged 94**
+---
 
-### ** chief piano tuner for 24 years died on March 28th, aged 94**
+# D808 Franz Mohr was the man who made great concerts possible
 1.Several decades ago The Economist’s New York office was above the old showroom of Steinway & Sons, piano-makers, on West 57th Street. The way to the office was a staircase to the left; to the right the **glossy** black pianos stood among rich carpets, and customers could be seen and heard shyly, or boldly, trying them out.
 The showroom, however, was not Franz Mohr’s place. His realm was the basement, where the beautiful** concert grand**s were stabled within bare walls, out of the daylight, in ideal relative humidity of 45-65%. Here, in his black Steinway apron, he was in near-constant attendance, ears cocked to his** tuning fork **to hear how quickly, after he struck a key, the** wave **died and the note was “in”, while his right arm was thrust into the innards of each creature, moving his tuning hammer along the **tuning pin**s. When electronic strobes came in, he had no time for them. To set pitch, a tuner could rely only on hearing and touch.
 

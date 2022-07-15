@@ -1,6 +1,8 @@
-# D854 Work, the wasted years
+---
+description: **Logging in, deleting emails, mistyping things. It all adds up**
+---
 
-### **Logging in, deleting emails, mistyping things. It all adds up**
+# D854 Work, the wasted years
 1 Few things are more depressing than estimates of how much time people spend on a specific activity over the course of their lives. You know the sort of thing: you will spend one-third of your life asleep, almost a decade looking at your phone and four months deciding what to watch on streaming services.
 A new study, by academics from the Maryland and Delaware Enterprise University Partnership (madeup), applies this approach to the workplace. By conducting a time-use survey of 5,000 office workers in America and Britain, the researchers identify the number of minutes that people waste on pointless activities each working day. (Meetings are excluded: they often turn out to be useless but not always and not for everyone.) The authors then **extrapolate** these figures to come up with a “weighted total** futility**” (wtf) **lifetime estimate of time** that could have been better spent. The results are literally unbelievable.
 

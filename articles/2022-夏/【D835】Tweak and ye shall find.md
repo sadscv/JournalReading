@@ -1,6 +1,8 @@
-# D835 Tweak and ye shall find
+---
+description: **A new law allows the cultivation and sale of gene-edited crops. Good**
+---
 
-### **A new law allows the cultivation and sale of gene-edited crops. Good**
+# D835 Tweak and ye shall find
 1.The tomatoes look like any other. But unlike those which sit on supermarket shelves, they are a source of vitamin d. That is owing to the clever work of scientists at the John Innes Centre in Norwich, who have used gene­editing techniques to boost the tomatoes’ nutritional value. By making small deletions in the plant’s genome they blocked the production of a certain **enzyme**, prompting the plants to accumulate **provitamin** d3. This in turn is converted to vitamin d on exposure to ultraviolet light, such as that found in sunlight. A single upgraded tomato could provide around 20% of the recommended daily intake of the vitamin.
 
 > **enzyme：**酶

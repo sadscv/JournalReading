@@ -1,6 +1,8 @@
-# D832-833 How to improve the search for aliens
+---
+description: **So far, people have sought Earthlike biology. That will change**
+---
 
-### **So far, people have sought Earthlike biology. That will change**
+# D832-833 How to improve the search for aliens
 1 For decades, astronomers searching for life beyond humanity’s home planet have had a simple strategy: follow the water. Water is the **sine qua non** of terrestrial life and as thousands of new planets have been discovered orbiting far away stars, the greatest levels of excitement have usually been reserved for those in the “habitable zones” of their systems—in other words orbiting at a distance where liquid water could exist on the planet’s surface.
 The next step has been to look for** biosignature**s—molecules which might betray the existence of biological processes. These could include oxygen or methane in a planet’s atmosphere. On Earth, those molecules persist only because living things constantly regenerate them.
 

@@ -1,6 +1,8 @@
-# D829-830 Pouring graphene’s bright future
+---
+description: **A wonder material that promised much but delivered little may at last have found its killer app **
+---
 
-### **A wonder material that promised much but delivered little may at last have found its killer app **
+# D829-830 Pouring graphene’s bright future
 1.Close to where the college **rowing team**s of Britain’s second­-oldest university practise their strokes along the River Cam, a grey shipping container sits outside a business unit waiting to be dispatched to **Abu Dhabi**. Inside is a piece of equipment devised by a firm called Levidian Nanosystems. In a deal announced on May 16th with Zero Carbon Ventures, a firm in the United Arab Emirates, Levidian will ship 500 more such units to the region over the next five years. They will take **methane** emitted from** landfill** or being **flared off** at oil­-production sites, and turn it into cleaner-­burning hydrogen, along with a pile of fluffy black powder called graphene.
 
 > **rowing team**：赛艇队

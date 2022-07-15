@@ -1,5 +1,4 @@
 # D853  How democracies decay 
-
 1.When they vote in a presidential **run­off** election this weekend Colombians face a **grim** choice between two ill-qualified populists. On the left, Gustavo Petro has still not wholly shaken off his **long­standing** sympathy for Hugo Chávez, the **caudillo **who destroyed** Venezuela**’s economy and its democracy. On the right, Rodolfo Hernández is a **bullying **former mayor with no team and not much of a programme beyond expelling “the thieves”, as he calls the political class. This line­up reflects voters’ deep **scorn** for Colombia’s mainstream politicians, even though the country has done relatively well over the past 20 years. It is the kind of polarised choice that has become worryingly familiar in Latin American elections. In a region that was discontented even before the pandemic, there no longer seem to be many takers for the moderation, compromise and gradual reform needed to become prosperous and peaceful.
 
 > **runoff:**两轮决选制；绝选；跑离投票

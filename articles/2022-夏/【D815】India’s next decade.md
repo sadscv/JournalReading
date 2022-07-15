@@ -1,6 +1,8 @@
-# D815 India’s next decade
+---
+description: **The Indian economy is being rewired. The opportunity is immense—and so are the stakes**
+---
 
-### **The Indian economy is being rewired. The opportunity is immense—and so are the stakes**
+# D815 India’s next decade
 1.Over the past three years India has endured** more than its share** of bad news and suffering. The pandemic has killed between 2.2m and 9.7m people. Lockdowns caused the economy to shrink temporarily by a quarter and triggered the largest internal migrations since partition in 1947, as city workers fled to their villages. Religious tensions have been** simmering**, stoked by the anti­Muslim **chauvinism** of the Bharatiya Janata Party (bjp), in power since 2014 under the strongman prime minister, Narendra Modi. Now a heatwave is baking the north of the country and the global oil­ and food­price shock is battering the poor.
 (one's) fair share (of something)：All that one deserves, expects, or is entitled to, whether that be a good or a bad thing. Usually preceded by "more than" to indicate an excessive amount.
 

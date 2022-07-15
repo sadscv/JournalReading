@@ -1,6 +1,8 @@
-# D792 Remember Uranus?
+---
+description: **You know, the seventh planet from the sun? It could use some attention.**
+---
 
-### **You know, the seventh planet from the sun? It could use some attention.**
+# D792 Remember Uranus?
 1 Let’s get it out of the way now. Any comments that might come to mind when you hear the name of the seventh planet from the sun pronounced a certain way—keep them to yourself. No giggles. Absolutely no **wisecrack**s, damn it. No jokes! This is an earnest story about Uranus.
 Because this is a big day for Uranus. Once every decade, NASA asks the National Academies of Science, Engineering, and Medicine to bring a bunch of planetary scientists together to decide on the country’s priorities for future missions in the solar system. And the latest report, released today, has put this outer planet front and center. According to the powers that be, the top priority for the next decade of space exploration is spending several billion dollars on a shiny, new flagship mission to Uranus.
 

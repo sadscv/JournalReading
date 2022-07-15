@@ -1,6 +1,8 @@
-# D802 Philip Guston’s paintings are controversial. But here they are
+---
+description: **A struggle over artistic freedom suggests a better way out of the culture wars**
+---
 
-### **A struggle over artistic freedom suggests a better way out of the culture wars**
+# D802 Philip Guston’s paintings are controversial. But here they are
 1 “Probably the only thing one can really learn”, Philip Guston eventually concluded, “is the capacity to be able to change.” The modern artist’s fate, he said, was “constant change”. As a painter he embraced that fate—and in **posterity **his work has proved both an index of change and a challenge to it. A new show in Boston charts his restless genius; it is also the canvas for a struggle over art’s freedom and obligations, and the **contested **balance between them.
 
 > **posterity**：后代

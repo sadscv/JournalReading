@@ -1,6 +1,8 @@
-# D836 A recession in America by 2024 looks likely
+---
+description: **The coming downturn. It should be mild—but fear its consequences**
+---
 
-### **The coming downturn. It should be mild—but fear its consequences**
+# D836 A recession in America by 2024 looks likely
 1.Not long ago recessions seemed to strike America roughly once a decade. But only two years after the first lockdowns, the business cycle is turning at a sickening speed and another one already seems to be on its way. If you are like most people, your memory of downturns will be dominated by the past two—the financial heart attack in 2007-09 and the pandemic-induced collapse in 2020. Both were severe and highly unusual. By their standards, America’s next recession will almost certainly be milder and more pedestrian. But because the world economy, asset markets and America’s politics are all fragile, it may yet have nasty and unpredictable consequences.
 
 2.There is no escaping the squeeze ahead for America’s economy. Surging food and petrol prices are eating into people’s spending. In April consumer prices were 8.3% higher than a year earlier. Even excluding food and energy prices, annual inflation is 6.2%. Supply-chain problems could flare up for as long as war rages in Ukraine and X sticks to its zero-covid policy. The American labour market is red-hot, with nearly two job openings for every unemployed worker in March, the most since 1950, when data were first collected. A measure of wage growth by Goldman Sachs is at an all-time high of nearly 5.5%—a rate companies cannot bear unless they continue to raise prices fast.

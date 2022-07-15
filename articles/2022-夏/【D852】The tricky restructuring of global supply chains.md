@@ -1,6 +1,8 @@
-# D852 The tricky restructuring of global supply chains
+---
+description: **Why too much resilience is dangerous**
+---
 
-### **Why too much resilience is dangerous**
+# D852 The tricky restructuring of global supply chains
 1 Three years ago The Economist used the term “slowbalisation” to describe the fragile state of international trade and commerce. After the** go-go** 1990s and 2000s the pace of economic integration stalled in the 2010s, as firms **grappled with** the aftershocks of a financial crisis, a populist** revolt **against open borders and President Donald Trump’s trade war. The flow of goods and capital stagnated. Many bosses postponed big decisions on investing abroad: just-in-time gave way to wait-and-see. No one knew if globalisation faced a **blip **or extinction.
 
 > **revolt ：**反抗；叛逆；违抗；使惊骇

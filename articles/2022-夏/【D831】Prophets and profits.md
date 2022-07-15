@@ -1,6 +1,8 @@
-# D831  Prophets and profits
+---
+description: **Why investors are increasingly worried about recession in America**
+---
 
-### **Why investors are increasingly worried about recession in America**
+# D831  Prophets and profits
 1.So **choppy **has America’s stockmarket been this year that only a fool would predict mid-­week (or even mid-­Friday) whether prices will end the week up or down. At the market’s close on May 25th, the s&p 500 index of leading American shares looked on course to break a seven­-week losing streak—or to extend the **rout** to eight weeks. Thus far, at least, it has avoided (just) the 20% peak­-to**­trough** decline that is the informal definition of a bear market. But there are signs that America’s markets are entering a new, more worrying phase.
 
 > **choppy ：**波浪起伏的；不平静的

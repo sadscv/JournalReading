@@ -1,5 +1,4 @@
 # D837 The Donald and the Kremlin Don: how Trump’s toxic legacy helps Putin
-
 1.Even by Donald Trump’s chaotic standards, the “comprehensive peace agreement” for Afghanistan signed by the US in **Doha** in February 2020 was a huge own goal.
 The pact **posited** no binding ceasefire, no power-sharing requirements, and no political **roadmap**.In return for some** mumbo-jumbo** about **al-Qaida**, Trump pledged total, unconditional US and Nato withdrawal within 14 months.This was not peacemaking. This was **capitulation**. The Taliban could hardly believe their luck.
 

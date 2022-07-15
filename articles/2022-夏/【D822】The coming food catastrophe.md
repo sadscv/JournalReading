@@ -1,6 +1,8 @@
-# D822 The coming food catastrophe
+---
+description: **War is tipping a fragile world towards mass hunger. Fixing that is everyone’s business**
+---
 
-### **War is tipping a fragile world towards mass hunger. Fixing that is everyone’s business**
+# D822 The coming food catastrophe
 1.By invading ukraine, Vladimir Putin will destroy the lives of people far from the battlefield—and on a scale even he may regret. The war is **battering **a global food system weakened by covid-19, climate change and an energy shock. Ukraine’s exports of grain and oilseeds have mostly stopped and Russia’s are threatened. Together, the two countries supply 12% of traded calories. Wheat prices, up 53% since the start of the year, jumped a further 6% on May 16th, after India said it would suspend exports because of an alarming heatwave.
 
 > batter：殴打；猛击

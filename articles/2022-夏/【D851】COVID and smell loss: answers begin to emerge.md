@@ -1,6 +1,8 @@
-# D851 COVID and smell loss: answers begin to emerge
+---
+description: **Researchers are learning more about how the SARS-CoV-2 coronavirus stifles smell — and how they might revive it.**
+---
 
-### **Researchers are learning more about how the SARS-CoV-2 coronavirus stifles smell — and how they might revive it.**
+# D851 COVID and smell loss: answers begin to emerge
 1.Researchers are finally making **headway** in understanding how the SARS-CoV-2 coronavirus causes loss of smell. And a** multitude **of potential treatments to tackle the condition are undergoing clinical trials, including** steroid**s and blood plasma.
 
 > **Make headway**：取得（缓慢的或艰难的）进展to make progress, especially when this is slow or difficult

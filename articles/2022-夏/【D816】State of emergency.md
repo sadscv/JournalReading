@@ -1,6 +1,8 @@
-# D816 State of emergency
+---
+description: **The leadership at last admits to an outbreak of covid-19 within its borders**
+---
 
-### **The leadership at last admits to an outbreak of covid-19 within its borders**
+# D816 State of emergency
 1.For more than two years, North Korea insisted that its border controls had kept covid­19 out of the country even as it devastated most of the rest of the globe. No longer. On May 12th state media said that the country had recorded its first cases of the Omicron variant a few days earlier. Pyongyang was locked down on May 10th.
 
 2.Even for a country accustomed to bad news, the outbreak is disastrous. North Korea’s response to the pandemic was to close itself off from the world, reduce imports to a **trickle** and impose domestic travel restrictions. While other countries rushed to vaccinate their people, North Korea gambled that it could** ride out **the storm. It repeatedly declined offers of vaccines from China, Russia and **covax**, a UN-­backed global effort to supply shots to poor countries. The leadership was reluctant to allow health workers into the country, for fear they might spread the virus or gather information about the **dire** conditions inside the closed dictatorship. It may have been **spook**ed by rumours of doubts about the safety of the vaccine made by **Astra-Zeneca**, offered through covax.

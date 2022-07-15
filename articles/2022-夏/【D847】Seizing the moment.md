@@ -1,6 +1,8 @@
-# D847  Seizing the moment 
+---
+description: **Permanently grabbing Russian assets is a seductive idea. It would also be a mistake **
+---
 
-### **Permanently grabbing Russian assets is a seductive idea. It would also be a mistake **
+# D847  Seizing the moment 
 1.More than 100 days into the war in Ukraine, the biggest sanctions programme ever imposed on a major economy is still being tightened. America and Europe have frozen Russia’s currency reserves held in Western banks. On June 3rd the European Union joined America and Britain in placing a partial embargo on Russia’s oil exports, and also **cut off** Sberbank, its largest lender, from the swift interbank messaging system. A **motley** crew of oligarchs and their** **toys** **have been sanctioned. In Fiji the Amadea, a 100­metre superyacht with a** helipad** and pool, is the subject of Western actions, as are private planes in Dubai and Chelsea football club in England.
 
 > **seductive: **迷人的；有魅力的；性感的

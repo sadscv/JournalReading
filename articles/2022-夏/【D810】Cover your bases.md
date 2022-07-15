@@ -1,6 +1,8 @@
-# D810 Cover your bases
+---
+description: **How America and its allies should respond to China’s search for foreign outposts**
+---
 
-### **How America and its allies should respond to China’s search for foreign outposts**
+# D810 Cover your bases
 1.The united states maintains hundreds of military bases in at least 45 countries. Britain runs plenty of outposts overseas. French forces are stationed from **Ivory Coast **to **New Caledonia**. Even tiny Singapore has training camps abroad. But five years after it opened—to the alarm of Western officials—China’s naval base in** Djibouti**, on the Horn of Africa, remains its only military **bastion **beyond its borders.
 
 > **Ivory Coast：**科特迪瓦

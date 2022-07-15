@@ -1,6 +1,8 @@
-# D812-813 Alibaba and the 40 officials
+---
+description: **Can Chinese big tech learn to love Big Brother?**
+---
 
-### **Can Chinese big tech learn to love Big Brother?**
+# D812-813 Alibaba and the 40 officials
 1.Jack ma, china’s most famous entrepreneur, has not been one to **mince** his words about the role of government and business. At a meeting with corporate leaders in Bali in 2018 he told the audience that it is not the government that makes business and innovation happen. That is the work of entrepreneurs, he insisted: “They have the ideas and dreams.”
 
 > **mince (one's) words **:To speak vaguely or indirectly ; **not mince (your) words**毫不隐讳；直言不讳

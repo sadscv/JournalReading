@@ -1,6 +1,8 @@
-# D814 Behold, the Bottomless Pit Holding Everything Together
+---
+description: **Astronomers have captured the Milky Way’s supermassive, mysterious abyss, 27,000 light-years from Earth.**
+---
 
-### **Astronomers have captured the Milky Way’s supermassive, mysterious abyss, 27,000 light-years from Earth.**
+# D814 Behold, the Bottomless Pit Holding Everything Together
 1 We live in the inner **rim** of one of the Milky Way’s **spiral arm**s, a shimmery curve against inky darkness. Travel for thousands of light-years in one direction, past countless stars, countless planets, and countless moons, and you’d reach the outer edge of the Milky Way, where the last bits of our galaxy give way to the sprawling stillness of the** intergalactic medium**. Travel about the same distance in the other direction, past still more stars and planets and moons, through glittering clouds of dust, and you’ll end up in the heart of the galaxy, at one of the most mysterious landmarks in the universe.
 For the first time in human history, you don’t have to imagine it. Using telescopes powerful enough to stretch our perception across **unfathomable** distances, astronomers have made a cosmic postcard: the first-ever picture of the supermassive black hole at the center of the Milky Way.
 

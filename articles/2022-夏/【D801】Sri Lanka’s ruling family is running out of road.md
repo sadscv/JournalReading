@@ -1,6 +1,8 @@
-# D801 Sri Lanka’s ruling family is running out of road
+---
+description: **The Rajapaksas hang together. Now they are falling apart**
+---
 
-### **The Rajapaksas hang together. Now they are falling apart**
+# D801 Sri Lanka’s ruling family is running out of road
 1 As the sun goes down the numbers swell on **Galle Face Green**, a **promenade** facing the Indian Ocean in downtown Colombo where families and lovers typically come to stroll and fly kites. These days it hosts a more **purposeful **crowd. Families are there, but so are farmers, students and their professors, Buddhist monks, Catholic** nun**s, Muslims and members of Sri Lanka’s **Tamil** minority. A **makeshift **settlement has sprung up. There are **teach-in**s at the “People’s University” and **slapstick **plays for children. The capital’s **classiest choir** has even led a rousing** rendition **of “Do you hear the people sing?”. This is Gota Go Gama: “Gota Go Village”. “Gota” is short for **Gotabaya**. The whole carnival takes aim at the president, the 72-year-old Gotabaya Rajapaksa, and his family: Go, Gota, just go.
 
 > **Galle Face Green:**加勒菲斯格林

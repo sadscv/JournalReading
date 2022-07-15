@@ -1,6 +1,8 @@
-# D824  The meaning of membership
+---
+description: **It shows the flimsiness of Vladimir Putin’s justification for invading Ukraine**
+---
 
-### **It shows the flimsiness of Vladimir Putin’s justification for invading Ukraine**
+# D824  The meaning of membership
 1.For Finland and Sweden to join nato is a **rebuke** to the anti-nato arguments of Russia’s president, Vladimir Putin. Two countries that are proud of their long history of military non-alignment think the risk of **antagonising** their neighbour to the east is outweighed by the security they will gain. It is the direct result of the invasion of Ukraine, which Mr Putin ordered** ostensibly** to **forestall **nato’s expansion.
 
 > **rebuke**：指责；批评

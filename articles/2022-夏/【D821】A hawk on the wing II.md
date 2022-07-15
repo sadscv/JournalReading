@@ -1,5 +1,4 @@
 # D821 A hawk on the wing II
-
 8.In the long run, he says, the West must help Ukraine through a “doctrine of deterrence by denial. So that even without invoking the question of nato membership, Ukraine is being given nato-**compatible** weaponry, training and intelligence sharing of such quality and quantity that no one will ever invade Ukraine again.”
 
 > **deterrence**：威慑；威慑

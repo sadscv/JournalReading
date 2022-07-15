@@ -1,6 +1,8 @@
-# D844 Dervla Murphy let nothing stand in the way of adventure
+---
+description: **Ireland’s best-loved travel writer died on May 22nd, aged 90**
+---
 
-### **Ireland’s best-loved travel writer died on May 22nd, aged 90**
+# D844 Dervla Murphy let nothing stand in the way of adventure
 1 The moment was unforgettable. Dervla Murphy was ten, struggling up a steep hill near Lismore in County Waterford on her second-hand bike, when she looked down at her thin legs slowly pumping and thought that if they just went on doing so, she could get to India. On the same birthday when she had got the bike she had also been given a second-hand **atlas**, so the route was in her head already. Nothing stood in her way at all except two little tiny stretches of water and a mountain range or three.
 
 > **atlas**：地图集；地图册

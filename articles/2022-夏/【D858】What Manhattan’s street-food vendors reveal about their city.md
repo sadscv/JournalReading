@@ -1,6 +1,8 @@
-# D858 What Manhattan’s street-food vendors reveal about their city
+---
+description: **The lessons of a day in Midtown with Sherif Baioumy and his halal cart**
+---
 
-### **The lessons of a day in Midtown with Sherif Baioumy and his halal cart**
+# D858 What Manhattan’s street-food vendors reveal about their city
 1 Sherif baioumy’s morning begins at around 7am in a garage in Queens, where he loads up his cart with the day’s food: **marinated **chicken, a ten-pound **skewer** of ground lamb, rice, vegetables, hot dogs,** falafel**, frozen chips, canned soft drinks and bottled water. A colleague **hitche**s the cart to the back of a pickup truck, and by 9.30 they’ve rolled it into place on the south-west corner of 48th Street and 6th Avenue, in the heart of office-worker Midtown.
 
 > **falafel:**炸豆丸子（中东食品，用鹰嘴豆泥制成，常与面包一起吃）

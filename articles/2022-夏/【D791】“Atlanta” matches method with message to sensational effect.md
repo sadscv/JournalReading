@@ -1,6 +1,8 @@
-# D791 “Atlanta” matches method with message to sensational effect
+---
+description: **The basic template in Donald Glover’s genre-bending drama is the fairy tale**
+---
 
-### **The basic template in Donald Glover’s genre-bending drama is the fairy tale**
+# D791 “Atlanta” matches method with message to sensational effect
 1 As he drives away from a coffee shop, Marshall Johnson (played by Justin Bartha) is trailed by a mysterious turquoise car. It pulls up at his house, he answers the door—and is served with a reparations claim. His ancestors were slave-owners and, amid a rippling restitution push, Marshall’s life unravels. Colleagues frantically take dna tests to prove they are of blameless stock. “I’m Peruvian,” his estranged wife declares. “You were white yesterday,” he replies.
 
 2 Unsettling, funny and deadly serious, episode four in the third and latest season of “Atlanta” is—at least for white viewers—a kind of satirical anxiety dream. Neither Donald Glover, the show’s creator and lead actor, nor its other regular stars appear. These surprises are to be expected. Since it first aired in 2016, “Atlanta” has conducted an escalating experiment in form, even as it crafts an **offbeat** exposé of poverty and racial injustice. The perfect fit between method and message makes it a powerful and original work of art.

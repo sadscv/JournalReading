@@ -1,6 +1,8 @@
-# D848-849 Britain’s real problem 
+---
+description: **It’s not just Boris Johnson. Economic decline has become a chronic British disease**
+---
 
-### **It’s not just Boris Johnson. Economic decline has become a chronic British disease**
+# D848-849 Britain’s real problem 
 1.Conservative mps’ half­-hearted vote to endorse Boris Johnson as prime minister, on June 6th, betrayed how deeply Britain’s ruling party fails to confront hard choices. A defeat for Mr Johnson would have **ushered** in a new government, with a chance to prove itself before the next election. A **resounding** victory would have given him a fresh **mandate** to show that he had put his **transgressions** behind him. The irresolute blow the rebels inﬂicted **leaves** Britain in the hands of a **washed­up **cabinet mouthing **grandiloquent** promises it cannot honour.
 
 > **ushere:**宣告；招待

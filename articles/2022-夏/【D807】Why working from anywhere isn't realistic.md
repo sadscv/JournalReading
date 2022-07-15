@@ -1,6 +1,8 @@
-# D807 Why working from anywhere isn't realistic
+---
+description: **The globe-trotting lifestyle will be open only to a lucky few**
+---
 
-### **The globe-trotting lifestyle will be open only to a lucky few**
+# D807 Why working from anywhere isn't realistic
 1.For most white-collar workers, it used to be very simple. Home was the place you left in order to go to work. The office was almost certainly the place you were heading to. Co-working spaces were for entrepreneurial people in t-shirts who wanted to hang out with other entrepreneurial people in t-shirts. You could stay at a hotel on a work trip but it was not a place to get actual work done, which is why a hotel’s “business centre” defined all of business as using a printer.
 
 2.The pandemic has thrown these neat categories up into the air. Most obviously, home is now also a place of work. According to a recent Gallup survey, three-quarters of American workers whose jobs can be performed remotely expect to spend time doing just that in the future. And offices are increasingly where you go to put the company into company—through collaborative work as well as through social activities.

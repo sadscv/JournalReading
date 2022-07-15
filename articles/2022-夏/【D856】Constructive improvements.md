@@ -1,6 +1,8 @@
-# D856 Constructive improvements 
+---
+description: **The property industry has a huge carbon footprint. Here’s how to reduce it**
+---
 
-### **The property industry has a huge carbon footprint. Here’s how to reduce it**
+# D856 Constructive improvements 
 1.Buildings have a dirty secret: they are among the planet’s worst climate oﬀenders. Heating, cooling and powering existing oﬃces, homes and factories accounts for 27% of global energy­related carbon­dioxide emissions. Constructing new ones involves mountains of steel and colossal amounts of cement, and combined with demolition accounts for another10% of the global CO2 emitted each year. Building debris generates a third of the European Union’s annual waste by weight.
 
 2.What is more, landlords and homeowners, and the construction industry, have a rotten record on climate change.Only a tiny fraction of properties are carbon neutral, and on the current trajectory it will take nearly a century to decarbonise the rest.Asthe world urbanises, a dirty building boom beckons: by one estimate, cities will need to add 13,000 buildings every day until 2050, just to keep up with global population growth.
