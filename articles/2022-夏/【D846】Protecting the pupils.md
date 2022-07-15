@@ -1,4 +1,5 @@
 # D846  Protecting the pupils 
+
 ### **To fight an epidemic of myopia, schools should send their students outside **
 1.Few things come with no **downside**s at all. Rich countries have almost completely banished infectious diseases such as **tuberculosis**, **cholera **and **malaria**. Instead, their health ministries spend much of their time worrying about illnesses caused by wealth. Cheap, **calorie­dense **food has abolished starvation in the rich world, but it also encourages diabetes. **Sedentary**, white-collar jobs are less** arduous** (and less** lethal**) than manual work. They also promote obesity and heart disease.
 

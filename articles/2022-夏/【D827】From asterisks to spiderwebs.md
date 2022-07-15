@@ -1,4 +1,5 @@
 # D827 From asterisks to spiderwebs
+
 ### **The old travel patterns are not coming back. Time for a new approach to public transport**
 1.In Auckland,the largest city in New Zealand, public-­transport fares have been cut in half. In London politicians leave passive-­aggressive notes on civil servants’ desks telling them to turn up for work and** implore** people to start going back to the of­fice. Eric Adams, the mayor of New York, has asked bank bosses to set an example by riding the subway.
 

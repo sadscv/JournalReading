@@ -1,4 +1,5 @@
 # D809 The quantified self
+
 ### **Wearable technology is transforming health care. Do not delay the revolution **
 1.It is a** stealthy** killer. When the heart’s chambers beat out of sync, blood pools and clots may form. **Atrial fibrillation** causes a quarter of more than 100,000 strokes in Britain each year. Most of those would never happen if the heart arrhythmia were treated, but first it has to be found. Tests are costly and inaccurate, but Apple Watches, and soon **Fitbit**s, can detect it, are far cheaper and can save those whose lives are in danger.
 

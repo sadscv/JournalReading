@@ -1,4 +1,5 @@
 # D826  France’s new prime minister First Borne
+
 ### **Macron nods to the left, sort of**
 1.In 2022 it ought to be unremarkable for a woman to be appointed to run a European government. Yet the nomination on May 16th of Elisabeth Borne as prime minister of France was anything but. It is the first time in 30 years that a woman has held the post, and only the second time ever. The previous one, Edith Cresson, appointed by François Mitterrand, did not last a year in the job. As Ms Borne took over from Jean Castex on the evening of her nomination, she dedicated her appointment to “all the little girls” in France, telling them to “follow your dreams”.
 

@@ -1,4 +1,5 @@
 # D839   A new nuclear era 
+
 ### **With his threats to use the bomb, Russia’s president has overturned the nuclear order **
 1. One hundred days ago Vladimir Putin launched his invasion of Ukraine by warning of a nuclear strike. Having **exalted** Russia’s atomic **arsenal** and promised Ukraine’s **subjugation,** he threatened countries tempted to interfere with consequences “such as you have never seen in your entire history”. Russian tv has since **tantalised **viewers with **chit-chat** abou**t Armageddon**.
 

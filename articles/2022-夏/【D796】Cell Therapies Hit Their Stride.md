@@ -1,4 +1,5 @@
 # D796 Cell Therapies Hit Their Stride
+
 1 It's been about half a century since the first transplant of bone marrow from a donor to a recipient was completed. Since then, bone marrow transplantation has become an integral part of care for many patients with persistent leukemia, **lymphoma**, multiple **myeloma** and other blood cancers, as well as noncancerous blood disorders such as **sickle** cell disease. Specifically, we are transplanting stem cells — **nascent** cells with the capacity to mature into functioning blood and immune system cells — from a matched or partially matched donor into the body of a patient whose own blood-forming system has been destroyed with toxic medication to make way for a healthy new system to grow and develop.
 
 > **lymphoma**：淋巴癌

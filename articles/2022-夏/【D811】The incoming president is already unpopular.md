@@ -1,4 +1,5 @@
 # D811 The incoming president is already unpopular
+
 1.For once, the braised shark ﬁn is not the most controversial thing about Yeong Bin Gwan. The grand banquet hall in Seoul, famed for the** dubious** delicacy, is where Yoon Sukyeol, South Korea’s incoming president, will have his** inauguration** on May 10th. The opposition Minjoo party complained that the event’s 3.3bn-won ($2.6m) budget makes it the most expensive inauguration ever. Mr Yoon’s people explained that the venue adds only a **meagre **500,000 **won** to the bill. Still, a Minjoo spokesman said it was **tantamount **to declaring South Korea a country where “the president comes ﬁrst”.
 
 > **dubious**：怀疑；无把握

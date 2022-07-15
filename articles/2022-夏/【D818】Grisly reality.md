@@ -1,4 +1,5 @@
 # D818 Grisly reality
+
 ### **Getting to the bottom of the plunge in America’s stockmarket **
 1.America’s** **bear season, when hikers are advised to stay on their trails and carry** pepper spray**, runs for two months from September. It has come early for investors. The s&p 500 index of leading American stocks has fallen by 18% from its **all-time** high in January, ten percentage points of which was in the past month alone. The index is flirting with bear­market territory, a 20% decline. The nasdaq, a** tech­heavy** benchmark, has plunged well past that level. Since November it has shed 29%.
 

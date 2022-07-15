@@ -1,4 +1,5 @@
 # D812-813 Alibaba and the 40 officials
+
 ### **Can Chinese big tech learn to love Big Brother?**
 1.Jack ma, china’s most famous entrepreneur, has not been one to **mince** his words about the role of government and business. At a meeting with corporate leaders in Bali in 2018 he told the audience that it is not the government that makes business and innovation happen. That is the work of entrepreneurs, he insisted: “They have the ideas and dreams.”
 

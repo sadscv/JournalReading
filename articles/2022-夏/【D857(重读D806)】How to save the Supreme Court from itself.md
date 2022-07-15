@@ -1,4 +1,5 @@
 # D857(重读D806) How to save the Supreme Court from itself
+
 ### **To avoid breaking a precious institution, the nine justices need to restrain themselves**
 1 **hippocrates **condemned abortion; Aristotle thought it less cruel than **exposing **unwanted infants** to the elements**. The West has been arguing about this hard moral problem for over 2,000 years. Most Western democracies have found a compromise between the liberal position, held by this newspaper, that the state should not control women’s bodies; and the most conservative position, that any abortion is murder. In Australia, Britain, Canada, France, Germany and Japan, legislatures have allowed abortion early in pregnancy and made it illegal later. Most Americans agree with that, but their country stands apart.
 

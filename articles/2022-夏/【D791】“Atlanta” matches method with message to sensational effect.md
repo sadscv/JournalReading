@@ -1,4 +1,5 @@
 # D791 “Atlanta” matches method with message to sensational effect
+
 ### **The basic template in Donald Glover’s genre-bending drama is the fairy tale**
 1 As he drives away from a coffee shop, Marshall Johnson (played by Justin Bartha) is trailed by a mysterious turquoise car. It pulls up at his house, he answers the door—and is served with a reparations claim. His ancestors were slave-owners and, amid a rippling restitution push, Marshall’s life unravels. Colleagues frantically take dna tests to prove they are of blameless stock. “I’m Peruvian,” his estranged wife declares. “You were white yesterday,” he replies.
 

@@ -1,4 +1,5 @@
 # D820 A hawk on the wing I
+
 1.“The invasion of Ukraine by Vladimir Putin was a massive punctuation point in post­war history,”says Boris Johnson, the British prime minister. “We are now in a new era.” One sign of this new age came on May 11th, when Mr Johnson travelled first to Sweden and then to Finland to sign “solemn declarations” with the leaders of both countries; in each case the** signatories** affirmed that should either one be attacked, the other would be ready to respond with military aid. Another sign came the next day, when Finland’s leaders announced they favoured joining nato.
 
 > **signatory**: 签署者；签署国

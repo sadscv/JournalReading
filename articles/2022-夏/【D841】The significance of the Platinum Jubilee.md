@@ -1,4 +1,5 @@
 # D841  The significance of the Platinum Jubilee 
+
 ### ** The celebrations are absurd, but the queen represents continuity and consensus **
 1.Her first solo engagement took place in 1942, when she inspected the **Grenadier Guards** at Windsor Castle. More than 21,000 **ribbon-cuttings** and **plaque**-unveilings have followed, along with 200-plus official **portrait**s and over 300,000 congratulatory **telegram**s sent to** centenarian **subjects. From June 2nd to June 5th Britain celebrates another milestone for Queen Elizabeth II: the Platinum Jubilee, to mark her 70 years on the throne.
 

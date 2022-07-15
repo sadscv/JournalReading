@@ -1,4 +1,5 @@
 # D834 Neither black nor white
+
 ### **Sue Gray gives a strikingly patchy account of the Downing Street parties**
 1.On may 25th Sue Gray, a senior civil servant, published a report into gatherings that had taken place in Downing Street during the pandemic. Nine photos are included, depicting two events: a drinks party in November 2020 (shown above) for a departing official, and a gathering in the Cabinet Room in June 2020 to mark the prime minister’s birthday. In parts the images are **pin­sharp**, capturing tins of** lager**, emptied wine glasses and Boris Johnson holding a plastic beaker **aloft**. Much of them are a blur, the identities of Mr Johnson’s fellow partygoers obscured.
 

@@ -1,4 +1,5 @@
 # D803 How rotten is Russia’s army?
+
 ### **Vladimir Putin uses warfare to make up for Russia’s weaknesses. That is why he is so dangerous **
 1.The might of the modern Russian army was supposed to show the world that President Vladimir Putin had restored his country to greatness after the humiliation of the Soviet collapse. Instead, poor progress and heavy losses in Ukraine have exposed deep flaws within Russia. For those threatened by Mr Putin’s aggression, a diminished army is a relief. Unfortunately, it also leaves a nuclear­ armed power with a point to prove.
 

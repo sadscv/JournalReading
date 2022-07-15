@@ -1,4 +1,5 @@
 # D842 How smarter AI will change creativity
+
 ### **Foundation models**
 1.Picture a computer that could finish your sentences, using a better **turn of phrase**; or use a **snatch **of melody to compose music that sounds as if you wrote it (though you never would have); or solve a problem by creating hundreds of lines of computer code—leaving you to focus on something even harder. In a sense, that computer is merely the **descendant** of the** power loom**s and steam engines that** hastened** the Industrial Revolution. But it also belongs to a new class of machine, because it grasps the symbols in language, music and programming and uses them in ways that seem creative. A bit like a human.
 

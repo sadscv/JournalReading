@@ -1,4 +1,5 @@
 # D855 Paula Rego was a painter of rage, longing and loneliness
+
 ### **The Portuguese-British artist died on June 8th, aged 87**
 1 Always obey your man, Paula Rego’s grandmother told her. Never say anything against him. Never **cross** him. Whatever he wants, you do. When, at a party, the 17-year-old art-school student, then still a virgin, met Victor Willing, a rising (and married) star at the Slade School of Fine Art in London, he pushed her into a little side room and instructed her to pull down her knickers. She did as she was told. An only child born into upper-middle-class privilege in a Portugal that was authoritarian, **repressive** and deeply conservative, she was an obedient girl, or so it seemed.
 

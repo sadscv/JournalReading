@@ -1,4 +1,5 @@
 # D789 How Abraham Lincoln financed the civil war
+
 ### **The conflict shaped the economy as well as vice versa**
 1 War can expose a society’s weaknesses, or give expression to its latent potential. This lesson, apt today, applied **in spades** to the American civil war, as a new financial history of the conflict explains. Though Roger Lowenstein, a journalist, surely had no idea that when “Ways and Means” was published, Russia would invade Ukraine, his engaging history nonetheless makes for timely reading.
 

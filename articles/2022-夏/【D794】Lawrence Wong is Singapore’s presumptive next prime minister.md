@@ -1,4 +1,5 @@
 # D794 Lawrence Wong is Singapore’s presumptive next prime minister
+
 ### **The ruling party’s new leader-in-waiting is meant to show its softer side  **
 1 In many respects Lawrence Wong resembles the scholar-statesmen both** epitomise**d and prized by Lee Kuan Yew, Singapore’s founding father. Like Lee, the country’s first prime minister, and his son Lee Hsien Loong, the third and current one, Mr Wong did a **stint** at Harvard, earning a masters in public administration. He then climbed the ranks of the civil service, ending up as principal private secretary to Lee the younger. As a politician, his ministerial portfolios have included education and national development. He is currently the finance minister and **co-chair **of the government’s covid-19 task force. Although Singapore is a **multiracial **country, Mr Wong is an ethnic-Chinese man, like all previous heads of government.
 

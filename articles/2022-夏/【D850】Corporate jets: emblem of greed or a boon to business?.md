@@ -1,4 +1,5 @@
 # D850 Corporate jets: emblem of greed or a boon to business?
+
 ### **The planes are a shortcut for testing someone’s gut instincts on management**
 1 The original Rorschach test involves showing a series of ten **inkblots** to someone, and asking them what images they see. Although the test’s psychological validity is debatable, no one can dispute its wild success as a metaphor: a single object can mean very different things to different people. In business a prime example of Rorschachiness is the corporate jet. Depending on your perspective, it can signal untrammelled greed, rational decision-making, post-pandemic work habits or the fight against climate change.
 

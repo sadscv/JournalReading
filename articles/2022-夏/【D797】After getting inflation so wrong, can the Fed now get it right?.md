@@ -1,4 +1,5 @@
 # D797 After getting inflation so wrong, can the Fed now get it right?
+
 ### **The hawks are taking flight**
 1 It was a simple, stunning admission. “We have had price stability for a very long time and maybe come to take it for granted,” said Jerome Powell, chairman of the Federal Reserve, last month. Many factors explain the latest burst in inflation, with **snarled **supply chains, tight job markets, generous fiscal stimulus, loose monetary policy and, more recently, the war in Ukraine all part of the fabric. But one thread runs through them all. Investors, analysts and, crucially, central bankers believed that high inflation in America had been **consigned to **history, a problem more for academic studies than for current policy.
 

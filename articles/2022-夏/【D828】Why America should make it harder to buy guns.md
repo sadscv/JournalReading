@@ -1,4 +1,5 @@
 # D828 Why America should make it harder to buy guns
+
 ### **Perhaps make it a bit harder to buy one?  In many states, it is easier to own a gun than a dog. That is absurd**
 1.The motives for mass murder vary. The teenager in Buffalo who on May 14th shot and killed ten people, most of them black, was driven by racial **paranoia**. The 68-year-old who killed one and injured five on May 16th in a Californian church hated X people. What** impell**ed Salvador Ramos to kill at least 21 on May 24th in and around a school in Texas may someday become apparent, though Mr Ramos is no longer alive to explain himself.
 

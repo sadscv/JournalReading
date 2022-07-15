@@ -1,4 +1,5 @@
 # D816 State of emergency
+
 ### **The leadership at last admits to an outbreak of covid-19 within its borders**
 1.For more than two years, North Korea insisted that its border controls had kept covid­19 out of the country even as it devastated most of the rest of the globe. No longer. On May 12th state media said that the country had recorded its first cases of the Omicron variant a few days earlier. Pyongyang was locked down on May 10th.
 

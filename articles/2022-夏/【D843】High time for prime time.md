@@ -1,4 +1,5 @@
 # D843 High time for prime time 
+
 ### **Why America’s probe into the attempted coup last year is needed, before it’s too late**
 1. The essence of what happened on January 6th 2021 is wellknown, if still shocking to recall. A mob stormed the Capitol in Washington, dc, in an effort to prevent Congress from certifying Joe Biden’s election victory. Four people in the crowd died that day, and five police officers in its **aftermath**. Members of Congress had to be rushed to a secure location in a basement.** Rioter**s **erected** a mock **gallow**s and **chanted** “Hang Mike Pence”. And the man who inspired all this was the president himself, who had urged his followers to help overturn his election defeat. As the Republicans’ leader in the Senate, Mitch McConnell, told the Senate a few weeks later, Donald Trump was “practically and morally responsible” for these events: “The people who stormed this building believed they were acting on the wishes and instructions of their president.”
 

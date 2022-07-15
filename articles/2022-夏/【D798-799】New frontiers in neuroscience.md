@@ -1,4 +1,5 @@
 # D798-799 New frontiers in neuroscience
+
 ### **Recent discoveries about the biological underpinnings of human behavior are helping psychologists find new ways to improve people’s lives**
 1 Understanding human behavior is the **crux **of psychologists’ work and neuroscience is part of that understanding. To better grasp the mental processes that **undergird **thoughts, emotions, and behaviors, psychologists have long worked together with the neuroscientists who study the structure and processes of the brain and nervous system. Psychology and neuroscience overlap now more than ever as technology advances, which means psychologists have more opportunities to improve people’s lives by understanding how nervous system activity drives complex thoughts and behaviors linked to mental health treatment and prevention. Neuroscientists, too, can learn more about their field through the work of psychologists.
 

@@ -1,4 +1,5 @@
 # D823 Does Quantum Mechanics Rule Out Free Will?
+
 ### **Superdeterminism, a radical quantum hypothesis, says our “choices” are illusory**
 1.A **conjecture **called superdeterminism, outlined decades ago, is a response to several peculiarities of quantum mechanics: the apparent randomness of quantum events; their apparent dependence on human observation, or measurement; and the apparent ability of a measurement in one place to determine, instantly, the outcome of a measurement elsewhere, an effect called **nonlocality**.
 

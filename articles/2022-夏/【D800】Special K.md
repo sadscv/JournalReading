@@ -1,4 +1,5 @@
 # D800 Special K
+
 ### **More American clinics are offering ketamine to treat depression. Is this good?**
 1.SAT NEXT to a nursery on an industrial estate in Naperville, a suburban city on the outskirts of Chicago, the Ketamine Wellness Centres (kwc) clinic does not look like anything revolutionary. Inside, a television plays videos of landscapes with calming music; tubs of sweets sit on a coffee table. The clinic is one of several in the region, and of over 100 across America, where patients are injected with ketamine to treat persistent pain or depression.
 

@@ -1,4 +1,5 @@
 # D819 Bearing up
+
 ### **Why Russia is on track for a record trade surplus **
 1.Within days of Vladimir Putin’s invasion of Ukraine, Russia’s financial system seemed on the **verge** of collapse. The West imposed a range of financial sanctions, notably on the Russian central bank’s foreign­ exchange reserves, that sent the** rouble** plunging and led citizens to withdraw cash **frantically.** Then the central bank raised interest rates, imposed capital controls and injected** liquidity** into the banking system, and some of these misfortunes reversed. Although a chunk of Russia’s currency reserves remains frozen, the country still generates about $1bn a day from its energy exports.
 

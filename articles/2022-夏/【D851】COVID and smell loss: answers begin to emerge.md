@@ -1,4 +1,5 @@
 # D851 COVID and smell loss: answers begin to emerge
+
 ### **Researchers are learning more about how the SARS-CoV-2 coronavirus stifles smell — and how they might revive it.**
 1.Researchers are finally making **headway** in understanding how the SARS-CoV-2 coronavirus causes loss of smell. And a** multitude **of potential treatments to tackle the condition are undergoing clinical trials, including** steroid**s and blood plasma.
 

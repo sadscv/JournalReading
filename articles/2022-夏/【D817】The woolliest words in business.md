@@ -1,4 +1,5 @@
 # D817 The woolliest words in business
+
 ### **Innovation. Sustainability. Purpose. Yuck**
 1.Fire-fighting foam starves the flames of oxygen. A handful of overused words have the same **deadening** effect on people’s ability to think. These are words like “innovation”, “collaboration”, “flexibility”, “purpose” and “sustainability”. They coat consultants’ websites, blanket candidates’ cvs and spray from managers’ mouths. They are **anodyne** to the point of being useless.
 

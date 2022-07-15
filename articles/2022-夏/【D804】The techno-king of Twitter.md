@@ -1,4 +1,5 @@
 # D804 The techno-king of Twitter
+
 ### **The world’s best-known engineer takes on the problem of free speech. We hope he succeeds.**
 1. Sweeping statements about the future of humanity do not usually feature in discussions about **leveraged buy­out**s. But Elon Musk has never felt bound by convention. Asked about his plans to buy Twitter, a social network, and take it private— which were approved by the firm's board on April 25th—he went straight for the big idea. “My strong intuitive sense is that having a public platform that is maximally trusted and broadly inclusive is extremely important to the future of civilisation. I don’t care about the economics at all.”
 

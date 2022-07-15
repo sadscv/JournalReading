@@ -1,4 +1,5 @@
 # D825  Comic relief
+
 ### **Doctors and therapists are using comic books to spread awareness of conditions and help patients express themselves**
 1.The class begins with the following assignment: draw a four-**panel** comic strip about your day. In five minutes the pupils—among them writers, artists, stay-at-home mothers, a graduate student and a cinema manager—produce **lighthearted** yet touching sketches about play dates, tedious chores and a** quizzical** chicken.
 

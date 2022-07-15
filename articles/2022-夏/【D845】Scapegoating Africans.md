@@ -1,4 +1,5 @@
 # D845  Scapegoating Africans 
+
 ### **South Africans should not blame immigrants for their country’s failings **
 1. In 1995, a year after becoming South Africa’s first black president, Nelson Mandela gave a speech in **Alexandra**, a **township** in **Johannesburg**. “It saddens and angers me to see the rising hatred of foreigners,” he said, **chastising **residents for destroying migrants’ homes. “We cannot blame other people for our troubles.” Under Mandela, the African National Congress (anc), many of whose **fugitive** leaders had been sheltered by other African countries during apartheid, **took in **Africans fleeing wars in Congo, Somalia and elsewhere. The new government also made it easier for Africans to work and settle in South Africa.
 
