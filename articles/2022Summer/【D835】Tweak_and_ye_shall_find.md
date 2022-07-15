@@ -12,7 +12,7 @@ description: A new law allows the cultivation and sale of gene-edited crops. Goo
 > **Norwich：**诺里奇(英格兰东部Norfolk郡之首府)
  > 
 
-2.This fruit was produced in a laboratory; no British farmer could grow it today. A **European Court of Justice** (ecj) ruling in 2018 made it all but impossible to grow gene­-edited crops commercially across Europe, including in Britain. Even running research trials became **burdensome**. The ruling thereby treated gene­editing, which works by tweaking dna that is already there, in the same way as early** genetic modification** (gm)techniques, which work by adding external dna, often from different species, to a crop.
+2.This fruit was produced in a laboratory; no British farmer could grow it today. A **European Court of Justice** (ecj) ruling in 2018 made it all but impossible to grow gene­-edited crops commercially across Europe, including in Britain. Even running research trials became **burdensome**. The ruling thereby treated gene­editing, which works by tweaking dna that is already there, in the same way as early **genetic modification** (gm)techniques, which work by adding external dna, often from different species, to a crop.
 
 > **burdensome**：累赘的；难以负担的；劳累的
  > 
@@ -25,7 +25,7 @@ description: A new law allows the cultivation and sale of gene-edited crops. Goo
 
 4.That could be a boon for farmers, for consumers and for Britain. As well as producing nutrient­enriched foods, geneediting can increase yields, reduce the amount of insecticides and fertiliser that crops need, and produce more climate-­tolerant crops.
 
-5.The criticisms of gene­editing are **flimsy**. There is no evidence that the technique is unsafe (two decades of research on genetically modified crops have demonstrated their safety, too). Unintended side-effects are more likely to occur with conventional plant­breeding methods, which **irradiate** seeds to generate random mutations. The worry that businesses will be able to patent gene­edited crops, making farmers **beholden to **big agricultural companies, is also unfounded. Farmers already plant patented, “hybrid” crops, which are produced by **cross-­pollinating** different plant varieties; most seem happy to do so because of the yield benefits they offer.
+5.The criticisms of gene­editing are **flimsy**. There is no evidence that the technique is unsafe (two decades of research on genetically modified crops have demonstrated their safety, too). Unintended side-effects are more likely to occur with conventional plant­breeding methods, which **irradiate** seeds to generate random mutations. The worry that businesses will be able to patent gene­edited crops, making farmers **beholden to** big agricultural companies, is also unfounded. Farmers already plant patented, “hybrid” crops, which are produced by **cross-­pollinating** different plant varieties; most seem happy to do so because of the yield benefits they offer.
 
 > **flimsy**：劣质的；不结实的；不足信的
  > 
@@ -57,10 +57,10 @@ description: A new law allows the cultivation and sale of gene-edited crops. Goo
 
 9.An outcome­based system would treat all crops the same, regardless of how they were created, and assess the safety of the final product. Such an approach would result in a regulatory system that works for future technologies, and also allow the production of all types of genetically modified crops, not just gene­edited ones. The government, in promising its gm “review”, has hinted that it may indeed move in this direction. But it is moving slowly, perhaps because of negative public perceptions.
 
-10.Those perceptions are the greatest challenge that gene­edited produce will face. Around a third of British adults think that gene­edited food is unsafe to eat; 31% say they are not sure. This resistance stems from decades of **scaremongering** about gm foods, along with a lack of awareness about gene­editing’s advantages. If the public see benefits such as lower prices or healthier fruits, they may come to embrace the technology. So Professor Napier says the **onus **is now on researchers to step up. “If you’ve been saying, ‘What’s blockading us from delivering all these innovations and useful stuff is the regulatory burden’, [and] if that regulatory burden has been removed, where’s this flood of great stuff?”
+10.Those perceptions are the greatest challenge that gene­edited produce will face. Around a third of British adults think that gene­edited food is unsafe to eat; 31% say they are not sure. This resistance stems from decades of **scaremongering** about gm foods, along with a lack of awareness about gene­editing’s advantages. If the public see benefits such as lower prices or healthier fruits, they may come to embrace the technology. So Professor Napier says the **onus** is now on researchers to step up. “If you’ve been saying, ‘What’s blockading us from delivering all these innovations and useful stuff is the regulatory burden’, [and] if that regulatory burden has been removed, where’s this flood of great stuff?”
 
 > **scaremongering**：危言耸听；阻吓的行为或宣示
  > 
-> **onus **：职责；责任
+> **onus** ：职责；责任
  > 
 

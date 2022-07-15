@@ -3,15 +3,15 @@ description: The old travel patterns are not coming back. Time for a new approac
 ---
 
 # D827 From asterisks to spiderwebs
-1.In Auckland,the largest city in New Zealand, public-­transport fares have been cut in half. In London politicians leave passive-­aggressive notes on civil servants’ desks telling them to turn up for work and** implore** people to start going back to the of­fice. Eric Adams, the mayor of New York, has asked bank bosses to set an example by riding the subway.
+1.In Auckland,the largest city in New Zealand, public-­transport fares have been cut in half. In London politicians leave passive-­aggressive notes on civil servants’ desks telling them to turn up for work and **implore** people to start going back to the of­fice. Eric Adams, the mayor of New York, has asked bank bosses to set an example by riding the subway.
 
 > **fare**：费用；车票；运费
  > 
-> **implore: **恳求；哀求
+> **implore:** 恳求；哀求
  > 
 
 2.None of it seems to be working. The subway is only two-thirds as busy as it was before covid­19. Auckland’s bus system was half as busy in April as it was three years earlier. Despite fears of “**carmageddon**”, people have not **swapped** public transport for the private kind. They are simply moving around less (see Britain section).
-**carmageddon**:** **A state of extreme traffic congestion
+**carmageddon**: A state of extreme traffic congestion
 
 > **swap**： 交换；替换
  > 
@@ -28,7 +28,7 @@ description: The old travel patterns are not coming back. Time for a new approac
 > **spoke**：轮辐；辐条
  > 
 
-5.Now that people travel less predictably, there is a stronger case for innovations such as on­demand buses and “mobility as a service”, which weaves together public transport and personal modes such as taxis and hired bikes. These make better use of the existing infrastructure, and come closer to the convenience of cars. Antwerp, **Genoa** and **Helsinki **lead in this area. British cities need to do something more basic, by integrating their public-­transport networks. Outside London, they tend to have a **clutch** of bus companies, some railway lines and perhaps a** tram** system, all doing their own thing. The result is confusion and often greater cost for the public.
+5.Now that people travel less predictably, there is a stronger case for innovations such as on­demand buses and “mobility as a service”, which weaves together public transport and personal modes such as taxis and hired bikes. These make better use of the existing infrastructure, and come closer to the convenience of cars. Antwerp, **Genoa** and **Helsinki** lead in this area. British cities need to do something more basic, by integrating their public-­transport networks. Outside London, they tend to have a **clutch** of bus companies, some railway lines and perhaps a **tram** system, all doing their own thing. The result is confusion and often greater cost for the public.
 
 > **A clutch of**：一组/群
  > 
@@ -48,7 +48,7 @@ description: The old travel patterns are not coming back. Time for a new approac
 > **dug**：“dig”的过去式
  > 
 
-7.For the time being, governments will have to **shell out** to keep public-­transport systems from collapsing. But another source of money will eventually have to be found to replace lost fare revenue. The best one is** road pricing**. Countries should stop holding referendums on congestion­-charging schemes and get on with creating them. They would also be wise not to **muddy the waters** by** exempting electric vehicles from the charge**. Road pricing ought to be primarily for managing demand and raising money for public transport. Other levers—regulations, subsidies and fuel duty— can be used to get people out of the most polluting vehicles.
+7.For the time being, governments will have to **shell out** to keep public-­transport systems from collapsing. But another source of money will eventually have to be found to replace lost fare revenue. The best one is **road pricing**. Countries should stop holding referendums on congestion­-charging schemes and get on with creating them. They would also be wise not to **muddy the waters** by **exempting electric vehicles from the charge**. Road pricing ought to be primarily for managing demand and raising money for public transport. Other levers—regulations, subsidies and fuel duty— can be used to get people out of the most polluting vehicles.
 
 > **for the time being**：临时；在目前
  > 
@@ -59,8 +59,8 @@ description: The old travel patterns are not coming back. Time for a new approac
 > **muddy the water**：把水搅浑；把事情弄糟
  > 
 
-8. The transition from asterisks to spiderwebs will be difficult. Everybody from **motorists **to transport unions will complain. But at least a couple of things have become easier. Because so many people have learned to work from home, engineers should not fear to work on roads or railways between Monday and Friday, rather than disrupting a string of weekends. And any transport union that threatens to strike is welcome to try. The days when unions could paralyse cities by shutting down public transport are over. Along with much else.
+8. The transition from asterisks to spiderwebs will be difficult. Everybody from **motorists** to transport unions will complain. But at least a couple of things have become easier. Because so many people have learned to work from home, engineers should not fear to work on roads or railways between Monday and Friday, rather than disrupting a string of weekends. And any transport union that threatens to strike is welcome to try. The days when unions could paralyse cities by shutting down public transport are over. Along with much else.
 
-> **motorist **:汽车驾驶员
+> **motorist** :汽车驾驶员
  > 
 

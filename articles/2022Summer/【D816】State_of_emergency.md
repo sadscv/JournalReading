@@ -5,7 +5,7 @@ description: The leadership at last admits to an outbreak of covid-19 within its
 # D816 State of emergency
 1.For more than two years, North Korea insisted that its border controls had kept covid­19 out of the country even as it devastated most of the rest of the globe. No longer. On May 12th state media said that the country had recorded its first cases of the Omicron variant a few days earlier. Pyongyang was locked down on May 10th.
 
-2.Even for a country accustomed to bad news, the outbreak is disastrous. North Korea’s response to the pandemic was to close itself off from the world, reduce imports to a **trickle** and impose domestic travel restrictions. While other countries rushed to vaccinate their people, North Korea gambled that it could** ride out **the storm. It repeatedly declined offers of vaccines from China, Russia and **covax**, a UN-­backed global effort to supply shots to poor countries. The leadership was reluctant to allow health workers into the country, for fear they might spread the virus or gather information about the **dire** conditions inside the closed dictatorship. It may have been **spook**ed by rumours of doubts about the safety of the vaccine made by **Astra-Zeneca**, offered through covax.
+2.Even for a country accustomed to bad news, the outbreak is disastrous. North Korea’s response to the pandemic was to close itself off from the world, reduce imports to a **trickle** and impose domestic travel restrictions. While other countries rushed to vaccinate their people, North Korea gambled that it could **ride out** the storm. It repeatedly declined offers of vaccines from China, Russia and **covax**, a UN-­backed global effort to supply shots to poor countries. The leadership was reluctant to allow health workers into the country, for fear they might spread the virus or gather information about the **dire** conditions inside the closed dictatorship. It may have been **spook**ed by rumours of doubts about the safety of the vaccine made by **Astra-Zeneca**, offered through covax.
 
 > **trickle:**细流；涓流
  > 
@@ -20,7 +20,7 @@ description: The leadership at last admits to an outbreak of covid-19 within its
 > **Astra-Zeneca:**阿斯利康
  > 
 
-3.Whatever the reasons for the vaccine hesitancy, the approach always looked dubious. There was no guarantee that the virus would evolve to be less dangerous over time, rather than become more infectious and harder to manage, as turned out to be the case. China’s pursuit of a zero-­covid strategy was designed to buy time while it vaccinated its population. Though the North Korean leadership blamed those tasked with keeping the virus out for their “carelessness, **laxity**, irresponsibility and incompetence”, the real** folly** was the leadership’s failure to set up a vaccination programme in the time it had bought.
+3.Whatever the reasons for the vaccine hesitancy, the approach always looked dubious. There was no guarantee that the virus would evolve to be less dangerous over time, rather than become more infectious and harder to manage, as turned out to be the case. China’s pursuit of a zero-­covid strategy was designed to buy time while it vaccinated its population. Though the North Korean leadership blamed those tasked with keeping the virus out for their “carelessness, **laxity**, irresponsibility and incompetence”, the real **folly** was the leadership’s failure to set up a vaccination programme in the time it had bought.
 
 > **laxity:**松弛；粗心
  > 

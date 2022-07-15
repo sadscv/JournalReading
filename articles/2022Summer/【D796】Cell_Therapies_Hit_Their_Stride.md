@@ -12,9 +12,9 @@
 
 2 In recent years, however, our field has expanded to include other treatments that work in similar ways as bone marrow transplantation. They are collectively known as "cellular therapies" because they do one of three things: provide healthy new cells to replace diseased cells, release an influx of specially modified immune cells to teach the body's immune cells how to fight disease, or provide cells that connect immune cells with cancer cells they are designed to kill. Study after study has demonstrated how these approaches are extending patients' lives. This progression of therapies is reflected in bone marrow transplant services around the country, many of which — including our own at Hackensack University Medical Center — now include the words "cellular therapy" in their names.
 
-3 It is an exciting time for those of us in the stem cell transplantation and cellular therapy field. For years, we have concentrated on improving the outcomes of stem cell transplants. We have significantly improved techniques to reduce the risk of** graft-versus-host** disease, a potentially serious complication of transplantation that occurs when immune cells from the donor identify the tissues of the recipient as foreign and attack them, causing a host of inflammatory symptoms. We have learned which medications to give to prevent post-transplant infections such as cytomegalovirus, a common virus that can be damaging in people with compromised immune systems. We are using stem cells from umbilical cord blood to perform more transplants in adult patients. And we have matched more patients with donors by learning how to perform "**haploidentical**" transplants, where the patient receives a transplant from someone who is partially matched immunologically. These advances are making stem cell transplantation a safer and more effective treatment option for more patients who need them.
+3 It is an exciting time for those of us in the stem cell transplantation and cellular therapy field. For years, we have concentrated on improving the outcomes of stem cell transplants. We have significantly improved techniques to reduce the risk of **graft-versus-host** disease, a potentially serious complication of transplantation that occurs when immune cells from the donor identify the tissues of the recipient as foreign and attack them, causing a host of inflammatory symptoms. We have learned which medications to give to prevent post-transplant infections such as cytomegalovirus, a common virus that can be damaging in people with compromised immune systems. We are using stem cells from umbilical cord blood to perform more transplants in adult patients. And we have matched more patients with donors by learning how to perform "**haploidentical**" transplants, where the patient receives a transplant from someone who is partially matched immunologically. These advances are making stem cell transplantation a safer and more effective treatment option for more patients who need them.
 
-> ** graft-versus-host**：移植物抗宿主病
+> **graft-versus-host**：移植物抗宿主病
  > 
 > **haploidentical**：半相和的
  > 
@@ -29,9 +29,9 @@ With CAR T-cell therapy, immune cells called T cells are removed from the patien
 > **intravenously**:静脉注射地
  > 
 
-5 CAR T-cell therapies are typically administered in bone marrow transplantation units, and for good reason: Patients receive chemotherapy beforehand, which reduces the immune response. The treatment itself can cause** immunologic **side effects which, albeit temporary, can be severe — including high fever, body aches and chills. The administration of CAR T-cell therapies requires round-the-clock care from a specially trained and** credentialed** team. As bone marrow transplant specialists, our experience and knowledge of **immunology** enable us to recognize and manage the inflammatory **complications** that may result.
+5 CAR T-cell therapies are typically administered in bone marrow transplantation units, and for good reason: Patients receive chemotherapy beforehand, which reduces the immune response. The treatment itself can cause **immunologic** side effects which, albeit temporary, can be severe — including high fever, body aches and chills. The administration of CAR T-cell therapies requires round-the-clock care from a specially trained and **credentialed** team. As bone marrow transplant specialists, our experience and knowledge of **immunology** enable us to recognize and manage the inflammatory **complications** that may result.
 
-> **immunologic **： 免疫性
+> **immunologic** ： 免疫性
  > 
 > **credentialed**：〈罕〉信任的
  > 
@@ -40,7 +40,7 @@ With CAR T-cell therapy, immune cells called T cells are removed from the patien
 > Commplication: 并发症
  > 
 
-6 Current CAR T-cell therapies are FDA-approved for the treatment of recurrent or persistent diffuse B-cell** lymphoma**, **follicular lymphoma**, multiple myeloma and **mantle cell lymphoma** (which is a very aggressive and challenging cancer) in adults, as well as acute **lymphoblastic leukemia** in children and young adults up to age 25. We are intrigued by other innovative cellular therapies under study in clinical trials, such as** natural killer (NK) cell**s and **tumor-infiltrating lymphocytes** (TILs). These treatments are made from a patient's own tumor tissue, so it has already been exposed to the patient's own immune system. Immune cells within a tumor, which on their own were unable to kill the cancer, are isolated from tumor tissue removed during surgery, modified and multiplied in a lab, and returned to the patient with other medications to boost the immune response against cancer.
+6 Current CAR T-cell therapies are FDA-approved for the treatment of recurrent or persistent diffuse B-cell **lymphoma**, **follicular lymphoma**, multiple myeloma and **mantle cell lymphoma** (which is a very aggressive and challenging cancer) in adults, as well as acute **lymphoblastic leukemia** in children and young adults up to age 25. We are intrigued by other innovative cellular therapies under study in clinical trials, such as **natural killer (NK) cell**s and **tumor-infiltrating lymphocytes** (TILs). These treatments are made from a patient's own tumor tissue, so it has already been exposed to the patient's own immune system. Immune cells within a tumor, which on their own were unable to kill the cancer, are isolated from tumor tissue removed during surgery, modified and multiplied in a lab, and returned to the patient with other medications to boost the immune response against cancer.
 
 > **lymphoma**：淋巴癌
  > 
@@ -55,7 +55,7 @@ With CAR T-cell therapy, immune cells called T cells are removed from the patien
 > **tumor-infiltrating lymphocytes**：肿瘤浸润性淋巴细胞
  > 
 
-7 Not only is the technology getting better, but the types of tumors we are treating is broadening. New CAR T-cell therapies, NK and TIL treatments, and another approach that combines CAR T-cell and NK therapies may broaden the application of these "living therapies" to patients with** solid tumor**s, including **melanoma**, breast cancer and **pancreatic cancer.** We're also looking at combining cellular immunotherapies with stem cell transplantation to augment the anticancer immune response even further.
+7 Not only is the technology getting better, but the types of tumors we are treating is broadening. New CAR T-cell therapies, NK and TIL treatments, and another approach that combines CAR T-cell and NK therapies may broaden the application of these "living therapies" to patients with **solid tumor**s, including **melanoma**, breast cancer and **pancreatic cancer.** We're also looking at combining cellular immunotherapies with stem cell transplantation to augment the anticancer immune response even further.
 
 > **melanoma**：黑色素瘤
  > 
@@ -64,11 +64,11 @@ With CAR T-cell therapy, immune cells called T cells are removed from the patien
 > **solid tumor**：实体肿瘤；固态瘤
  > 
 
-8 Cellular therapies are truly game-changers in cancer care. It has been inspirational for us as bone marrow transplant professionals to be part of their development. What we're witnessing now is just the tip of the iceberg. We're only getting better at identifying the best immune cells and engineering them in the best fashion to harness the immune system in the most effective way. Discovery is** exponential **and the field of immunotherapy is growing at **warp speed**. It's not impossible to think that we're going to be curing cancer.
+8 Cellular therapies are truly game-changers in cancer care. It has been inspirational for us as bone marrow transplant professionals to be part of their development. What we're witnessing now is just the tip of the iceberg. We're only getting better at identifying the best immune cells and engineering them in the best fashion to harness the immune system in the most effective way. Discovery is **exponential** and the field of immunotherapy is growing at **warp speed**. It's not impossible to think that we're going to be curing cancer.
 
 > **harness** ：控制；利用
  > 
-> **exponential **：越来越快的
+> **exponential** ：越来越快的
  > 
 > **warp speed**：极高速
  > 

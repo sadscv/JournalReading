@@ -1,5 +1,5 @@
 # D811 The incoming president is already unpopular
-1.For once, the braised shark ﬁn is not the most controversial thing about Yeong Bin Gwan. The grand banquet hall in Seoul, famed for the** dubious** delicacy, is where Yoon Sukyeol, South Korea’s incoming president, will have his** inauguration** on May 10th. The opposition Minjoo party complained that the event’s 3.3bn-won ($2.6m) budget makes it the most expensive inauguration ever. Mr Yoon’s people explained that the venue adds only a **meagre **500,000 **won** to the bill. Still, a Minjoo spokesman said it was **tantamount **to declaring South Korea a country where “the president comes ﬁrst”.
+1.For once, the braised shark ﬁn is not the most controversial thing about Yeong Bin Gwan. The grand banquet hall in Seoul, famed for the **dubious** delicacy, is where Yoon Sukyeol, South Korea’s incoming president, will have his **inauguration** on May 10th. The opposition Minjoo party complained that the event’s 3.3bn-won ($2.6m) budget makes it the most expensive inauguration ever. Mr Yoon’s people explained that the venue adds only a **meagre** 500,000 **won** to the bill. Still, a Minjoo spokesman said it was **tantamount** to declaring South Korea a country where “the president comes ﬁrst”.
 
 > **dubious**：怀疑；无把握
  > 
@@ -12,14 +12,14 @@
 > **tantamount ：**与…相等的；等价的
  > 
 
-2.Petty** point-scoring** is not new to South Korean politics. High oﬃce attracts **forensic **scrutiny. It will soon become routine for Mr Yoon. Shark ﬁn or not, he will have a lot on his plate after inauguration day. He must tackle many problems, including **astronomical** housing costs and the frustrations of young people who are well educated but underemployed. Mr Yoon has also promised structural reforms in several areas, including welfare, corporate regulation and criminal justice. Even the executive branch is to be transformed: it will be come an institution, his oﬃce has said, that “has autonomy, communicates and takes responsibility”.
+2.Petty **point-scoring** is not new to South Korean politics. High oﬃce attracts **forensic** scrutiny. It will soon become routine for Mr Yoon. Shark ﬁn or not, he will have a lot on his plate after inauguration day. He must tackle many problems, including **astronomical** housing costs and the frustrations of young people who are well educated but underemployed. Mr Yoon has also promised structural reforms in several areas, including welfare, corporate regulation and criminal justice. Even the executive branch is to be transformed: it will be come an institution, his oﬃce has said, that “has autonomy, communicates and takes responsibility”.
 
 > **forensic：**法庭的
  > 
 > **astronomical**：庞大的；天文数字的
  > 
 
-3.And that is just at home. My Yoon must also deal with a dangerous world. He hopes to draw closer to America, but also wants to avoid** antagonising** China, his country’s largest trading partner. He has promised a **harder line **on North Korea, which has been increasingly **bellicose** in recent months, launching yet another missile on May 4th, just days before the inauguration.
+3.And that is just at home. My Yoon must also deal with a dangerous world. He hopes to draw closer to America, but also wants to avoid **antagonising** China, his country’s largest trading partner. He has promised a **harder line** on North Korea, which has been increasingly **bellicose** in recent months, launching yet another missile on May 4th, just days before the inauguration.
 
 > **antagonising**：引起…敌对
  > 
@@ -28,7 +28,7 @@
 > **bellicose：**好争辩的；好斗的
  > 
 
-4.Such **Herculean** ambitions would be challenging for the most experienced and popular of leaders. Mr Yoon is neither. In 2016 his role in the impeachment of Park Geunhye, a disgraced former president, on corruption charges earned him a promotion to chief prosecutor under Moon Jaein, her successor. In that job Mr Yoon** zealously** pursued ﬁgures in Mr Moon’s government, bolstering his own anticorruption credentials. But he entered politics only when he announced his candidacy for president in June last year.
+4.Such **Herculean** ambitions would be challenging for the most experienced and popular of leaders. Mr Yoon is neither. In 2016 his role in the impeachment of Park Geunhye, a disgraced former president, on corruption charges earned him a promotion to chief prosecutor under Moon Jaein, her successor. In that job Mr Yoon **zealously** pursued ﬁgures in Mr Moon’s government, bolstering his own anticorruption credentials. But he entered politics only when he announced his candidacy for president in June last year.
 
 > **Herculean**：费力的；需要决心的；艰巨的
  > 

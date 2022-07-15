@@ -8,7 +8,7 @@ description: Macron nods to the left, sort of
 > **anything but** (=not at all,by no means,never)表示“决不，根本不”
  > 
 
-2.Such **folksy** **utterances **are atypical** **of Ms Borne. An engineer by training, and a career **technocrat**, the 61-­year-­old is better known as a no-­nonsense details person who gets on with the job. Ahead of France’s parliamentary elections on June 12th and 19th, her immediate task will be to help win another majority for the centrist grouping led by President Emmanuel Macron, and to draw up plans to ease the soaring cost of living. An even trickier challenge will be to negotiate the pension reform that Mr Macron has promised for his second term, including a controversial rise in the **pension age** from 62 to 64 or 65.
+2.Such **folksy** **utterances** are **atypical** of Ms Borne. An engineer by training, and a career **technocrat**, the 61-­year-­old is better known as a no-­nonsense details person who gets on with the job. Ahead of France’s parliamentary elections on June 12th and 19th, her immediate task will be to help win another majority for the centrist grouping led by President Emmanuel Macron, and to draw up plans to ease the soaring cost of living. An even trickier challenge will be to negotiate the pension reform that Mr Macron has promised for his second term, including a controversial rise in the **pension age** from 62 to 64 or 65.
 
 > **folksy**：友好的；无拘束的；亲民的
  > 
@@ -21,9 +21,9 @@ description: Macron nods to the left, sort of
 > **pension age：**退休金年龄
  > 
 
-3.Mr Macron has put her in the job in part because Ms Borne has shown that she can be an efficient negotiator. In a previous post as his transport minister, and as a former head of the Paris metro, she brought in a reform of the** sncf **national railways that included opening passenger transport to competition and ending special protected contracts for newly recruited railway workers. She may not have left the unions with warm, **fuzzy feelings**, but she got the reform through. Employment will also be near the top of her **in­tray**. Serving as Mr Macron’s labour minister, Ms Borne expanded **apprenticeship**s and reformed the rules for unemployment benefits. Having already brought joblessness down from 9.2% to 7.1%, Mr Macron has promised to bring about full employment by the end of his second term.
+3.Mr Macron has put her in the job in part because Ms Borne has shown that she can be an efficient negotiator. In a previous post as his transport minister, and as a former head of the Paris metro, she brought in a reform of the **sncf** national railways that included opening passenger transport to competition and ending special protected contracts for newly recruited railway workers. She may not have left the unions with warm, **fuzzy feelings**, but she got the reform through. Employment will also be near the top of her **in­tray**. Serving as Mr Macron’s labour minister, Ms Borne expanded **apprenticeship**s and reformed the rules for unemployment benefits. Having already brought joblessness down from 9.2% to 7.1%, Mr Macron has promised to bring about full employment by the end of his second term.
 
-> **sncf **：the national railroad system in France法国国营铁路公司
+> **sncf** ：the national railroad system in France法国国营铁路公司
  > 
 > **fuzzy：**覆有绒毛的；毛茸茸的;模糊的
  > 
@@ -32,7 +32,7 @@ description: Macron nods to the left, sort of
 > **apprenticeship**：学徒期；学徒工作a period of time working as an apprentice ; a job as an apprentice
  > 
 
-4.Ms Borne’s nomination also brings a degree of political balance to the top of France’s government. Mr Macron was first elected in 2017 to govern “neither on the left nor the right”. Yet his two previous prime ministers, Edouard Philippe and Mr Castex, both came from the centre­right. **Insofar** as Ms Borne** hails from** the left, it is as a technocrat, not a politician. Like Georges Pompidou and Raymond Barre when they were appointed in the 1960s and 1970s, she has never held elected office, though she is running for parliament next month in Normandy. She has only the loosest of links to the now-­**moribund** Socialist Party. Indeed, Jean­Luc Mélenchon, the **hard­left** leader, dismissed the notion that Ms Borne is from the left as “trickery”.
+4.Ms Borne’s nomination also brings a degree of political balance to the top of France’s government. Mr Macron was first elected in 2017 to govern “neither on the left nor the right”. Yet his two previous prime ministers, Edouard Philippe and Mr Castex, both came from the centre­right. **Insofar** as Ms Borne **hails from** the left, it is as a technocrat, not a politician. Like Georges Pompidou and Raymond Barre when they were appointed in the 1960s and 1970s, she has never held elected office, though she is running for parliament next month in Normandy. She has only the loosest of links to the now-­**moribund** Socialist Party. Indeed, Jean­Luc Mélenchon, the **hard­left** leader, dismissed the notion that Ms Borne is from the left as “trickery”.
 
 > **Insofar**：到如此程度；在…的范围
  > 

@@ -3,7 +3,7 @@ description: Astronomers have captured the Milky Way’s supermassive, mysteriou
 ---
 
 # D814 Behold, the Bottomless Pit Holding Everything Together
-1 We live in the inner **rim** of one of the Milky Way’s **spiral arm**s, a shimmery curve against inky darkness. Travel for thousands of light-years in one direction, past countless stars, countless planets, and countless moons, and you’d reach the outer edge of the Milky Way, where the last bits of our galaxy give way to the sprawling stillness of the** intergalactic medium**. Travel about the same distance in the other direction, past still more stars and planets and moons, through glittering clouds of dust, and you’ll end up in the heart of the galaxy, at one of the most mysterious landmarks in the universe.
+1 We live in the inner **rim** of one of the Milky Way’s **spiral arm**s, a shimmery curve against inky darkness. Travel for thousands of light-years in one direction, past countless stars, countless planets, and countless moons, and you’d reach the outer edge of the Milky Way, where the last bits of our galaxy give way to the sprawling stillness of the **intergalactic medium**. Travel about the same distance in the other direction, past still more stars and planets and moons, through glittering clouds of dust, and you’ll end up in the heart of the galaxy, at one of the most mysterious landmarks in the universe.
 For the first time in human history, you don’t have to imagine it. Using telescopes powerful enough to stretch our perception across **unfathomable** distances, astronomers have made a cosmic postcard: the first-ever picture of the supermassive black hole at the center of the Milky Way.
 
 > **rim：**边缘
@@ -17,7 +17,7 @@ For the first time in human history, you don’t have to imagine it. Using teles
 > **unfathomable**：难以理解的；莫测高深的
  > 
 
-2 **Behold** Sagittarius A* (pronounced “A-star”), a **celestial** object that has the mass of 4 million suns but could fit comfortably within the orbit of Mercury, the closest planet to the sun.The image comes from observations made by a network of **radio telescope**s spanning four continents, as part of a project called the **Event Horizon Telescope**. This is only the second time that astronomers in this effort have captured one of these objects in such detail. The first image, of the supermassive black hole at the center of the nearby galaxy Messier 87, or M87 for short, was released in 2019 with great **fanfare**. Einstein had predicted the existence of black holes—unseen points in the **void **where gravity warps the very **fabric **of space—more than a century earlier, and here, at last, was photographic evidence of one. That image marked a tremendous achievement in the field of science. But this one, of Sagittarius A*, feels a little different, more special. Astronomers believe that supermassive black holes are at the center of most big galaxies, which means that the universe is full of these objects. But this one is the closest to us. This one is ours.
+2 **Behold** Sagittarius A* (pronounced “A-star”), a **celestial** object that has the mass of 4 million suns but could fit comfortably within the orbit of Mercury, the closest planet to the sun.The image comes from observations made by a network of **radio telescope**s spanning four continents, as part of a project called the **Event Horizon Telescope**. This is only the second time that astronomers in this effort have captured one of these objects in such detail. The first image, of the supermassive black hole at the center of the nearby galaxy Messier 87, or M87 for short, was released in 2019 with great **fanfare**. Einstein had predicted the existence of black holes—unseen points in the **void** where gravity warps the very **fabric** of space—more than a century earlier, and here, at last, was photographic evidence of one. That image marked a tremendous achievement in the field of science. But this one, of Sagittarius A*, feels a little different, more special. Astronomers believe that supermassive black holes are at the center of most big galaxies, which means that the universe is full of these objects. But this one is the closest to us. This one is ours.
 
 > **Behold**：看到
  > 
@@ -29,13 +29,13 @@ For the first time in human history, you don’t have to imagine it. Using teles
  > 
 > **fanfare：**号角花彩；热闹地介绍[宣布]
  > 
-> **void **：空白；空间；真空
+> **void** ：空白；空间；真空
  > 
 > **fabric ：**结构；构造
  > 
 
 3 "I don’t think I ever had an emotional attachment to M87,” Feryal Özel, an astrophysicist at the University of Arizona who works on the Event Horizon Telescope, told me. Özel has spent most of her career studying Sagittarius A*, trying to understand its distinct nature and quirks. This one, she said, “I feel like I know.”
-And still, we are not truly seeing **Sagittarius** A, not really. Astronomers can’t take a real picture—in the way us non-astronomers would consider it—because black holes are, by definition, invisible. So the photo released today doesn’t show the black hole itself. Astronomers have captured Sagittarius A in **silhouette**. The image reveals the shadow that the immensely dense black hole casts against the **glowing**, super-hot gas **swirling** around it. Like the black hole in M87, Sagittarius A* resembles a donut. In fact, it bears an **uncanny **resemblance to the fruit **danishe**s served at the press conference that astronomers held in Washington, D.C. to reveal the result.
+And still, we are not truly seeing **Sagittarius** A, not really. Astronomers can’t take a real picture—in the way us non-astronomers would consider it—because black holes are, by definition, invisible. So the photo released today doesn’t show the black hole itself. Astronomers have captured Sagittarius A in **silhouette**. The image reveals the shadow that the immensely dense black hole casts against the **glowing**, super-hot gas **swirling** around it. Like the black hole in M87, Sagittarius A* resembles a donut. In fact, it bears an **uncanny** resemblance to the fruit **danishe**s served at the press conference that astronomers held in Washington, D.C. to reveal the result.
 
 > **glowing**：发光；灼热的
  > 
@@ -45,12 +45,12 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
  > 
 > **silhouette**：剪影；形状；轮廓
  > 
-> **uncanny **：神秘的；不可思议的；离奇的
+> **uncanny** ：神秘的；不可思议的；离奇的
  > 
 > **danishe：**果酱面包
  > 
 
-4 Astronomers made the observations that produced this image in the spring of 2017. Eight ground-based telescopes—two each in Hawaii and Chile, and one each in Arizona, Mexico, Spain, and **Antarctica**—scanned the skies in** tandem **for several days. The observations, stored on hundreds of computer disk drives, were then shipped to labs in the United States and Germany, where scientists pored over the data like **archaeologists **at a dig site, brushing away the noise to excavate the signal of a supermassive black hole. They had followed a similar process to reveal M87’s black hole, which was observed during the same run in 2017.
+4 Astronomers made the observations that produced this image in the spring of 2017. Eight ground-based telescopes—two each in Hawaii and Chile, and one each in Arizona, Mexico, Spain, and **Antarctica**—scanned the skies in **tandem** for several days. The observations, stored on hundreds of computer disk drives, were then shipped to labs in the United States and Germany, where scientists pored over the data like **archaeologists** at a dig site, brushing away the noise to excavate the signal of a supermassive black hole. They had followed a similar process to reveal M87’s black hole, which was observed during the same run in 2017.
 
 > **Antarctica**：南极洲
  > 
@@ -63,7 +63,7 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
 
 6 The new image is further proof that the supermassive black hole at the center of the galaxy is, well, exactly that. Einstein published the theories that predicted the existence of such objects in 1916, but the first real observation campaigns didn’t begin until the 1970s. In that decade, astronomers detected a mysterious, compact source of radio emissions in the galactic center that seemed like it could be a black hole, “but not many people believed us then,” Reinhard Genzel, an astrophysicist at the Max Planck Institute for **Extraterrestrial Physics** who studies Sagittarius A* but was not involved in the latest research, told me. It would take decades of additional research to show that there’s no other explanation for the mysterious object at the Milky Way’s core. In recent years, teams led by Genzel and the **UCLA** astrophysicist Andrea Ghez have captured in great detail some of the stars closest to the black hole, which, from our perspective, appear to swing wildly around an invisible point in space. In 2020, Genzel and Ghez shared the Nobel Prize in physics for providing the most convincing evidence for the existence of the Milky Way’s central black hole.
 
-> **Extraterrestrial **地球外的；外星球的；宇宙的
+> **Extraterrestrial** 地球外的；外星球的；宇宙的
  > 
 > **Extraterrestrial Physics：**宇宙物理学
  > 
@@ -77,20 +77,20 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
 > **pocket：**（与周围不同的）小组织，小区域a small group or area that is different from its surroundings
  > 
 
-8 Quiet does not mean boring. Although Einstein’s theories led to the discovery of black holes, scientists still don’t know whether the rules of gravity as we understand them apply in such extreme, unknowable conditions. The 2019 result showed that the shadow of an** event horizon** is, as predicted, **spherical**. But “our best theories still are falling short,” Ghez told me. Astronomers still don’t know what **transpires** in the interior of a black hole, beyond that point of no return.“Black holes represent that fundamental breakdown in our understanding of how gravity works,” she said.
+8 Quiet does not mean boring. Although Einstein’s theories led to the discovery of black holes, scientists still don’t know whether the rules of gravity as we understand them apply in such extreme, unknowable conditions. The 2019 result showed that the shadow of an **event horizon** is, as predicted, **spherical**. But “our best theories still are falling short,” Ghez told me. Astronomers still don’t know what **transpires** in the interior of a black hole, beyond that point of no return.“Black holes represent that fundamental breakdown in our understanding of how gravity works,” she said.
 
 > **transpire**：发生；泄露；蒸发
  > 
 > **spherical：**球形的；球状的
  > 
 
-9 Even in this very strange part of our cosmic neighborhood, some evidence suggests, stars could host planets, worlds shaped by the distinct chaos of their environment. “We do see **binary star **systems at the galactic center, which means two stars are able to stay bound together, despite the strong** tidal **forces of the black hole and the chaotic environment,” Jessica Lu, an astrophysicist at UC Berkeley who studies star formation in the galactic center, told me. “So perhaps planets can form and survive as well.” At the galactic center, the few, empty light-years separating our sun from its nearest **stellar** neighbor would be brimming with stars. And in a night sky at the center of the Milky Way, those stars would appear as bright as full moons. “We could visit them in reasonable amounts of time, and our star might be in danger of being hit by another star,” Do said. “We’d probably all be astronomers, because we’d care way more about what’s happening in the sky.”
+9 Even in this very strange part of our cosmic neighborhood, some evidence suggests, stars could host planets, worlds shaped by the distinct chaos of their environment. “We do see **binary star** systems at the galactic center, which means two stars are able to stay bound together, despite the strong **tidal** forces of the black hole and the chaotic environment,” Jessica Lu, an astrophysicist at UC Berkeley who studies star formation in the galactic center, told me. “So perhaps planets can form and survive as well.” At the galactic center, the few, empty light-years separating our sun from its nearest **stellar** neighbor would be brimming with stars. And in a night sky at the center of the Milky Way, those stars would appear as bright as full moons. “We could visit them in reasonable amounts of time, and our star might be in danger of being hit by another star,” Do said. “We’d probably all be astronomers, because we’d care way more about what’s happening in the sky.”
 
-> ** binary：**双体
+> **binary：**双体
  > 
 > **binary star：**双子星
  > 
-> **tidal **：潮汐的；有潮的
+> **tidal** ：潮汐的；有潮的
  > 
 > **stellar：**星的；恒星的
  > 

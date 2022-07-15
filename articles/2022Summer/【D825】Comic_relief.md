@@ -3,7 +3,7 @@ description: Doctors and therapists are using comic books to spread awareness of
 ---
 
 # D825  Comic relief
-1.The class begins with the following assignment: draw a four-**panel** comic strip about your day. In five minutes the pupils—among them writers, artists, stay-at-home mothers, a graduate student and a cinema manager—produce **lighthearted** yet touching sketches about play dates, tedious chores and a** quizzical** chicken.
+1.The class begins with the following assignment: draw a four-**panel** comic strip about your day. In five minutes the pupils—among them writers, artists, stay-at-home mothers, a graduate student and a cinema manager—produce **lighthearted** yet touching sketches about play dates, tedious chores and a **quizzical** chicken.
 
 > **panel：**方格板块
  > 
@@ -17,7 +17,7 @@ description: Doctors and therapists are using comic books to spread awareness of
 > **articulate**：表达
  > 
 
-3.Exactly when the therapeutic virtues of comic books were recognised is unclear. Justin Green, an American cartoonist, gave clinicians a** nudge** with “Binky Brown Meets the Holy Virgin Mary”, a **bawdy** auto-biographical account of growing up tortured by religious guilt and** compulsive neurosis**, published in 1972. Green, who died last month, was eventually diagnosed with** obsessive-compulsive disorder (ocd)**. (He is also credited with pioneering auto-biographical comics and as an inspiration to Art Spiegelman, creator of “**Maus**”.)
+3.Exactly when the therapeutic virtues of comic books were recognised is unclear. Justin Green, an American cartoonist, gave clinicians a **nudge** with “Binky Brown Meets the Holy Virgin Mary”, a **bawdy** auto-biographical account of growing up tortured by religious guilt and **compulsive neurosis**, published in 1972. Green, who died last month, was eventually diagnosed with **obsessive-compulsive disorder (ocd)**. (He is also credited with pioneering auto-biographical comics and as an inspiration to Art Spiegelman, creator of “**Maus**”.)
 
 > **nudge**：轻推；(温和的)劝说；
  > 
@@ -50,7 +50,7 @@ description: Doctors and therapists are using comic books to spread awareness of
 > **inanimate**:无生命的
  > 
 
-6.**Draughtsmen** can dissociate themselves from their** ailment**s by portraying them as separate characters. Take insomnia: Ms Shaddock encouraged a child to draw a comic about why she had trouble sleeping. The child conceived of “Wornight”, a monster that filled her head with worries at night. “It shifted the problem away from her and put it onto something that was external,” Ms Shaddock** recount**s.
+6.**Draughtsmen** can dissociate themselves from their **ailment**s by portraying them as separate characters. Take insomnia: Ms Shaddock encouraged a child to draw a comic about why she had trouble sleeping. The child conceived of “Wornight”, a monster that filled her head with worries at night. “It shifted the problem away from her and put it onto something that was external,” Ms Shaddock **recount**s.
 
 > **ailment**: 轻病；小恙
  > 
@@ -59,7 +59,7 @@ description: Doctors and therapists are using comic books to spread awareness of
 > **recount**：讲述；描述
  > 
 
-7.Engaging with comic-book characters can also** prod **patients to go easier on themselves. John Pollard, who researched the use of comics in psychotherapy as part of his training as a counsellor in Britain, notes that readers develop empathy with, say, superheroes as they endure and overcome trials. So why, patients can gently be asked, “can’t you experience that same level of compassion for yourself?” In a similar way, “**pathographies**”, usually autobio-graphical accounts of illnesses such as **bipolar** disorder or depression, can **coax** people to be kinder to themselves.
+7.Engaging with comic-book characters can also **prod** patients to go easier on themselves. John Pollard, who researched the use of comics in psychotherapy as part of his training as a counsellor in Britain, notes that readers develop empathy with, say, superheroes as they endure and overcome trials. So why, patients can gently be asked, “can’t you experience that same level of compassion for yourself?” In a similar way, “**pathographies**”, usually autobio-graphical accounts of illnesses such as **bipolar** disorder or depression, can **coax** people to be kinder to themselves.
 
 > **prod ：**刺激；激励
  > 
@@ -72,16 +72,14 @@ description: Doctors and therapists are using comic books to spread awareness of
 
 8.In cases of trauma, such as sexual assault or post-­traumatic stress disorder, drawing offers a sense of control when revisiting painful memories. The panel­ by panel format allows patients to regulate the pace at which they reconstruct the events in question. They can identify gaps in the story and present the episode and those involved from their perspective.
 
-9.Doctors can benefit from comics, too. A study of clinicians who read “My Degeneration”, Peter Dunlap­Shohl’s account of life with Parkinson’s disease, found the graphic novel enhanced their empathy for sufferers. Crafting one can be a self­help tool for medical professionals as well as patients. After trying writing and painting as ways to deal with the stress of her work as an hiv/aids nurse in Chicago in the 1990s, M.K. Czerwiec turned to comics. “This little combination of image and text in** sequential** fashion”, she says, “was really, really helpful for me.” She published her drawings as a **graphic novel** in 2017, and now teaches medical students how to use art to cope with strains.
+9.Doctors can benefit from comics, too. A study of clinicians who read “My Degeneration”, Peter Dunlap­Shohl’s account of life with Parkinson’s disease, found the graphic novel enhanced their empathy for sufferers. Crafting one can be a self­help tool for medical professionals as well as patients. After trying writing and painting as ways to deal with the stress of her work as an hiv/aids nurse in Chicago in the 1990s, M.K. Czerwiec turned to comics. “This little combination of image and text in **sequential** fashion”, she says, “was really, really helpful for me.” She published her drawings as a **graphic novel** in 2017, and now teaches medical students how to use art to cope with strains.
 
 > **sequential**：连续的；循序；相继的
  > 
 > **graphic novel**：连环画小说；漫画小说
  > 
-> **Heal thyself **
- > 
 
-10.The roles of comics are multiplying. They can simplify medical information, making **arcane **concepts more accessible to children and people with learning disabilities or language barriers. Examples include helping patients to grasp the notion of informed consent, understand how electronic health records work or negotiate handovers between carers. Government health agencies are harnessing the medium for public education. In 2020 Stark County, Ohio, commissioned Cara Bean, an artist, and the Centre for Cartoon Studies in **Vermont **to produce a comic to introduce pupils to mental health.
+10.The roles of comics are multiplying. They can simplify medical information, making **arcane** concepts more accessible to children and people with learning disabilities or language barriers. Examples include helping patients to grasp the notion of informed consent, understand how electronic health records work or negotiate handovers between carers. Government health agencies are harnessing the medium for public education. In 2020 Stark County, Ohio, commissioned Cara Bean, an artist, and the Centre for Cartoon Studies in **Vermont** to produce a comic to introduce pupils to mental health.
 
 > **thyself** ：a word meaning ‘yourself’你自己
  > 
@@ -94,13 +92,13 @@ description: Doctors and therapists are using comic books to spread awareness of
 
 11.Behind this burst of activity is a group of enthusiastic medical professionals and artists. Some have been fans of the medium since childhood; others, such as Ms Czerwiec, stumbled upon it as adults. In 2007 Ian Williams, a Welsh doctor­-turned-artist, made a website to gather those interested in what he called “graphic medicine”. The name stuck.
 
-12.It is still a young field. Mr Williams— who in 2014 published “The Bad Doctor”, a semi-auto-biographical graphic novel about a doctor with OCD—recalls being invited to speak at conferences as **comic relief** rather than a practitioner. But a growing body of evidence attests to the art form’s uses, and new textbooks are **codify**ing its applications. “The idea of graphic medicine is getting into the medical main-stream now in a way which would have been unimaginable ten years ago,” says Michael Green, who teaches the subject at Penn State University and** guest­-edit**s the digital­ comics section of Annals of Internal Medicine, a respected journal.
+12.It is still a young field. Mr Williams— who in 2014 published “The Bad Doctor”, a semi-auto-biographical graphic novel about a doctor with OCD—recalls being invited to speak at conferences as **comic relief** rather than a practitioner. But a growing body of evidence attests to the art form’s uses, and new textbooks are **codify**ing its applications. “The idea of graphic medicine is getting into the medical main-stream now in a way which would have been unimaginable ten years ago,” says Michael Green, who teaches the subject at Penn State University and **guest­-edit**s the digital­ comics section of Annals of Internal Medicine, a respected journal.
 **comic relief**：a relief from the emotional tension especially of a drama that is provided by the interposition of a comic episode or element
 
 > **codify**：编纂；整理
  > 
 
-13.Comics are not for everyone, notes Mr Pollard, the researcher, and using them in therapy requires tact and expertise. But he can **vouch** for their potential from  his personal experience. Reading them helped him overcome** dyslexia. **“If I hadn’t had any kind of contact with comics,” he reflects, “I have my doubts that I would have gone to university.
+13.Comics are not for everyone, notes Mr Pollard, the researcher, and using them in therapy requires tact and expertise. But he can **vouch** for their potential from  his personal experience. Reading them helped him overcome **dyslexia.** “If I hadn’t had any kind of contact with comics,” he reflects, “I have my doubts that I would have gone to university.
 
 > **vouch**：担保；保证；确定
  > 

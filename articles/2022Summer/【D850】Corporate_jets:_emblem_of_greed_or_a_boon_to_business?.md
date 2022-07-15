@@ -22,7 +22,7 @@ description: The planes are a shortcut for testing someone’s gut instincts on 
 > To **excoriate** a person or organization means to criticize them severely, usually in public. (公开)指责
  > 
 
-4 If the corporate-jet inkblot spells excess to some, to others it represents **hard-headed **pragmatism. The personal safety of top executives is one consideration: private aircraft are a big part of Meta’s outsized spending ($27m in 2021) on the security of Mark Zuckerberg, its chief executive. So is privacy: it is really hard to finalise a secret takeover when there is a stranger spilling **pretzels** on you. (Both of these arguments are slightly weakened by the scraping of air-traffic data that lets people track specific aircraft; a paper published last year described a machine-learning algorithm designed to predict where a corporate jet is going to land while it is still in the air.)
+4 If the corporate-jet inkblot spells excess to some, to others it represents **hard-headed** pragmatism. The personal safety of top executives is one consideration: private aircraft are a big part of Meta’s outsized spending ($27m in 2021) on the security of Mark Zuckerberg, its chief executive. So is privacy: it is really hard to finalise a secret takeover when there is a stranger spilling **pretzels** on you. (Both of these arguments are slightly weakened by the scraping of air-traffic data that lets people track specific aircraft; a paper published last year described a machine-learning algorithm designed to predict where a corporate jet is going to land while it is still in the air.)
 
 > You use **hardheaded** to describe someone who is practical and determined to get what they want or need, and who does not allow emotions to affect their actions. 脚踏实地的; 不感情用事的
  > 

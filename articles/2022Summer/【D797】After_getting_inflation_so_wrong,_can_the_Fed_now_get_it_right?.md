@@ -3,7 +3,7 @@ description: The hawks are taking flight
 ---
 
 # D797 After getting inflation so wrong, can the Fed now get it right?
-1 It was a simple, stunning admission. “We have had price stability for a very long time and maybe come to take it for granted,” said Jerome Powell, chairman of the Federal Reserve, last month. Many factors explain the latest burst in inflation, with **snarled **supply chains, tight job markets, generous fiscal stimulus, loose monetary policy and, more recently, the war in Ukraine all part of the fabric. But one thread runs through them all. Investors, analysts and, crucially, central bankers believed that high inflation in America had been **consigned to **history, a problem more for academic studies than for current policy.
+1 It was a simple, stunning admission. “We have had price stability for a very long time and maybe come to take it for granted,” said Jerome Powell, chairman of the Federal Reserve, last month. Many factors explain the latest burst in inflation, with **snarled** supply chains, tight job markets, generous fiscal stimulus, loose monetary policy and, more recently, the war in Ukraine all part of the fabric. But one thread runs through them all. Investors, analysts and, crucially, central bankers believed that high inflation in America had been **consigned to** history, a problem more for academic studies than for current policy.
 
 > **snarled**：纠缠不清的
  > 
@@ -19,7 +19,7 @@ description: The hawks are taking flight
 
 ![](./archive/img/boxcnpyYaphYZ3D6kkBqfYdwGzh.png)
 
-3 Explanations for the Fed’s mistake fit into three related categories: a failure of imagination, a technical trap and institutional inertia. In failing to see how bad things might get, the Fed was hardly alone. When inflation **perked up** a year ago, most analysts and investors pointed to **dislocations **from the pandemic. With people avoiding crowded places, demand for goods such as cars and computers had boomed just as companies were struggling to make them. As covid-19 faded away, so would inflation.
+3 Explanations for the Fed’s mistake fit into three related categories: a failure of imagination, a technical trap and institutional inertia. In failing to see how bad things might get, the Fed was hardly alone. When inflation **perked up** a year ago, most analysts and investors pointed to **dislocations** from the pandemic. With people avoiding crowded places, demand for goods such as cars and computers had boomed just as companies were struggling to make them. As covid-19 faded away, so would inflation.
 
 > **perk up**：增长
  > 
@@ -33,7 +33,7 @@ description: The hawks are taking flight
 > **even-handed：**公平无私的; 不偏不倚的
  > 
 
-5 A common **refrain **of the Fed’s critics is that the central bank was caught fighting the last war. The recovery from the global financial crisis of 2007-09 was long and drawn out, with inflation staying **subdued**. Sonal Desai of Franklin Templeton, an asset manager, thinks this misled the Fed. “The idea was that inflation expectations were so well-anchored that a free lunch was available. You could have a massive expansion of fiscal and monetary policy, and still no impact on inflation,” she says. This time, though, the economy was not emerging from a deep financial crisis. Rather, the pandemic was more akin to a natural disaster, from which recoveries tend to be much swifter.
+5 A common **refrain** of the Fed’s critics is that the central bank was caught fighting the last war. The recovery from the global financial crisis of 2007-09 was long and drawn out, with inflation staying **subdued**. Sonal Desai of Franklin Templeton, an asset manager, thinks this misled the Fed. “The idea was that inflation expectations were so well-anchored that a free lunch was available. You could have a massive expansion of fiscal and monetary policy, and still no impact on inflation,” she says. This time, though, the economy was not emerging from a deep financial crisis. Rather, the pandemic was more akin to a natural disaster, from which recoveries tend to be much swifter.
 
 > **refrain**：一再重复的话、抑制、忍住; 克制
  > 
@@ -73,9 +73,9 @@ description: The hawks are taking flight
 > **be primed for**：准备
  > 
 
-11 Mr Furman is less worried, thinking the Fed will go further with its tightening if inflation remains uncomfortably high next year. “When reality is different from what they think, they themselves will make the necessary changes,” he says. Still, he would like the Fed to be clearer **now that **its tightening “has no **preset** stopping point”, and will keep going as long as inflation is elevated. After a year of **erring** on the side of optimism, and getting it wrong, it is an appeal for more **humility**.
+11 Mr Furman is less worried, thinking the Fed will go further with its tightening if inflation remains uncomfortably high next year. “When reality is different from what they think, they themselves will make the necessary changes,” he says. Still, he would like the Fed to be clearer **now that** its tightening “has no **preset** stopping point”, and will keep going as long as inflation is elevated. After a year of **erring** on the side of optimism, and getting it wrong, it is an appeal for more **humility**.
 
-> **now that **：既然；由于
+> **now that** ：既然；由于
  > 
 > **preset**：预置；事先安排；预调；给…预定时间
  > 

@@ -3,9 +3,9 @@ description: Permanently grabbing Russian assets is a seductive idea. It would a
 ---
 
 # D847  Seizing the moment 
-1.More than 100 days into the war in Ukraine, the biggest sanctions programme ever imposed on a major economy is still being tightened. America and Europe have frozen Russia’s currency reserves held in Western banks. On June 3rd the European Union joined America and Britain in placing a partial embargo on Russia’s oil exports, and also **cut off** Sberbank, its largest lender, from the swift interbank messaging system. A **motley** crew of oligarchs and their** **toys** **have been sanctioned. In Fiji the Amadea, a 100­metre superyacht with a** helipad** and pool, is the subject of Western actions, as are private planes in Dubai and Chelsea football club in England.
+1.More than 100 days into the war in Ukraine, the biggest sanctions programme ever imposed on a major economy is still being tightened. America and Europe have frozen Russia’s currency reserves held in Western banks. On June 3rd the European Union joined America and Britain in placing a partial embargo on Russia’s oil exports, and also **cut off** Sberbank, its largest lender, from the swift interbank messaging system. A **motley** crew of oligarchs and their toys have been sanctioned. In Fiji the Amadea, a 100­metre superyacht with a **helipad** and pool, is the subject of Western actions, as are private planes in Dubai and Chelsea football club in England.
 
-> **seductive: **迷人的；有魅力的；性感的
+> **seductive:** 迷人的；有魅力的；性感的
  > 
 > **motley:**混杂的；杂七杂八的
  > 
@@ -14,7 +14,7 @@ description: Permanently grabbing Russian assets is a seductive idea. It would a
 > **helipad**:直升机停机坪
  > 
 
-2. Sanctions have caused serious disruption to Russia’s economy and if kept in place will impair its performance for years. Even so, their limitations are clear. Owing to high energy prices—**Brent crude** costs about $120 a barrel—Vladimir Putin’s regime is enjoying **bumper** revenues. Because only Western countries and a** handful** of Asian allies are enforcing sanctions, many customers continue to buy Russian oil. As a result, by the end of 2023 its crude production is expected to be only about 20% below its pre­war level. Kremlin­linked tycoons are still free to travel much of the world. Russian missiles continue to **slaughter **civilians in Ukraine and devastate its economic capacity.
+2. Sanctions have caused serious disruption to Russia’s economy and if kept in place will impair its performance for years. Even so, their limitations are clear. Owing to high energy prices—**Brent crude** costs about $120 a barrel—Vladimir Putin’s regime is enjoying **bumper** revenues. Because only Western countries and a **handful** of Asian allies are enforcing sanctions, many customers continue to buy Russian oil. As a result, by the end of 2023 its crude production is expected to be only about 20% below its pre­war level. Kremlin­linked tycoons are still free to travel much of the world. Russian missiles continue to **slaughter** civilians in Ukraine and devastate its economic capacity.
 
 > **Brent oil/crude:**布伦特原油，出产于北大西洋北海布伦特地区。伦敦洲际交易所和纽约商品交易所的期货交易，是市场油价的标杆。
  > 
@@ -25,7 +25,7 @@ description: Permanently grabbing Russian assets is a seductive idea. It would a
 > **slaughter** :杀戮；屠杀
  > 
 
-3. The bill for rebuilding Ukraine’s smashed cities and repairing its ruined industrial base will be huge: upwards of $600bn, according to some estimates (see Finance & economics section). That has got many people wondering if the West should shift from merely freezing Russian assets temporarily to** confiscating** them permanently. They could then be used to pay for the reconstruction that lies ahead.
+3. The bill for rebuilding Ukraine’s smashed cities and repairing its ruined industrial base will be huge: upwards of $600bn, according to some estimates (see Finance & economics section). That has got many people wondering if the West should shift from merely freezing Russian assets temporarily to **confiscating** them permanently. They could then be used to pay for the reconstruction that lies ahead.
 
 > **upward**:向高处的；增长的
  > 
@@ -41,7 +41,7 @@ description: Permanently grabbing Russian assets is a seductive idea. It would a
 > **seizure:**癫痫；扣押;没收；夺取
  > 
 
-5. The idea that the aggressor should pay for the damage it has caused is appealing and popular. But the legal justification, and strategic logic, of sanctions are that they impair a country’s capability to pursue a course of action and may change its behaviour, because if that country alters its path the assets will be released. A shift from this approach to a policy of permanent seizure would be a big step that would be** justifiable** only if two tests are passed. The first is that any new policy is **compatible** with the rule of law. And the second is that it has a clear strategic pay­off.
+5. The idea that the aggressor should pay for the damage it has caused is appealing and popular. But the legal justification, and strategic logic, of sanctions are that they impair a country’s capability to pursue a course of action and may change its behaviour, because if that country alters its path the assets will be released. A shift from this approach to a policy of permanent seizure would be a big step that would be **justifiable** only if two tests are passed. The first is that any new policy is **compatible** with the rule of law. And the second is that it has a clear strategic pay­off.
 
 > **impair:**损害；削弱
  > 
@@ -53,8 +53,6 @@ description: Permanently grabbing Russian assets is a seductive idea. It would a
 6. Start with the rule of law. In America the president has the authority to freeze a foreign government’s assets but not typically to seize them unless America is at war with that country. Ever since Russia invaded Ukraine, President Joe Biden has been at pains to say America is not in open conflict with it. The executive branch can transfer control over certain foreign assets when it stops recognising a country’s government, as with some funds that belong to **Venezuela** and Afghanistan (see Asia section). However,America says it does not seek regime change in Russia.
 
 > **Venezuela:**委内瑞拉
- > 
-> **at pains:** to try hard (to do something)
  > 
 
 7. Under international law,**reparation**s usually involve the consent of the paying country, typically as part of a peace treaty. Such negotiations are a **long way off**, and Ukraine must not be forced into them. Seizing assets owned by individuals, however **odious** they are, before they have been convicted by a court is also **dubious**. In some countries, such as Germany, doing so may violate the constitution.

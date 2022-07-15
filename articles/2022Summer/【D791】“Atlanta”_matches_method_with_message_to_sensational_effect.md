@@ -23,7 +23,7 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
 > **hallucination**:幻觉；幻视
  > 
 
-4 Things spiralled from there. An entire episode consisted of a mock talk show on which Paper Boi argued with a white activist about trans rights in a dizzying, **multifaceted** satire; a **spoof** news report featured a black teenager who identified as a 35-year-old white man. In the second season Darius was trapped in a Gothic mansion by a **psychopathic **music legend who resembled Michael Jackson. The gun Earn acquired in the season **premiere** went off in the** finale**, but not as Chekhov might have predicted.
+4 Things spiralled from there. An entire episode consisted of a mock talk show on which Paper Boi argued with a white activist about trans rights in a dizzying, **multifaceted** satire; a **spoof** news report featured a black teenager who identified as a 35-year-old white man. In the second season Darius was trapped in a Gothic mansion by a **psychopathic** music legend who resembled Michael Jackson. The gun Earn acquired in the season **premiere** went off in the **finale**, but not as Chekhov might have predicted.
 
 > **spoof**:（对电影、电视节目等的）滑稽模仿
  > 
@@ -36,16 +36,16 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
 > **finale**:结局；（音乐的）终曲；结尾
  > 
 
-5 The guiding principle of “Atlanta” seems to be never to compromise with the executives at fx, the network that commissioned it, nor with the audience (in Britain the latest series will be available on Disney+). After a four-year **hiatus**, the new run opens with two unknown men fishing on a haunted lake; most of the first episode tells the tale of a black child adopted by a pair of **sinister **white women.
+5 The guiding principle of “Atlanta” seems to be never to compromise with the executives at fx, the network that commissioned it, nor with the audience (in Britain the latest series will be available on Disney+). After a four-year **hiatus**, the new run opens with two unknown men fishing on a haunted lake; most of the first episode tells the tale of a black child adopted by a pair of **sinister** white women.
 
 > **hiatus**:间断；停滞
  > 
 > **sinister** :邪恶的；险恶的；不祥的
  > 
 
-6 The content is as discomforting as the form. Mostly the **villains** are not **frothing bigot**s but **presumptuous** white liberals, like the** condescending** host of a **Juneteenth** party in season one. The** microaggressions** add up, though. Gatekeepers in “Atlanta” will admit its black characters only on** soul-crushing**, **pigeonholing** terms. Charm and talent are not enough, and nor, for Earn and Van, is love. Their mistakes count triple; small gains are liable to be snatched back. The humour is less laugh or cry than both at once.
+6 The content is as discomforting as the form. Mostly the **villains** are not **frothing bigot**s but **presumptuous** white liberals, like the **condescending** host of a **Juneteenth** party in season one. The **microaggressions** add up, though. Gatekeepers in “Atlanta” will admit its black characters only on **soul-crushing**, **pigeonholing** terms. Charm and talent are not enough, and nor, for Earn and Van, is love. Their mistakes count triple; small gains are liable to be snatched back. The humour is less laugh or cry than both at once.
 
-> **frothing **:泡沫；废话；废物；无关紧要的小事
+> **frothing** :泡沫；废话；废物；无关紧要的小事
  > 
 > **bigot**:顽固者；盲信者；抱偏见的人
  > 
@@ -69,11 +69,9 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
 > **transcend**: 超出
  > 
 
-8 The drama’s **elastic** shape, and a mood both urgent and **woozily** dreamlike, work because they reflect the unstable conditions that “Atlanta” depicts. If you stop to think about it, the story’s surreal moments are no crazier than its everyday indignities, not least the violence that **throb**s at its margins, often perpetrated by police. The narrative digressions mirror the involuntary **detour**s in lives that are short on autonomy. When **mundane errands** can lead to disaster, as they do for Alfred and Earn, or a day can begin as** screwball **comedy and** lurch into** horror, established genres won’t do.
+8 The drama’s **elastic** shape, and a mood both urgent and **woozily** dreamlike, work because they reflect the unstable conditions that “Atlanta” depicts. If you stop to think about it, the story’s surreal moments are no crazier than its everyday indignities, not least the violence that **throb**s at its margins, often perpetrated by police. The narrative digressions mirror the involuntary **detour**s in lives that are short on autonomy. When **mundane errands** can lead to disaster, as they do for Alfred and Earn, or a day can begin as **screwball** comedy and **lurch into** horror, established genres won’t do.
 
 > **elastic**:有弹性的；有弹力的；灵活的
- > 
-> **woozy**:unsteady, dizzy, or dazed.
  > 
 > **perpetrate**：施(恶行)；犯(过失等)
  > 
@@ -92,7 +90,7 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
 > **lurch into**:陷入
  > 
 
-9 Except perhaps one. The basic template in “Atlanta”—in which fantasy and reality blur, anything can happen yet the ending seems **predetermined**—is the fairy tale. As with the consoling repetitions of the **sitcom**, fairy tales run on a loop, but sometimes the effect is **nightmarish**. Like Hansel and Gretel, Mr Glover’s characters keep getting stuck—in a** spooky** forest, **mazy **nightclub or **depraved** **frat** house. They search for a way out, but sense that there isn’t one. They are caught in a story written long ago.
+9 Except perhaps one. The basic template in “Atlanta”—in which fantasy and reality blur, anything can happen yet the ending seems **predetermined**—is the fairy tale. As with the consoling repetitions of the **sitcom**, fairy tales run on a loop, but sometimes the effect is **nightmarish**. Like Hansel and Gretel, Mr Glover’s characters keep getting stuck—in a **spooky** forest, **mazy** nightclub or **depraved** **frat** house. They search for a way out, but sense that there isn’t one. They are caught in a story written long ago.
 
 > **predetermined**：预先约定的
  > 
@@ -102,7 +100,7 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
  > 
 > **spooky**：怪异吓人的；阴森可怖的
  > 
-> **mazy **：弯曲回绕的；纠缠不清的；为难的；困惑的
+> **mazy** ：弯曲回绕的；纠缠不清的；为难的；困惑的
  > 
 > **depraved**：堕落的, 颓废的, 卑鄙的
  > 

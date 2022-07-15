@@ -3,7 +3,7 @@ description: It shows the flimsiness of Vladimir Putin’s justification for inv
 ---
 
 # D824  The meaning of membership
-1.For Finland and Sweden to join nato is a **rebuke** to the anti-nato arguments of Russia’s president, Vladimir Putin. Two countries that are proud of their long history of military non-alignment think the risk of **antagonising** their neighbour to the east is outweighed by the security they will gain. It is the direct result of the invasion of Ukraine, which Mr Putin ordered** ostensibly** to **forestall **nato’s expansion.
+1.For Finland and Sweden to join nato is a **rebuke** to the anti-nato arguments of Russia’s president, Vladimir Putin. Two countries that are proud of their long history of military non-alignment think the risk of **antagonising** their neighbour to the east is outweighed by the security they will gain. It is the direct result of the invasion of Ukraine, which Mr Putin ordered **ostensibly** to **forestall** nato’s expansion.
 
 > **rebuke**：指责；批评
  > 
@@ -11,10 +11,10 @@ description: It shows the flimsiness of Vladimir Putin’s justification for inv
  > 
 > **ostensibly**:表面上
  > 
-> **forestall **:先发制人;预先阻止
+> **forestall** :先发制人;预先阻止
  > 
 
-2.Finland and Sweden submitted their applications on May 18th. Despite Turkey’s **stalling** tactics, over **Kurdish **militants and possibly American fighter planes, their admission is likely. They will bring formidable capabilities in **Arctic **warfare and, in Finland’s case, the largest **artillery** force in Europe. Membership will more than double the length of nato’s border with Russia. It will also make the Baltic states easier to defend.
+2.Finland and Sweden submitted their applications on May 18th. Despite Turkey’s **stalling** tactics, over **Kurdish** militants and possibly American fighter planes, their admission is likely. They will bring formidable capabilities in **Arctic** warfare and, in Finland’s case, the largest **artillery** force in Europe. Membership will more than double the length of nato’s border with Russia. It will also make the Baltic states easier to defend.
 
 > **stall:**拖延；停止
  > 
@@ -25,7 +25,7 @@ description: It shows the flimsiness of Vladimir Putin’s justification for inv
 > **artillery**：火炮；炮兵部队
  > 
 
-3.Mr Putin’s regime has responded by cutting electricity supplies to Finland and threatening “military-­technical” action, whatever that is supposed to mean. He is not the first Russian leader to object to enlargement. In the 1990s Boris Yeltsin complained when members of the old **Warsaw Pact **applied to join the alliance. Over the years this **hardened into **the **line of argument **cited by Mr Putin as justification for invading Ukraine.
+3.Mr Putin’s regime has responded by cutting electricity supplies to Finland and threatening “military-­technical” action, whatever that is supposed to mean. He is not the first Russian leader to object to enlargement. In the 1990s Boris Yeltsin complained when members of the old **Warsaw Pact** applied to join the alliance. Over the years this **hardened into** the **line of argument** cited by Mr Putin as justification for invading Ukraine.
 
 > **harden into**：变得确定
  > 
@@ -33,10 +33,10 @@ description: It shows the flimsiness of Vladimir Putin’s justification for inv
  > 
 > **line of argument**：论点，the reasoning used to support a particular idea or view.
  > 
-> **Warsaw Pact **：华沙条约组织
+> **Warsaw Pact** ：华沙条约组织
  > 
 
-4.Russia’s president says that enlargement breaks an **undertaking **that James Baker, the America’s secretary of state, gave the Soviet Union in February 1990. Many Western commentators argued that enlargement was unwise, because Russia would feel threatened. The West had other ways to enhance security, such as the **Partnership for Peace**, which sets out to strengthen relations between the alliance and non­members.
+4.Russia’s president says that enlargement breaks an **undertaking** that James Baker, the America’s secretary of state, gave the Soviet Union in February 1990. Many Western commentators argued that enlargement was unwise, because Russia would feel threatened. The West had other ways to enhance security, such as the **Partnership for Peace**, which sets out to strengthen relations between the alliance and non­members.
 
 > **undertaking**：承诺
  > 
@@ -53,13 +53,13 @@ description: It shows the flimsiness of Vladimir Putin’s justification for inv
 > **Helsinki Final Act**：赫尔辛基最后议定书
  > 
 
-7.But was nato expansion wise? A** spiral **of mutual suspicion between Russia and nato clearly exists, but to blame  nato expansion for triggering it is scarcely credible. Mr Putin has increasingly used nationalism and Orthodox religion to** shore up** his rule. He needs enemies abroad to persuade his people that they and their civilisation are under threat. That is why he seized territory in Georgia in 2008 and in Ukraine in 2014. Besides, Russia has a long history as an** imperial **power. Like most declining empires, it was likely to resist as its** periphery** drifted off, regardless of nato expansion.
+7.But was nato expansion wise? A **spiral** of mutual suspicion between Russia and nato clearly exists, but to blame  nato expansion for triggering it is scarcely credible. Mr Putin has increasingly used nationalism and Orthodox religion to **shore up** his rule. He needs enemies abroad to persuade his people that they and their civilisation are under threat. That is why he seized territory in Georgia in 2008 and in Ukraine in 2014. Besides, Russia has a long history as an **imperial** power. Like most declining empires, it was likely to resist as its **periphery** drifted off, regardless of nato expansion.
 
-> ** spiral **：螺旋式上升（或下降）；急剧增长
+> **spiral** ：螺旋式上升（或下降）；急剧增长
  > 
-> ** imperial **：帝国的；皇帝的
+> **imperial** ：帝国的；皇帝的
  > 
-> ** shore up**：用支柱撑住
+> **shore up**：用支柱撑住
  > 
 > **periphery**：外围；边缘；周围
  > 

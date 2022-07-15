@@ -3,14 +3,14 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 ---
 
 # D823 Does Quantum Mechanics Rule Out Free Will?
-1.A **conjecture **called superdeterminism, outlined decades ago, is a response to several peculiarities of quantum mechanics: the apparent randomness of quantum events; their apparent dependence on human observation, or measurement; and the apparent ability of a measurement in one place to determine, instantly, the outcome of a measurement elsewhere, an effect called **nonlocality**.
+1.A **conjecture** called superdeterminism, outlined decades ago, is a response to several peculiarities of quantum mechanics: the apparent randomness of quantum events; their apparent dependence on human observation, or measurement; and the apparent ability of a measurement in one place to determine, instantly, the outcome of a measurement elsewhere, an effect called **nonlocality**.
 
 > **conjecture**：推测
  > 
 > **nonlocality**：非定域性
  > 
 
-2.Einstein, who **derided **nonlocality as “spooky action at a distance,” insisted that quantum mechanics must be incomplete; there must be hidden variables that the theory overlooks. Superdeterminism is a radical hidden-variables theory proposed by physicist John Bell. He is renowned for a 1964 **theorem**, now named after him, that dramatically exposes the nonlocality of quantum mechanics.
+2.Einstein, who **derided** nonlocality as “spooky action at a distance,” insisted that quantum mechanics must be incomplete; there must be hidden variables that the theory overlooks. Superdeterminism is a radical hidden-variables theory proposed by physicist John Bell. He is renowned for a 1964 **theorem**, now named after him, that dramatically exposes the nonlocality of quantum mechanics.
 
 > **deride**：嘲笑、揶揄
  > 
@@ -19,14 +19,14 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 > **theorem**：原理、定理
  > 
 
-3.Bell said in a BBC interview in 1985 that the puzzle of nonlocality vanishes if you assume that “the world is superdeterministic, with not just **inanimate **nature running on behind-the-scenes **clockwork**, but with our behavior, including our belief that we are free to choose to do one experiment rather than another, absolutely predetermined.”
+3.Bell said in a BBC interview in 1985 that the puzzle of nonlocality vanishes if you assume that “the world is superdeterministic, with not just **inanimate** nature running on behind-the-scenes **clockwork**, but with our behavior, including our belief that we are free to choose to do one experiment rather than another, absolutely predetermined.”
 
 > **inanimate**：无生命的；死的
  > 
 > **clockwork**：发条装置、钟表装置
  > 
 
-4.In a recent video, physicist Sabine Hossenfelder, whose work I admire, notes that superdeterminism** eliminate**s the apparent randomness of quantum mechanics. “In quantum mechanics,” she explains, “we can only predict probabilities for measurement outcomes, rather than the measurement outcomes themselves. The outcomes are not determined, so quantum mechanics is **indeterministic**. Superdeterminism returns us to determinism.”
+4.In a recent video, physicist Sabine Hossenfelder, whose work I admire, notes that superdeterminism **eliminate**s the apparent randomness of quantum mechanics. “In quantum mechanics,” she explains, “we can only predict probabilities for measurement outcomes, rather than the measurement outcomes themselves. The outcomes are not determined, so quantum mechanics is **indeterministic**. Superdeterminism returns us to determinism.”
 
 > **eliminate**：消除；消灭
  > 
@@ -38,7 +38,8 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 6.Hossenfelder predicts that physicists might be able to confirm superdeterminism experimentally. “At some point,” she says, “it’ll just become obvious that measurement outcomes are actually much more predictable than quantum mechanics says. Indeed, maybe someone already has the data, they just haven’t analyzed it the right way.” Hossenfelder defends superdeterminism in more detail in a technical paper written with physicist Tim Palmer.
 
 7.Hossenfelder’s commitment to determinism puts her **in good company**. Einstein, too, believed that specific causes must have specific, nonrandom effects, and he doubted the existence of free will. He once wrote, “If the moon, in the act of completing its **eternal** way around the earth, were gifted with self-consciousness, it would feel thoroughly convinced that it was traveling its way of its own **accord**.”
-**of its own accord **—used to suggest that something happens by itself without anyone causing it to happen
+**of its own accord** —used to suggest that something happens by itself without anyone causing it to happen
+eg. The tree fell of its own accord.
 
 > **eternal：**不朽的；永久的
  > 
@@ -52,17 +53,17 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 > **decree**：判决
  > 
 
-9.Hossenfelder and I argued about free will in a conversation last summer. I pointed out that we both made the choice to speak to each other; our choices stem from “higher-level” psychological factors, such as our values and desires, which are underpinned by but not **reducible **to physics. Physics can’t account for choices and hence free will. So I said.
+9.Hossenfelder and I argued about free will in a conversation last summer. I pointed out that we both made the choice to speak to each other; our choices stem from “higher-level” psychological factors, such as our values and desires, which are underpinned by but not **reducible** to physics. Physics can’t account for choices and hence free will. So I said.
 
 > **reducible**：可简化的
  > 
 > **A not reducible to B**  A比B 更为复杂
  > 
 
-10.Invoking psychological causes “doesn’t make the laws of physics go away,” Hossenfelder sternly informed me. “Everything is physics. You’re made of particles.” I felt like we were **talking past each other. **To her, a nondeterministic world makes no sense. To me, a world without choice makes no sense.
+10.Invoking psychological causes “doesn’t make the laws of physics go away,” Hossenfelder sternly informed me. “Everything is physics. You’re made of particles.” I felt like we were **talking past each other.** To her, a nondeterministic world makes no sense. To me, a world without choice makes no sense.
 **Talking past each other：** is an English phrase describing the situation where two or more people talk about different subjects, while believing that they are talking about the same thing.
 
-11.Other physicists insist that physics provides **ample** room for free will. George Ellis argues for “**downward causation**,” which means that physical processes can lead to “**emergent**” phenomena, notably human desires and intentions, that can in turn** exert** an influence over our physical selves. Mathematicians John Conway and Simon Kochen go even further in their 2009 paper “The Strong Free Will Theorem.” They present a mathematical argument, which resembles John Bell’s theorem on quantum nonlocality, that we have free will because particles have free will.
+11.Other physicists insist that physics provides **ample** room for free will. George Ellis argues for “**downward causation**,” which means that physical processes can lead to “**emergent**” phenomena, notably human desires and intentions, that can in turn **exert** an influence over our physical selves. Mathematicians John Conway and Simon Kochen go even further in their 2009 paper “The Strong Free Will Theorem.” They present a mathematical argument, which resembles John Bell’s theorem on quantum nonlocality, that we have free will because particles have free will.
 
 > **ample：**足够的；丰裕的；
  > 
@@ -82,7 +83,7 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 
 13.Physics, which tracks changes in matter and energy, has nothing to say about love, desire, fear, hatred, justice, beauty, morality, meaning. All these things, viewed in the light of physics, could be described as “logically incoherent nonsense,” as Hossenfelder puts it. But they have consequences; they alter the world.
 
-14.Physics as a whole, not just quantum mechanics, is obviously incomplete. As philosopher Christian List told me recently, humans are “not just **heaps of** interacting particles.” We are “intentional agents, with psychological features and mental states” and the capacity to make choices. Physicists have acknowledged the limits of their discipline. Philip Anderson, a Nobel laureate, **contend**s in his 1972 essay “More Is Different” that as phenomena become more complicated, they require new modes of explanation; not even chemistry is** reducible** to physics, let alone psychology.
+14.Physics as a whole, not just quantum mechanics, is obviously incomplete. As philosopher Christian List told me recently, humans are “not just **heaps of** interacting particles.” We are “intentional agents, with psychological features and mental states” and the capacity to make choices. Physicists have acknowledged the limits of their discipline. Philip Anderson, a Nobel laureate, **contend**s in his 1972 essay “More Is Different” that as phenomena become more complicated, they require new modes of explanation; not even chemistry is **reducible** to physics, let alone psychology.
 
 > **heaps of**：大量的
  > 
@@ -91,7 +92,7 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 > **reducible**：可还原的；可化简的
  > 
 
-15.Bell, the inventor of superdeterminism, apparently didn’t like it. He seems to have viewed superdeterminism as a** reductio ad absurdum** proposition, which highlights the strangeness of quantum mechanics. He wasn’t crazy about any interpretations of quantum mechanics, once describing them as “like literary fiction.”
+15.Bell, the inventor of superdeterminism, apparently didn’t like it. He seems to have viewed superdeterminism as a **reductio ad absurdum** proposition, which highlights the strangeness of quantum mechanics. He wasn’t crazy about any interpretations of quantum mechanics, once describing them as “like literary fiction.”
 
 > **reductio ad absurdum**：归谬法、反证法
  > 

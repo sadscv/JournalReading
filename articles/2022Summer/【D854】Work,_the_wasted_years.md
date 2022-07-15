@@ -4,7 +4,7 @@ description: Logging in, deleting emails, mistyping things. It all adds up
 
 # D854 Work, the wasted years
 1 Few things are more depressing than estimates of how much time people spend on a specific activity over the course of their lives. You know the sort of thing: you will spend one-third of your life asleep, almost a decade looking at your phone and four months deciding what to watch on streaming services.
-A new study, by academics from the Maryland and Delaware Enterprise University Partnership (madeup), applies this approach to the workplace. By conducting a time-use survey of 5,000 office workers in America and Britain, the researchers identify the number of minutes that people waste on pointless activities each working day. (Meetings are excluded: they often turn out to be useless but not always and not for everyone.) The authors then **extrapolate** these figures to come up with a “weighted total** futility**” (wtf) **lifetime estimate of time** that could have been better spent. The results are literally unbelievable.
+A new study, by academics from the Maryland and Delaware Enterprise University Partnership (madeup), applies this approach to the workplace. By conducting a time-use survey of 5,000 office workers in America and Britain, the researchers identify the number of minutes that people waste on pointless activities each working day. (Meetings are excluded: they often turn out to be useless but not always and not for everyone.) The authors then **extrapolate** these figures to come up with a “weighted total **futility**” (wtf) **lifetime estimate of time** that could have been better spent. The results are literally unbelievable.
 
 > **extrapolate：**推断；推知；判定
  > 
@@ -23,7 +23,7 @@ A new study, by academics from the Maryland and Delaware Enterprise University P
 > **vacant：**茫然；空的；闲置的
  > 
 
-4 If getting into things wastes lots of time, so does closing them down. Eliminating help windows and **tool-tip **boxes takes up days over a career. Rejecting repeated requests to schedule updates to your operating system is another chunk of existence that you will never get back. **Zapping** pop-up ads and trying to pause auto-playing video absorbs time that could have been spent learning to knit or visiting **Machu Picchu.**
+4 If getting into things wastes lots of time, so does closing them down. Eliminating help windows and **tool-tip** boxes takes up days over a career. Rejecting repeated requests to schedule updates to your operating system is another chunk of existence that you will never get back. **Zapping** pop-up ads and trying to pause auto-playing video absorbs time that could have been spent learning to knit or visiting **Machu Picchu.**
 
 > **tool-tip ：**工具提示；提示文本
  > 
@@ -38,16 +38,16 @@ Various types of formatting tasks constitute another huge **time-suck**. Think o
 > **time-suck:**浪费时间的
  > 
 
-6 Redoing work that you have failed to save is in a category all of its own, because of the psychological trauma involved. This problem has been** mitigated** now that revisions are saved automatically on many programs, but it has not been solved. Batteries still run out at crucial moments, internet connections still fail. Making a series of deeply insightful comments in a Google doc, failing to save them and then closing everything down causes a special kind of despair. So does creating an org chart with hundreds of arrows and text boxes, and realising you missed someone out.
+6 Redoing work that you have failed to save is in a category all of its own, because of the psychological trauma involved. This problem has been **mitigated** now that revisions are saved automatically on many programs, but it has not been solved. Batteries still run out at crucial moments, internet connections still fail. Making a series of deeply insightful comments in a Google doc, failing to save them and then closing everything down causes a special kind of despair. So does creating an org chart with hundreds of arrows and text boxes, and realising you missed someone out.
 
 > **mitigate:**减轻；缓解；缓和；平息
  > 
 
-7 These are only some of the many ways in which time is routinely wasted. Co-ordinating diaries for meetings that will later be cancelled: another month. Waiting for people to repeat themselves because they were on mute by mistake: a fortnight. Spending hours crafting an email and then leaving it in the drafts folder: two days. Desperately opening and shutting various flaps on a **recalcitrant **printer: a day.
+7 These are only some of the many ways in which time is routinely wasted. Co-ordinating diaries for meetings that will later be cancelled: another month. Waiting for people to repeat themselves because they were on mute by mistake: a fortnight. Spending hours crafting an email and then leaving it in the drafts folder: two days. Desperately opening and shutting various flaps on a **recalcitrant** printer: a day.
 
 > **fortnight**：两周十四天
  > 
-> **recalcitrant **: 难以控制的;桀骜不驯的；
+> **recalcitrant** : 难以控制的;桀骜不驯的；
  > 
 
 8 The madeup study shows that technology lies at the heart of this **squandered** time. Technology can also help. Services that **sync up** diaries and autocorrect options already do; passwords will doubtless end up being replaced by facial recognition and fingerprint logins. Whether the time thereby saved would be put to more productive use, like reading this column, is a reasonable question. But years of workers’ lives are wasted on **utterly** pointless activities. All improvements warrant heartfelt thnaks.
@@ -58,6 +58,6 @@ Various types of formatting tasks constitute another huge **time-suck**. Think o
  > 
 > **utterly：**完全地；绝对地
  > 
-> **heartfelt **:衷心的；真诚的
+> **heartfelt** :衷心的；真诚的
  > 
 

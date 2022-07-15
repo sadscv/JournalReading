@@ -3,7 +3,7 @@ description: America has a plan to gut China’s chipmaking ecosystem
 ---
 
 # D805 Crossing the chokepoint
-2.Such tools handle the complex processes of **scratching** billions of electric circuits into a silicon wafer. Those circuits shuttle electrons to do the calculations that display this article on a screen, plot your route across town or allow your fingerprint to unlock your phone. They must be perfect. kla makes measurement tools which are essentially electron microscopes on **steroid**s, scanning each part of a finished chip automatically for defects and errors. Some Lam Research tools are designed to** etch** patterns in a **silicon wafer** by firing beams of individual atoms at its surface. Applied Materials builds machines which can deposit films of material that are merely a few atoms thick.
+2.Such tools handle the complex processes of **scratching** billions of electric circuits into a silicon wafer. Those circuits shuttle electrons to do the calculations that display this article on a screen, plot your route across town or allow your fingerprint to unlock your phone. They must be perfect. kla makes measurement tools which are essentially electron microscopes on **steroid**s, scanning each part of a finished chip automatically for defects and errors. Some Lam Research tools are designed to **etch** patterns in a **silicon wafer** by firing beams of individual atoms at its surface. Applied Materials builds machines which can deposit films of material that are merely a few atoms thick.
 
 > **scratch**: damage surface损坏表面
  > 
@@ -44,9 +44,9 @@ description: America has a plan to gut China’s chipmaking ecosystem
 > **SEMI** (国际半导体产业协会)是全球性的产业协会，致力于促进微电子、平面显示器及太阳能光电等产业供应链的整体发展。
  > 
 
-7.China’s appetite for chipmaking tools is also causing commercial difficulties for non-Chinese chipmakers, **depriving them of **equipment and hence the capacity to manufacture chips. On April 14th C.C. Wei, the boss of tsmc, said the Taiwanese firm had encountered an unexpected “tool delivery problem” that threatened its ability to make enough chips. Though he did not blame China, chip-industry insiders say it is the likely cause. tsmc has warned Apple and Qualcomm, two of its largest customers, that it may not be able to meet their demand in 2023 and 2024, according to two independent sources.
+7.China’s appetite for chipmaking tools is also causing commercial difficulties for non-Chinese chipmakers, **depriving them of** equipment and hence the capacity to manufacture chips. On April 14th C.C. Wei, the boss of tsmc, said the Taiwanese firm had encountered an unexpected “tool delivery problem” that threatened its ability to make enough chips. Though he did not blame China, chip-industry insiders say it is the likely cause. tsmc has warned Apple and Qualcomm, two of its largest customers, that it may not be able to meet their demand in 2023 and 2024, according to two independent sources.
 
-> **deprive sb of **：剥夺某人的
+> **deprive sb of** ：剥夺某人的
  > 
 > **tsmc**：台积电
  > 
@@ -60,7 +60,7 @@ description: America has a plan to gut China’s chipmaking ecosystem
 
 9.Efforts to figure out where to draw the line continue. Akin Gump has been lobbying cabinet members and legislative leaders on behalf of the coalition, and is in ongoing discussions with both the Biden administration and members of Congress. “The plan is being driven by the Biden administration,” the Coalition said in a statement on April 25th.
 
-10.The proposal** hinges on** getting America’s allies—in particular Japan and the Netherlands, home to Tokyo Electron and asml—to impose the same export controls on their toolmakers. The chances of this have increased since Russia’s assault on Ukraine. Officials around the world have been regularly **putting their heads** together to understand the effect America’s bans on trade with Russia will have on their countries. That has created channels through which the complex task of shutting China out of advanced chipmaking, a far trickier task than curbing sales of oil or weapons, might take place.
+10.The proposal **hinges on** getting America’s allies—in particular Japan and the Netherlands, home to Tokyo Electron and asml—to impose the same export controls on their toolmakers. The chances of this have increased since Russia’s assault on Ukraine. Officials around the world have been regularly **putting their heads** together to understand the effect America’s bans on trade with Russia will have on their countries. That has created channels through which the complex task of shutting China out of advanced chipmaking, a far trickier task than curbing sales of oil or weapons, might take place.
 
 > **Hinge on**：取决于
  > 

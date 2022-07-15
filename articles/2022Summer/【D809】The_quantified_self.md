@@ -3,7 +3,7 @@ description: Wearable technology is transforming health care. Do not delay the r
 ---
 
 # D809 The quantified self
-1.It is a** stealthy** killer. When the heart’s chambers beat out of sync, blood pools and clots may form. **Atrial fibrillation** causes a quarter of more than 100,000 strokes in Britain each year. Most of those would never happen if the heart arrhythmia were treated, but first it has to be found. Tests are costly and inaccurate, but Apple Watches, and soon **Fitbit**s, can detect it, are far cheaper and can save those whose lives are in danger.
+1.It is a **stealthy** killer. When the heart’s chambers beat out of sync, blood pools and clots may form. **Atrial fibrillation** causes a quarter of more than 100,000 strokes in Britain each year. Most of those would never happen if the heart arrhythmia were treated, but first it has to be found. Tests are costly and inaccurate, but Apple Watches, and soon **Fitbit**s, can detect it, are far cheaper and can save those whose lives are in danger.
 
 > **stealthy**：偷偷摸摸的；不声张的；秘密的
  > 
@@ -14,14 +14,14 @@ description: Wearable technology is transforming health care. Do not delay the r
 > **Fitbit：**睡眠追踪器
  > 
 
-2.This is just one example of the revolution about to transform medicine. Smartwatches and ­rings, fitness trackers and a rapidly growing array of electronically enhanced straps, patches and other “wearables” can record over 7,500 physiological and behavioural variables. Some of them are more useful than others, obviously, but, as our Technology Quarterly in this issue explains, machine learning can filter a** torrent **of data to reveal a continuous, quantified picture of you and your health.
+2.This is just one example of the revolution about to transform medicine. Smartwatches and ­rings, fitness trackers and a rapidly growing array of electronically enhanced straps, patches and other “wearables” can record over 7,500 physiological and behavioural variables. Some of them are more useful than others, obviously, but, as our Technology Quarterly in this issue explains, machine learning can filter a **torrent** of data to reveal a continuous, quantified picture of you and your health.
 
 > **torrent** ：急流；激流
  > 
 > **Technology Quarterly** 科技季刊
  > 
 
-3.These are early days for the quantified self, and for investors in digital health it is still a wild ride. Witness the recent collapse in the share price of Teladoc, which provides online consultations, a worrying sign for other would-­be disrupters. But for patients the innovation in wearable devices has just begun. Individual firms may come and go, but wearables and artificial intelligence **look set to **reshape health care in three big ways: early diagnosis, personalised treatment and the management of chronic disease. Each promises to lower costs and save lives.
+3.These are early days for the quantified self, and for investors in digital health it is still a wild ride. Witness the recent collapse in the share price of Teladoc, which provides online consultations, a worrying sign for other would-­be disrupters. But for patients the innovation in wearable devices has just begun. Individual firms may come and go, but wearables and artificial intelligence **look set to** reshape health care in three big ways: early diagnosis, personalised treatment and the management of chronic disease. Each promises to lower costs and save lives.
 
 > **Look set to:** 即将要
  > 
@@ -61,7 +61,7 @@ description: Wearable technology is transforming health care. Do not delay the r
  > 
 > **inertia** [ɪˈnɜrʃə]:惯性；惰性；缺乏活力；保守
  > 
-> 数字健康产品内包含检查和/或干预功能的产品被定义为**Digital **Medicine，即数字诊疗
+> 数字健康产品内包含检查和/或干预功能的产品被定义为**Digital** Medicine，即数字诊疗
  > 
 
 11.Rules are needed to make data ownership and use more transparent, so that people understand and control what happens with their information. Standards can help guide developers to produce usable devices. Patients’ data need to be tied into medical­ record systems, which are often **clunky**. Practitioners need treatment protocols on how to use the new tech. Doctors must be trained and reimbursed for offering digital treatments and reviewing data. Governments and insurers must work out how to build the technology into subsidised health­care systems so busy fighting fires that they struggle to invest in prevention.

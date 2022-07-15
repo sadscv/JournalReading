@@ -5,10 +5,10 @@ description: Can Chinese big tech learn to love Big Brother?
 # D812-813 Alibaba and the 40 officials
 1.Jack ma, china’s most famous entrepreneur, has not been one to **mince** his words about the role of government and business. At a meeting with corporate leaders in Bali in 2018 he told the audience that it is not the government that makes business and innovation happen. That is the work of entrepreneurs, he insisted: “They have the ideas and dreams.”
 
-> **mince (one's) words **:To speak vaguely or indirectly ; **not mince (your) words**毫不隐讳；直言不讳
+> **mince (one's) words** :To speak vaguely or indirectly ; **not mince (your) words**毫不隐讳；直言不讳
  > 
 
-2.A crackdown that began in late 2020 on China’s consumer ­internet champions has made such inspiring sentiments harder to sustain. For the first time the leading firms’ sales growth is slowing. Alibaba’s revenues rose by just 10% in the final three months of 2021, the slowest quarterly expansion since going public in 2014. Tencent, an internet ­services and video­game **Goliath**, notched up 8% revenue growth in the same period, its slowest rate as a public company (see chart 1 on next page). jd.com, another e­commerce group, announced solid revenues but Richard Liu, its founder and chairman, resigned in April, one of many **high­profile** entrepreneurs to do so in the past few years. Local media reported that Meituan, a delivery giant, plans to **axe up** to 20% of its employees in its core business units despite its sales rising by 30%. Shares in those four companies, along with Pinduoduo, one more e­commerce group, have **shed **about $1.5trn in value since February last year (see chart 2).
+2.A crackdown that began in late 2020 on China’s consumer ­internet champions has made such inspiring sentiments harder to sustain. For the first time the leading firms’ sales growth is slowing. Alibaba’s revenues rose by just 10% in the final three months of 2021, the slowest quarterly expansion since going public in 2014. Tencent, an internet ­services and video­game **Goliath**, notched up 8% revenue growth in the same period, its slowest rate as a public company (see chart 1 on next page). jd.com, another e­commerce group, announced solid revenues but Richard Liu, its founder and chairman, resigned in April, one of many **high­profile** entrepreneurs to do so in the past few years. Local media reported that Meituan, a delivery giant, plans to **axe up** to 20% of its employees in its core business units despite its sales rising by 30%. Shares in those four companies, along with Pinduoduo, one more e­commerce group, have **shed** about $1.5trn in value since February last year (see chart 2).
 
 > **high­profile:**明确的立场;鲜明的姿态；高调
  > 
@@ -22,11 +22,11 @@ description: Can Chinese big tech learn to love Big Brother?
 ![](./archive/img/boxcnbWRanqUX8c0bt5OnaklAye.png)
 ![](./archive/img/boxcn8s1q1MJTTnc7sJJBFDKs3f.png)
 
-3.The** techlash** is moving into a new phase. The sorry state of the Chinese economy has forced regulators to delay further planned corporate punishment in the hope that the industry can help recharge growth. In the most positive signal for tech in over a year, the central government said on April 29th that it planned to normalise regulation and to “promote the healthy development of the platform economy”. The share prices of several firms, including Alibaba, soared at the news. But some new rules have been merely put off rather than withdrawn, according to the  Wall Street Journal. And much damage has already been done. The entrepreneurs behind China's biggest tech successes have come to a **grim reckoning**: that because of government meddling they will be unable to innovate, and may even become boring.
+3.The **techlash** is moving into a new phase. The sorry state of the Chinese economy has forced regulators to delay further planned corporate punishment in the hope that the industry can help recharge growth. In the most positive signal for tech in over a year, the central government said on April 29th that it planned to normalise regulation and to “promote the healthy development of the platform economy”. The share prices of several firms, including Alibaba, soared at the news. But some new rules have been merely put off rather than withdrawn, according to the  Wall Street Journal. And much damage has already been done. The entrepreneurs behind China's biggest tech successes have come to a **grim reckoning**: that because of government meddling they will be unable to innovate, and may even become boring.
 
 > **techlash:** 指的是对大型科技巨头公司的批评与抵制
  > 
-> **grim **:严酷的
+> **grim** :严酷的
  > 
 > **reckoning:**估计；惩罚；清算
  > 
@@ -42,7 +42,7 @@ description: Can Chinese big tech learn to love Big Brother?
 
 5.American tech bosses are still reshaping and expanding their empires. Mark Zuckerberg, founder of Facebook, is seeking to turn his social­media group into a “metaverse company”, bringing virtual reality to the mainstream. Elon Musk, boss of Tesla, an electric­car maker, is buying Twitter. Chinese empire­builders, by contrast, are tempering their ambitions.
 
-6.Beijing’s regulatory crackdown has greatly discouraged risk­taking. Tencent’s **foray** into online education in 2019 is now a dead end, as is that whole industry, after** sweeping** new rules were **enact**ed last year on the services that can be offered to school­age pupils. Investors want nothing to do with Chinese **fintech** after Ant’s initial public offering was crushed by Communist Party leaders in late 2020. Forget about massive data-­crunching businesses, too, where the government’s new frame work for control and ownership of personal and financial data will limit private innovation. Online video­games, Tencent’s chief revenue-­generator, have also come under attack. The government has signalled it will no longer tolerate private investment in news­gathering, putting Mr Ma’s media empire at risk. It may even be planning to take small stakes in tech firms in order to guide their development.
+6.Beijing’s regulatory crackdown has greatly discouraged risk­taking. Tencent’s **foray** into online education in 2019 is now a dead end, as is that whole industry, after **sweeping** new rules were **enact**ed last year on the services that can be offered to school­age pupils. Investors want nothing to do with Chinese **fintech** after Ant’s initial public offering was crushed by Communist Party leaders in late 2020. Forget about massive data-­crunching businesses, too, where the government’s new frame work for control and ownership of personal and financial data will limit private innovation. Online video­games, Tencent’s chief revenue-­generator, have also come under attack. The government has signalled it will no longer tolerate private investment in news­gathering, putting Mr Ma’s media empire at risk. It may even be planning to take small stakes in tech firms in order to guide their development.
 
 > **foray：**突袭；尝试；冒险
  > 
@@ -92,11 +92,9 @@ description: Can Chinese big tech learn to love Big Brother?
 > **incumbent**：义不容辞的；任职者；
  > 
 
-13.Such **top-­down** delegation of entrepreneurial activity cannot be completely **written off**, says David Hsu of the Wharton School in Pennsylvania. State­-backed research and development is **commonplace **in even the most marke-t­driven economies. The momentum building in China may eventually enhance the **underlying technologies** on which a new wave of enterprise will take root.
+13.Such **top-­down** delegation of entrepreneurial activity cannot be completely **written off**, says David Hsu of the Wharton School in Pennsylvania. State­-backed research and development is **commonplace** in even the most marke-t­driven economies. The momentum building in China may eventually enhance the **underlying technologies** on which a new wave of enterprise will take root.
 
 > **to-p­down：**自上而下
- > 
-> **Bottling up the genie**
  > 
 > **writt off：**注销(债款等)；报废；当场写
  > 
@@ -105,7 +103,7 @@ description: Can Chinese big tech learn to love Big Brother?
 > **underlying technology**：核心技术
  > 
 
-14.** **Finding state-­endorsed technologies to invest in is politically **expedient** for the largest internet platforms, says Robin Zhu of Bernstein, a broker. Robin Li, Baidu’s founder, has embraced his firm’s **party­picked** mission with such **zeal** that he even wrote a book on autonomous driving last year. Yet even self­-driving cars and other state-backed projects will probably fall short of the growth rates to which the companies became** accustomed** in the **heady** 2010s.
+14. Finding state-­endorsed technologies to invest in is politically **expedient** for the largest internet platforms, says Robin Zhu of Bernstein, a broker. Robin Li, Baidu’s founder, has embraced his firm’s **party­picked** mission with such **zeal** that he even wrote a book on autonomous driving last year. Yet even self­-driving cars and other state-backed projects will probably fall short of the growth rates to which the companies became **accustomed** in the **heady** 2010s.
 
 > **expedient**：权宜之计；得当；可取；合宜
  > 
@@ -116,7 +114,7 @@ description: Can Chinese big tech learn to love Big Brother?
 > **heady：**使兴奋的；使有信心的；冲动
  > 
 
-15. Alibaba is again **a case in point**. Aliyun, its party­-approved cloud business, has suffered big setbacks recently. It lost Byte-Dance, the owner of TikTok, Western teenagers’ favourite time sink, as a customer. A steady stream of state-­controlled companies are leaving it for cloud platforms owned by other state groups. China’s big telecoms firms, which have competing businesses, are expected to eat up market share in the lower­-value­-added part of cloud services. There are limits to how much Aliyun can earn in foreign markets, where a distrust of Chinese technology has led to the banishment of tech** compatriot**s such as Huawei, a telecoms­ equipment maker. Aliyun’s revenues grew by 20% year on year in the last quarter of 2021. Not bad, you might think. But much slower than analysts had anticipated.
+15. Alibaba is again **a case in point**. Aliyun, its party­-approved cloud business, has suffered big setbacks recently. It lost Byte-Dance, the owner of TikTok, Western teenagers’ favourite time sink, as a customer. A steady stream of state-­controlled companies are leaving it for cloud platforms owned by other state groups. China’s big telecoms firms, which have competing businesses, are expected to eat up market share in the lower­-value­-added part of cloud services. There are limits to how much Aliyun can earn in foreign markets, where a distrust of Chinese technology has led to the banishment of tech **compatriot**s such as Huawei, a telecoms­ equipment maker. Aliyun’s revenues grew by 20% year on year in the last quarter of 2021. Not bad, you might think. But much slower than analysts had anticipated.
 
 > **a case in point：**一个恰当的例子；例证
  > 

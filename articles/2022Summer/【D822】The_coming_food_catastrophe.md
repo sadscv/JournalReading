@@ -3,14 +3,14 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 ---
 
 # D822 The coming food catastrophe
-1.By invading ukraine, Vladimir Putin will destroy the lives of people far from the battlefield—and on a scale even he may regret. The war is **battering **a global food system weakened by covid-19, climate change and an energy shock. Ukraine’s exports of grain and oilseeds have mostly stopped and Russia’s are threatened. Together, the two countries supply 12% of traded calories. Wheat prices, up 53% since the start of the year, jumped a further 6% on May 16th, after India said it would suspend exports because of an alarming heatwave.
+1.By invading ukraine, Vladimir Putin will destroy the lives of people far from the battlefield—and on a scale even he may regret. The war is **battering** a global food system weakened by covid-19, climate change and an energy shock. Ukraine’s exports of grain and oilseeds have mostly stopped and Russia’s are threatened. Together, the two countries supply 12% of traded calories. Wheat prices, up 53% since the start of the year, jumped a further 6% on May 16th, after India said it would suspend exports because of an alarming heatwave.
 
 > batter：殴打；猛击
  > 
 > 油籽；油料
  > 
 
-2.The widely accepted idea of a cost-of-living crisis does not begin to capture the gravity of what may lie ahead. Antonio Guterres, the UN secretary general, warned on May 18th that the coming months threaten “the **spectre** of a global food shortage” that could last for years. The high cost of **staple food**s has already raised the number of people who cannot be sure of getting enough to eat by 440m, to 1.6bn. Nearly 250m are on the brink of** famine.** If, as is likely, the war drags on and supplies from Russia and Ukraine are limited, hundreds of millions more people could fall into poverty. Political **unrest** will spread, children will be **stunted** and people will starve.
+2.The widely accepted idea of a cost-of-living crisis does not begin to capture the gravity of what may lie ahead. Antonio Guterres, the UN secretary general, warned on May 18th that the coming months threaten “the **spectre** of a global food shortage” that could last for years. The high cost of **staple food**s has already raised the number of people who cannot be sure of getting enough to eat by 440m, to 1.6bn. Nearly 250m are on the brink of **famine.** If, as is likely, the war drags on and supplies from Russia and Ukraine are limited, hundreds of millions more people could fall into poverty. Political **unrest** will spread, children will be **stunted** and people will starve.
 
 > **spectre**：恐惧；恐慌；鬼；
  > 
@@ -25,7 +25,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 
 3.Mr Putin must not use food as a weapon. Shortages are not the inevitable outcome of war. World leaders should see hunger as a global problem urgently requiring a global solution.
 
-4.Russia and Ukraine supply 28% of globally traded wheat, 29% of the barley, 15% of the **maize** and 75% of the sunflower oil (see Briefing). Russia and Ukraine contribute about half the cereals imported by Lebanon and **Tunisia**; for Libya and Egypt the figure is two-thirds. Ukraine’s food exports provide the calories to feed 400m people. The war is disrupting these supplies because Ukraine has **mine**d its waters to deter an assault, and Russia is blockading the port of** Odessa**.
+4.Russia and Ukraine supply 28% of globally traded wheat, 29% of the barley, 15% of the **maize** and 75% of the sunflower oil (see Briefing). Russia and Ukraine contribute about half the cereals imported by Lebanon and **Tunisia**; for Libya and Egypt the figure is two-thirds. Ukraine’s food exports provide the calories to feed 400m people. The war is disrupting these supplies because Ukraine has **mine**d its waters to deter an assault, and Russia is blockading the port of **Odessa**.
 
 > **maize**：玉米
  > 
@@ -36,7 +36,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 > **Odessa**：敖得萨
  > 
 
-5.Even before the invasion the World Food Programme had warned that 2022 would be a terrible year. China, the largest wheat producer, has said that, after rains delayed planting last year, this crop may be its worst-ever. Now, in addition to the extreme temperatures in India, the world’s second-largest producer, a lack of rain threatens to **sap **yields in other **breadbaskets**, from America’s wheat belt to the Beauce region of France. The Horn of Africa is being **ravaged **by its worst drought in four decades. Welcome to the era of climate change.
+5.Even before the invasion the World Food Programme had warned that 2022 would be a terrible year. China, the largest wheat producer, has said that, after rains delayed planting last year, this crop may be its worst-ever. Now, in addition to the extreme temperatures in India, the world’s second-largest producer, a lack of rain threatens to **sap** yields in other **breadbaskets**, from America’s wheat belt to the Beauce region of France. The Horn of Africa is being **ravaged** by its worst drought in four decades. Welcome to the era of climate change.
 
 > **sap**：消耗; 削弱
  > 
@@ -45,7 +45,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 > **breadbasket：**粮仓（指一国或地区的粮食生产基地，尤指谷物生产基地）
  > 
 
-6.All this will have a **grievous **effect on the poor. Households in emerging economies spend 25% of their budgets on food—and in sub-Saharan Africa as much as 40%. In Egypt bread provides 30% of all calories. In many importing countries, governments cannot afford subsidies to increase the help to the poor, especially if they also import energy—another market in turmoil.
+6.All this will have a **grievous** effect on the poor. Households in emerging economies spend 25% of their budgets on food—and in sub-Saharan Africa as much as 40%. In Egypt bread provides 30% of all calories. In many importing countries, governments cannot afford subsidies to increase the help to the poor, especially if they also import energy—another market in turmoil.
 
 > **grievous**：极其严重的; 令人担忧的
  > 
@@ -55,7 +55,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 > **barley**：大麦
  > 
 
-8.In spite of soaring grain prices, farmers elsewhere in the world may not make up the shortfall. One reason is that prices are **volatile**. Worse,** profit margin**s are shrinking, because of the surging prices of fertiliser and energy. These are farmers’ main costs and both markets are disrupted by sanctions and the **scramble **for natural gas. If farmers** cut back on **fertiliser, global yields will be lower at just the wrong time.
+8.In spite of soaring grain prices, farmers elsewhere in the world may not make up the shortfall. One reason is that prices are **volatile**. Worse, **profit margin**s are shrinking, because of the surging prices of fertiliser and energy. These are farmers’ main costs and both markets are disrupted by sanctions and the **scramble** for natural gas. If farmers **cut back on** fertiliser, global yields will be lower at just the wrong time.
 
 > **volatile：**易变的；不稳定的
  > 
@@ -74,14 +74,14 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 > **inaction**：不作为
  > 
 
-11.Instead states need to act together, starting by keeping markets open. This week Indonesia, source of 60% of the world’s palm oil, lifted a temporary ban on exports. Europe should help Ukraine ship its grain via rail and road to ports in Romania or the** Baltics**, though even the most optimistic forecasts say that just 20% of the harvest could get out that way. Importing countries need support, too, so they do not end up being **capsized **by enormous bills. Emergency supplies of grain should go only to the very poorest. For others, import financing on favourable terms, perhaps provided through the imf, would allow donors’ dollars to go further. Debt relief may also help to free up vital resources.
+11.Instead states need to act together, starting by keeping markets open. This week Indonesia, source of 60% of the world’s palm oil, lifted a temporary ban on exports. Europe should help Ukraine ship its grain via rail and road to ports in Romania or the **Baltics**, though even the most optimistic forecasts say that just 20% of the harvest could get out that way. Importing countries need support, too, so they do not end up being **capsized** by enormous bills. Emergency supplies of grain should go only to the very poorest. For others, import financing on favourable terms, perhaps provided through the imf, would allow donors’ dollars to go further. Debt relief may also help to free up vital resources.
 
 > **Baltics：**波罗的海
  > 
 > **capsize**：(使)翻转；翻船
  > 
 
-12.There is scope for substitution. About 10% of all grains are used to make **biofuel**; and 18% of vegetable oils go to biodiesel. Finland and **Croatia **have weakened mandates that require petrol to include fuel from crops. Others should follow their lead. An enormous amount of grain is used to feed animals. According to the Food and Agriculture Organisation, grain accounts for 13% of cattle **dry feed**. In 2021 China imported 28m tonnes of corn to feed its pigs, more than Ukraine exports in a year.
+12.There is scope for substitution. About 10% of all grains are used to make **biofuel**; and 18% of vegetable oils go to biodiesel. Finland and **Croatia** have weakened mandates that require petrol to include fuel from crops. Others should follow their lead. An enormous amount of grain is used to feed animals. According to the Food and Agriculture Organisation, grain accounts for 13% of cattle **dry feed**. In 2021 China imported 28m tonnes of corn to feed its pigs, more than Ukraine exports in a year.
 
 > **biofuel：**生物燃料
  > 
@@ -101,7 +101,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 > **onside**：支持的; 赞同的 [英国英语] [v-link ADJ]
  > 
 
-14.That will not be easy. Russia, struggling on the battlefield, is trying to **strangle **Ukraine’s economy. Ukraine is reluctant to clear its mines. Persuading them to **relent **will be a task for countries, including India and China, that have sat out the war. Convoys may require armed escorts endorsed by a broad coalition. Feeding a fragile world is everyone’s business.
+14.That will not be easy. Russia, struggling on the battlefield, is trying to **strangle** Ukraine’s economy. Ukraine is reluctant to clear its mines. Persuading them to **relent** will be a task for countries, including India and China, that have sat out the war. Convoys may require armed escorts endorsed by a broad coalition. Feeding a fragile world is everyone’s business.
 
 > **strangle** :勒死；抑制
  > 

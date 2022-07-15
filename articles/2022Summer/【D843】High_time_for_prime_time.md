@@ -3,7 +3,7 @@ description: Why America’s probe into the attempted coup last year is needed, 
 ---
 
 # D843 High time for prime time 
-1. The essence of what happened on January 6th 2021 is wellknown, if still shocking to recall. A mob stormed the Capitol in Washington, dc, in an effort to prevent Congress from certifying Joe Biden’s election victory. Four people in the crowd died that day, and five police officers in its **aftermath**. Members of Congress had to be rushed to a secure location in a basement.** Rioter**s **erected** a mock **gallow**s and **chanted** “Hang Mike Pence”. And the man who inspired all this was the president himself, who had urged his followers to help overturn his election defeat. As the Republicans’ leader in the Senate, Mitch McConnell, told the Senate a few weeks later, Donald Trump was “practically and morally responsible” for these events: “The people who stormed this building believed they were acting on the wishes and instructions of their president.”
+1. The essence of what happened on January 6th 2021 is wellknown, if still shocking to recall. A mob stormed the Capitol in Washington, dc, in an effort to prevent Congress from certifying Joe Biden’s election victory. Four people in the crowd died that day, and five police officers in its **aftermath**. Members of Congress had to be rushed to a secure location in a basement. **Rioter**s **erected** a mock **gallow**s and **chanted** “Hang Mike Pence”. And the man who inspired all this was the president himself, who had urged his followers to help overturn his election defeat. As the Republicans’ leader in the Senate, Mitch McConnell, told the Senate a few weeks later, Donald Trump was “practically and morally responsible” for these events: “The people who stormed this building believed they were acting on the wishes and instructions of their president.”
 
 > **aftermath**:后果；余波
  > 
@@ -16,7 +16,7 @@ description: Why America’s probe into the attempted coup last year is needed, 
 > **chant:**颂扬；卖唱
  > 
 
-2. So what is the point of the **public hearing**s of the House committee probing the **insurrection** due to start on June 9th (see United States section)? From Thursday’s prime­time** political theatre** to half a dozen sessions that will follow before a final report in September, the coverage will be viewed very differently on either side of a **polarised **country. Commentators on the right will** belittle** it all as a** witch hunt.** And after November’s midterm elections, in which the Republicans look likely to win control of the House, they can be counted on to bury the matter.
+2. So what is the point of the **public hearing**s of the House committee probing the **insurrection** due to start on June 9th (see United States section)? From Thursday’s prime­time **political theatre** to half a dozen sessions that will follow before a final report in September, the coverage will be viewed very differently on either side of a **polarised** country. Commentators on the right will **belittle** it all as a **witch hunt.** And after November’s midterm elections, in which the Republicans look likely to win control of the House, they can be counted on to bury the matter.
 
 > **public hearing:**公证会
  > 
@@ -53,11 +53,11 @@ description: Why America’s probe into the attempted coup last year is needed, 
 > **deposition**：书面证词a formal statement, taken from sb and used in court
  > 
 
-5. A flow of fresh facts about the depth of **plotting** would reinforce the third reason why these hearings are important: the threat is not over. True, America’s democracy** prevail**ed despite the attack. Members of Congress were eventually able to go back into the chamber and they duly certified the election (**albeit **that, despite the violence that had occurred that day, 138 Republican House members still voted to reject the results in Pennsylvania). Mr Biden became president. But even now 60% of Republicans believe Mr Trump’s lie that the election was stolen. And the party has decided that the insurrection was not serious enough to break with Mr Trump, leaving him the **front­runner** for the Republican nomination in 2024. If Republicans select him, Mr McConnell says he will back him.
+5. A flow of fresh facts about the depth of **plotting** would reinforce the third reason why these hearings are important: the threat is not over. True, America’s democracy **prevail**ed despite the attack. Members of Congress were eventually able to go back into the chamber and they duly certified the election (**albeit** that, despite the violence that had occurred that day, 138 Republican House members still voted to reject the results in Pennsylvania). Mr Biden became president. But even now 60% of Republicans believe Mr Trump’s lie that the election was stolen. And the party has decided that the insurrection was not serious enough to break with Mr Trump, leaving him the **front­runner** for the Republican nomination in 2024. If Republicans select him, Mr McConnell says he will back him.
 
 > **plotting:**阴谋；密谋
  > 
-> **albeit **：尽管；虽然
+> **albeit** ：尽管；虽然
  > 
 > **prevail：**说服；胜；盛行；占上风
  > 

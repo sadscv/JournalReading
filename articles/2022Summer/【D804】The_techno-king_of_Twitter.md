@@ -10,7 +10,7 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **buy­out**：收购全部；买进全部产权或股权；买断
  > 
 
-2.Compared with its rivals-Facebook, Instagram and TikTok-Twitter is a **minnow**. But the deal matters. One reason is that Twitter’s size **belies** its importance. As a **haunt** of politicians, pundits and** wonk**s, it does much to set the political weather—a digital “public square”, as Mr Musk put it.
+2.Compared with its rivals-Facebook, Instagram and TikTok-Twitter is a **minnow**. But the deal matters. One reason is that Twitter’s size **belies** its importance. As a **haunt** of politicians, pundits and **wonk**s, it does much to set the political weather—a digital “public square”, as Mr Musk put it.
 
 > **minnow**：米诺鱼（多种小型鱼类的总称）；无足轻重的（小）公司
  > 
@@ -21,12 +21,12 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **wonk**:一味苦干的人；书呆子；
  > 
 
-3.Another is that Mr Musk made his name and his fortune by **upending** industries. This time, he will be grappling with a **knoty **problem of keen interest to governments around the world— how to regulate speech online. Most prescribe ever more rules. But Mr Musk wants to go the other way, removing restrictions instead of imposing new ones. The operators of other big social networks will be watching the experiment with interest.
+3.Another is that Mr Musk made his name and his fortune by **upending** industries. This time, he will be grappling with a **knoty** problem of keen interest to governments around the world— how to regulate speech online. Most prescribe ever more rules. But Mr Musk wants to go the other way, removing restrictions instead of imposing new ones. The operators of other big social networks will be watching the experiment with interest.
 
 > **upend**:颠倒
  > 
 
-4.**At first blush**, Mr Musk—best known for electric cars and reusable rockets—seems an unlikely social­ media **mogul**. But a closer look suggests his acquisition of Twitter fits his approach to business. Mr Musk, a passionate engineer, likes to take poorly performing technologies and improve them. Tesla tore up the car industry’s rule book by replacing petrol with electricity, ditching **dealership**s and treating cars as computers. SpaceX proved that a hungry, move-fast-and­-break­things startup run on a relative **shoestring **could outperform** aerospace** giants grown cautious and fat on the back of generous government contracts. Both firms were dismissed by bigger **incumbents**—until one day they weren’t.
+4.**At first blush**, Mr Musk—best known for electric cars and reusable rockets—seems an unlikely social­ media **mogul**. But a closer look suggests his acquisition of Twitter fits his approach to business. Mr Musk, a passionate engineer, likes to take poorly performing technologies and improve them. Tesla tore up the car industry’s rule book by replacing petrol with electricity, ditching **dealership**s and treating cars as computers. SpaceX proved that a hungry, move-fast-and­-break­things startup run on a relative **shoestring** could outperform **aerospace** giants grown cautious and fat on the back of generous government contracts. Both firms were dismissed by bigger **incumbents**—until one day they weren’t.
 
 > **At first blush**：乍一看
  > 
@@ -41,7 +41,7 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **aerospace**:航空宇宙
  > 
 
-5.All that engineering and disruption is animated by Mr Musk’s own, sometimes **idiosyncratic **conception of the social good. Tesla’s purpose is to **prod **the world more quickly towards a carbon­free economy (a goal vindicated by the speed at which other carmakers are now pivoting to electric vehicles). SpaceX’s ambition is so **grandiose** some commentators struggle to believe that Mr Musk is sincere: to establish a human presence on Mars, something that, were a catastrophe to **befall** Earth, might one day prove to have been an insurance policy for civilisation.
+5.All that engineering and disruption is animated by Mr Musk’s own, sometimes **idiosyncratic** conception of the social good. Tesla’s purpose is to **prod** the world more quickly towards a carbon­free economy (a goal vindicated by the speed at which other carmakers are now pivoting to electric vehicles). SpaceX’s ambition is so **grandiose** some commentators struggle to believe that Mr Musk is sincere: to establish a human presence on Mars, something that, were a catastrophe to **befall** Earth, might one day prove to have been an insurance policy for civilisation.
 
 > **idiosyncratic**：独特的、怪癖的
  > 
@@ -61,7 +61,7 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **get cold feet**:没有准备；站稳脚跟；畏缩；感到沮丧
  > 
 
-7.Twitter fits the pattern of Tesla and SpaceX, offering Mr Musk another complex engineering system to** tinker** with, and a grand reason for doing so. Social media deploy algorithms to highlight “engaging” content, using a **thicket **of rules that try to **mitigate** the worst side-­effects, the better to sell users to advertisers. It is a business model full of inconsistencies and unexamined trade offs that looks **ripe** for disruption. That Mr Musk wants to be its agent is perhaps no surprise,for he **cut **his entrepreneurial** teeth** in the 1990s, when techno­libertarianism and **anti­censorship** were the internet’s animating ideas.
+7.Twitter fits the pattern of Tesla and SpaceX, offering Mr Musk another complex engineering system to **tinker** with, and a grand reason for doing so. Social media deploy algorithms to highlight “engaging” content, using a **thicket** of rules that try to **mitigate** the worst side-­effects, the better to sell users to advertisers. It is a business model full of inconsistencies and unexamined trade offs that looks **ripe** for disruption. That Mr Musk wants to be its agent is perhaps no surprise,for he **cut** his entrepreneurial **teeth** in the 1990s, when techno­libertarianism and **anti­censorship** were the internet’s animating ideas.
 
 > **tinker**:小修补
  > 
@@ -83,7 +83,7 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **bot**:网上机器人；自动程序
  > 
 
-9.More significant, he thinks the **cog**s and **ratchet**s of Twitter’s recommendation algorithm, which decides which tweets a user sees, should be public. Researchers could examine it; other programmers could tweak it. A version less prone to pushing “engaging” content—which, in practice, often means tweets that are** enraging**, controversial or plain **daft**—could lower the temperature of the entire platform, making the job of moderation easier and possibly leading to debate that is more thoughtful. Or perhaps Twitter could become an open platform, where different users may choose one of many different third­party algorithms—or none at all—according to their taste. **Content moderation** is the messy product of political and social pressures. It will be fascinating to see how easily it** succumb**s to engineering.
+9.More significant, he thinks the **cog**s and **ratchet**s of Twitter’s recommendation algorithm, which decides which tweets a user sees, should be public. Researchers could examine it; other programmers could tweak it. A version less prone to pushing “engaging” content—which, in practice, often means tweets that are **enraging**, controversial or plain **daft**—could lower the temperature of the entire platform, making the job of moderation easier and possibly leading to debate that is more thoughtful. Or perhaps Twitter could become an open platform, where different users may choose one of many different third­party algorithms—or none at all—according to their taste. **Content moderation** is the messy product of political and social pressures. It will be fascinating to see how easily it **succumb**s to engineering.
 
 > **cog**:轮齿;
  > 
@@ -102,9 +102,9 @@ description: The world’s best-known engineer takes on the problem of free spee
 
 10.Mr Musk will not have an entirely free hand. Australia, Britain, the  eu and India, have all been working on tech-­regulation. Thierry Breton, a senior eu official, noted that “It’s not [Mr Musk’s] rules that will apply here.” Mr Musk’s other investors are nervous. The more time he devotes to Twitter, the less he will have for his other ventures. Shares in Tesla fell by 12% after news of the Twitter deal.
 
-11.Mr Musk’s personality poses a big risk. He is clever, driven and ferociously hard­working. He can also be **puerile** and** vindictive**, traits on display in 2018 when he accused a British cave rescue expert, with no evidence, of being a “pedo guy”. Such outbursts are one thing coming from a Twitter user with a big following. But when he is the owner, they will raise questions about whether he will be able to resist the temptation to exploit his new position to pursue his own obsessions and **vendettas**.
+11.Mr Musk’s personality poses a big risk. He is clever, driven and ferociously hard­working. He can also be **puerile** and **vindictive**, traits on display in 2018 when he accused a British cave rescue expert, with no evidence, of being a “pedo guy”. Such outbursts are one thing coming from a Twitter user with a big following. But when he is the owner, they will raise questions about whether he will be able to resist the temptation to exploit his new position to pursue his own obsessions and **vendettas**.
 
-> **puerile: **愚蠢的；幼稚的
+> **puerile:** 愚蠢的；幼稚的
  > 
 > **vindictive**:报复性的；怀恨的
  > 
@@ -112,10 +112,8 @@ description: The world’s best-known engineer takes on the problem of free spee
  > 
 > **vendetta**：宿怨
  > 
-> **The bird and the oak tree **
- > 
 
-12.This newspaper shares Mr Musk’s free­speech **convictions**. Nobody has a monopoly on wisdom. Experts are sometimes wrong and **blowhard**s sometimes right. Even in the internet age, the best response to a bad argument is a better one. Moderation on many platforms has become heavy-­handed and arbitrarily enforced. If Mr Musk’s talent for** shaking up** industries can help cut the **Gordian knot** of online speech, everyone will benefit.
+12.This newspaper shares Mr Musk’s free­speech **convictions**. Nobody has a monopoly on wisdom. Experts are sometimes wrong and **blowhard**s sometimes right. Even in the internet age, the best response to a bad argument is a better one. Moderation on many platforms has become heavy-­handed and arbitrarily enforced. If Mr Musk’s talent for **shaking up** industries can help cut the **Gordian knot** of online speech, everyone will benefit.
 
 > **conviction**：坚定的信念
  > 
@@ -128,8 +126,8 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **shake up** :重新改组
  > 
 
-13.But we are also keen on another liberal principle, that institutions should be bigger than the person running them. Mr Musk can set new rules, but he should be seen to play no role in enforcing them. If he really wants to convince users that he will be an **impartial **guardian of his “digital public square”, he could implement his reforms—and then freeze his own account.
+13.But we are also keen on another liberal principle, that institutions should be bigger than the person running them. Mr Musk can set new rules, but he should be seen to play no role in enforcing them. If he really wants to convince users that he will be an **impartial** guardian of his “digital public square”, he could implement his reforms—and then freeze his own account.
 
-> **impartial **:公正的；不偏不倚的；中立的
+> **impartial** :公正的；不偏不倚的；中立的
  > 
 

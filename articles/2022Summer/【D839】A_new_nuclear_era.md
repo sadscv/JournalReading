@@ -3,7 +3,7 @@ description: With his threats to use the bomb, Russia’s president has overturn
 ---
 
 # D839   A new nuclear era 
-1. One hundred days ago Vladimir Putin launched his invasion of Ukraine by warning of a nuclear strike. Having **exalted** Russia’s atomic **arsenal** and promised Ukraine’s **subjugation,** he threatened countries tempted to interfere with consequences “such as you have never seen in your entire history”. Russian tv has since **tantalised **viewers with **chit-chat** abou**t Armageddon**.
+1. One hundred days ago Vladimir Putin launched his invasion of Ukraine by warning of a nuclear strike. Having **exalted** Russia’s atomic **arsenal** and promised Ukraine’s **subjugation,** he threatened countries tempted to interfere with consequences “such as you have never seen in your entire history”. Russian tv has since **tantalised** viewers with **chit-chat** abou**t Armageddon**.
 
 > **exalt**：提拔；表扬；褒扬；高度赞扬
  > 
@@ -11,7 +11,7 @@ description: With his threats to use the bomb, Russia’s president has overturn
  > 
 > **subjugation**:征服；镇压,服从；抑制
  > 
-> **tantalised **：逗弄；挑逗；使干着急
+> **tantalised** ：逗弄；挑逗；使干着急
  > 
 > **Armageddon**：世界末日，大决战
  > 
@@ -31,7 +31,7 @@ description: With his threats to use the bomb, Russia’s president has overturn
  > 
 > **ballistic**：弹道（学）的；发射的
  > 
-> **intercontinental **：洲际的
+> **intercontinental** ：洲际的
  > 
 > **uranium**：铀
  > 
@@ -57,7 +57,7 @@ description: With his threats to use the bomb, Russia’s president has overturn
 > **stand-off**：僵局；困局
  > 
 
-5. The invasion of Ukraine adds to this** malaise**. Even if Mr Putin is bluffing, his threats** eat away** at the security guarantees given to non-nuclear states. In 1994 Ukraine surrendered the ex-Soviet nuclear weapons on its territory in exchange for **undertaking**s from Russia, America and Britain that it would not be attacked. By seizing **Crimea** and backing separatists in the Donbas regions in 2014, Russia **flagrantly **broke that promise. America and Britain, which pretty much** stood aside**, broke their promises, too.
+5. The invasion of Ukraine adds to this **malaise**. Even if Mr Putin is bluffing, his threats **eat away** at the security guarantees given to non-nuclear states. In 1994 Ukraine surrendered the ex-Soviet nuclear weapons on its territory in exchange for **undertaking**s from Russia, America and Britain that it would not be attacked. By seizing **Crimea** and backing separatists in the Donbas regions in 2014, Russia **flagrantly** broke that promise. America and Britain, which pretty much **stood aside**, broke their promises, too.
 
 > **malaise**：难以捉摸的问题
  > 
@@ -69,7 +69,7 @@ description: With his threats to use the bomb, Russia’s president has overturn
  > 
 > **back**：支持
  > 
-> **flagrantly **：明目张胆地
+> **flagrantly** ：明目张胆地
  > 
 > **stood aside**：（stand aside）站开；避开；不参加
  > 
@@ -79,7 +79,7 @@ description: With his threats to use the bomb, Russia’s president has overturn
 > **renounce**：声明放弃；宣布放弃；宣布与…决裂
  > 
 
-7. Mr Putin’s strategy of issuing nuclear threats is even more **corrosive**. In the decades after the second world war, the nuclear powers **contemplated** deploying atomic weapons in battle. But in the past half-century such warnings have been issued only against countries, such as Iraq and North Korea, that were themselves threatening to use weapons of mass destruction. Mr Putin is different because he is invoking atomic threats to help his invading forces win a** conventional war**.
+7. Mr Putin’s strategy of issuing nuclear threats is even more **corrosive**. In the decades after the second world war, the nuclear powers **contemplated** deploying atomic weapons in battle. But in the past half-century such warnings have been issued only against countries, such as Iraq and North Korea, that were themselves threatening to use weapons of mass destruction. Mr Putin is different because he is invoking atomic threats to help his invading forces win a **conventional war**.
 
 > **corrosive**:侵蚀性的；损害性的
  > 
@@ -88,9 +88,9 @@ description: With his threats to use the bomb, Russia’s president has overturn
 > **conventional war:**(不使用核武器的)常规战争
  > 
 
-8.And it seems to have worked. True, nato’s support for Ukraine has been more **robust **than expected. But the alliance has hesitated to dispatch “offensive” weapons such as aircraft. Although America’s president, Joe Biden, has sent vast amounts of arms, this week he **demurred** from providing missiles able to strike deep inside Russia. Others in nato seem to think that Ukraine should settle with Russia, because inflicting a defeat on Mr Putin could back him into a corner, with **dire** consequences.
+8.And it seems to have worked. True, nato’s support for Ukraine has been more **robust** than expected. But the alliance has hesitated to dispatch “offensive” weapons such as aircraft. Although America’s president, Joe Biden, has sent vast amounts of arms, this week he **demurred** from providing missiles able to strike deep inside Russia. Others in nato seem to think that Ukraine should settle with Russia, because inflicting a defeat on Mr Putin could back him into a corner, with **dire** consequences.
 
-> **robust **:强壮的；结实的；耐用的
+> **robust** :强壮的；结实的；耐用的
  > 
 > **demur:**表示反对；提出异议；拒绝
  > 
@@ -104,12 +104,12 @@ description: With his threats to use the bomb, Russia’s president has overturn
 > **disarmament**:裁减军备（尤指核武器）
  > 
 
-10.Mr Putin’s damage will be hard to repair. The Treaty on the Prohibition of Nuclear Weapons, which came into force last year and is backed by 86 states, calls for their** abolition**. However, countries with weapons fear leaving themselves more vulnerable, even if collective disarmament might make sense.
+10.Mr Putin’s damage will be hard to repair. The Treaty on the Prohibition of Nuclear Weapons, which came into force last year and is backed by 86 states, calls for their **abolition**. However, countries with weapons fear leaving themselves more vulnerable, even if collective disarmament might make sense.
 
 > **abolition**:废除；取消
  > 
 
-11. Arms control, with** scrupulous** verification, is worth pursuing. Russia may be** wary**, but it is **impoverished**. **Nukes** cost money and it needs to rebuild its conventional forces. America could retire its land-based missiles without compromising its security in exchange for Russian cuts. Both sides could agree on technical measures, such as not to strike nuclear command, control and communications infrastructure in a conventional conflict. Ultimately, the aim should be to bring in China.
+11. Arms control, with **scrupulous** verification, is worth pursuing. Russia may be **wary**, but it is **impoverished**. **Nukes** cost money and it needs to rebuild its conventional forces. America could retire its land-based missiles without compromising its security in exchange for Russian cuts. Both sides could agree on technical measures, such as not to strike nuclear command, control and communications infrastructure in a conventional conflict. Ultimately, the aim should be to bring in China.
 
 > **scrupulous:**仔细的；细致的；一丝不苟的
  > 
@@ -120,14 +120,14 @@ description: With his threats to use the bomb, Russia’s president has overturn
 > **nuke:**核武器；核电站
  > 
 
-12.Those talks will be easier if Mr Putin’s nuclear tactics fail—starting with ensuring he does not strike Ukraine. Mr Biden wrote this week that America has not detected preparations. But countries such as China, India, Israel and Turkey with access to the **Kremlin** should be warning Mr Putin of their** fury** if, God forbid, he actually uses a nuclear weapon.
+12.Those talks will be easier if Mr Putin’s nuclear tactics fail—starting with ensuring he does not strike Ukraine. Mr Biden wrote this week that America has not detected preparations. But countries such as China, India, Israel and Turkey with access to the **Kremlin** should be warning Mr Putin of their **fury** if, God forbid, he actually uses a nuclear weapon.
 
 > **fury**:狂怒；狂暴
  > 
 > **Kremlin**:克里姆林宫的
  > 
 
-13. Sparing Ukraine from a nuclear attack is essential, but it is not enough. The world must also make certain that Mr Putin does not **prosper** from his aggression today, as he prospered in 2014. If, once again, he believes that his tactics worked, he will issue more nuclear threats in the future. If he concludes nato can be** intimidated**, persuading him that he must back down will be harder. Others will learn from his example. Ukraine therefore needs advanced weapons, economic aid and sanctions on Russia in order to force Mr Putin’s army into a retreat.
+13. Sparing Ukraine from a nuclear attack is essential, but it is not enough. The world must also make certain that Mr Putin does not **prosper** from his aggression today, as he prospered in 2014. If, once again, he believes that his tactics worked, he will issue more nuclear threats in the future. If he concludes nato can be **intimidated**, persuading him that he must back down will be harder. Others will learn from his example. Ukraine therefore needs advanced weapons, economic aid and sanctions on Russia in order to force Mr Putin’s army into a retreat.
 
 > **spare:**抽出；匀出；饶恕
  > 
@@ -136,9 +136,9 @@ description: With his threats to use the bomb, Russia’s president has overturn
 > **intimidated:**胆怯；怯场
  > 
 
-14. Those countries that see this as just a passing European fight are neglecting their own security. And those arguing in the name of peace that Ukraine needs a** truce** with Russia right now, to avoid being **bogged down** in a war it cannot win with an enemy that has already lost its sting, could not be more wrong. If Mr Putin thought nato lacked **resolve **Russia would remain dangerous. If he were convinced that his nuclear threats had been the difference between defeat and a face-saving **stalemate**, Russia would be more dangerous than ever.
+14. Those countries that see this as just a passing European fight are neglecting their own security. And those arguing in the name of peace that Ukraine needs a **truce** with Russia right now, to avoid being **bogged down** in a war it cannot win with an enemy that has already lost its sting, could not be more wrong. If Mr Putin thought nato lacked **resolve** Russia would remain dangerous. If he were convinced that his nuclear threats had been the difference between defeat and a face-saving **stalemate**, Russia would be more dangerous than ever.
 
-> ** truce:**休战；停战协定
+> **truce:**休战；停战协定
  > 
 > **bog down**:陷入困境；陷入僵局
  > 

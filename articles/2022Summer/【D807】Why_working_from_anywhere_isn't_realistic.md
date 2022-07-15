@@ -17,8 +17,6 @@ description: The globe-trotting lifestyle will be open only to a lucky few
  > 
 > **digital nomad：**数字游民
  > 
-> **untether**：to free from or as if from a tether
- > 
 
 4.The work-from-anywhere world edged a little closer on April 28th, when Brian Chesky, Airbnb’s boss, outlined new policies for employees of the property-renting platform. As well as being able to move wherever they want in their country of employment without any cost-of-living adjustment, Airbnb staff can also spend up to 90 days each year living and working abroad. Mr Chesky has been living out of Airbnb properties himself for the past few months, and thinks this is the future.
 
@@ -39,7 +37,7 @@ Another set of obstacles is more personal. The **carefree** promise of working f
 > **carefree:**无忧无虑的；无责任的
  > 
 
-7.The option to work from anywhere will be most attractive to people who have well-paid jobs and fewer obligations: childless tech workers, say. For many other people, the “anywhere” in working from anywhere will still **boil down **to a simple choice between their home and their office. That might be a recipe for** resentment** within teams. Imagine dialling into a Zoom call covered in baby drool, and hearing Greg from product **wax lyrical **about how amazing **Chamonix** is at this time of year.
+7.The option to work from anywhere will be most attractive to people who have well-paid jobs and fewer obligations: childless tech workers, say. For many other people, the “anywhere” in working from anywhere will still **boil down** to a simple choice between their home and their office. That might be a recipe for **resentment** within teams. Imagine dialling into a Zoom call covered in baby drool, and hearing Greg from product **wax lyrical** about how amazing **Chamonix** is at this time of year.
 
 > **boil down** :浓缩；归结为
  > 
@@ -52,13 +50,13 @@ Another set of obstacles is more personal. The **carefree** promise of working f
 
 > **smudge**:把…擦模糊（或弄得看不清楚）
  > 
-> **smear: **变得模糊不清 to become not clear in this way
+> **smear:** 变得模糊不清 to become not clear in this way
  > 
 
-9.Adding to the menu of working options for **sought-after** employees makes sense. Mr Chesky’s new policies will probably help him attract better people to Airbnb. They are certainly aligned with the service he is selling. But for the** foreseeable **future, working from anywhere will be a perk for a lucky few rather than a blueprint for things to come.
+9.Adding to the menu of working options for **sought-after** employees makes sense. Mr Chesky’s new policies will probably help him attract better people to Airbnb. They are certainly aligned with the service he is selling. But for the **foreseeable** future, working from anywhere will be a perk for a lucky few rather than a blueprint for things to come.
 
 > **sought-after**:wanted by many people, because it is of very good quality or difficult to get or to find广受欢迎的
  > 
-> **foreseeable **:可预见的
+> **foreseeable** :可预见的
  > 
 

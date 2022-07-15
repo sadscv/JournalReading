@@ -15,7 +15,7 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 > **salvage**:打捞；挽救；挽回
  > 
 
-4.Our briefing this week sets out just how rotten the army has been. Russia’s defence budget, of over $250bn at purchasing power, is about three times that of Britain or France, but much of it is **squander**ed or stolen. Mr Putin and his top commanders kept their invasion plans from senior offifcers, reflecting a** crippling** lack of trust. Disaffected troops, fed on out­ of­ date **ration**s, have deserted their vehicles. Units have tortured, raped and murdered only to be honoured by the Kremlin. Russia has failed to win control of the skies or combine air power with tanks,** artillery** and **infantry**. Wallowing in corruption, unable to foster initiative or learn from their mistakes, its frustrated generals abandoned advanced military doctrine and **fell back on** flattening cities and terrorising civilians.
+4.Our briefing this week sets out just how rotten the army has been. Russia’s defence budget, of over $250bn at purchasing power, is about three times that of Britain or France, but much of it is **squander**ed or stolen. Mr Putin and his top commanders kept their invasion plans from senior offifcers, reflecting a **crippling** lack of trust. Disaffected troops, fed on out­ of­ date **ration**s, have deserted their vehicles. Units have tortured, raped and murdered only to be honoured by the Kremlin. Russia has failed to win control of the skies or combine air power with tanks, **artillery** and **infantry**. Wallowing in corruption, unable to foster initiative or learn from their mistakes, its frustrated generals abandoned advanced military doctrine and **fell back on** flattening cities and terrorising civilians.
 
 > **squander**:浪费
  > 
@@ -30,23 +30,23 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 > **Fall back on:**依靠于;退守；投靠
  > 
 
-5.Ukraine’s highly motivated forces are a** rebuke** to these Russian failings. Despite being less numerous and less well armed, they resisted the invading army by passing decision ­making to small, adaptable local units given up ­to­ the ­minute intelligence. Even if the Russian campaign, now under a single commander, makes gains in Donbas, it will do so chiefly thanks to its sheer mass. Its claim to be a sophisticated modern force is as convincing as a **tank turret** rusting in a Ukrainian field.
+5.Ukraine’s highly motivated forces are a **rebuke** to these Russian failings. Despite being less numerous and less well armed, they resisted the invading army by passing decision ­making to small, adaptable local units given up ­to­ the ­minute intelligence. Even if the Russian campaign, now under a single commander, makes gains in Donbas, it will do so chiefly thanks to its sheer mass. Its claim to be a sophisticated modern force is as convincing as a **tank turret** rusting in a Ukrainian field.
 
 > **rebuke**：指责；批评
  > 
 > **tank turret**:坦克炮塔
  > 
 
-6.For Mr Putin this is a crushing **setback**. That is partly because, although he controls a **formidable **propaganda machine to help **drown out** his critics, the loss of face threatens his standing at home. It is mostly because the use of military force is central to his strategy for making Russia count in the world.
+6.For Mr Putin this is a crushing **setback**. That is partly because, although he controls a **formidable** propaganda machine to help **drown out** his critics, the loss of face threatens his standing at home. It is mostly because the use of military force is central to his strategy for making Russia count in the world.
 
 > **setback**：挫败
  > 
-> **formidable **：可怕的；令人敬畏的；难对付的
+> **formidable** ：可怕的；令人敬畏的；难对付的
  > 
 > **drown out**：(洪水)把(人)赶跑；把(另一声音)压倒[淹没,盖住]
  > 
 
-7.Russia may be vast, but it is a medium­sized polity that still **yearn**s to be a superpower. Its population ranks between Bangladesh and Mexico, its economy between Brazil and South Korea and its share of global exports between Taiwan and Switzerland. Although Russia enjoys some sympathy in **non­aligned** countries like South Africa and India, its soft power is** ebb**ing-**hasten**ed by its display of incompetence and brutality in Ukraine.
+7.Russia may be vast, but it is a medium­sized polity that still **yearn**s to be a superpower. Its population ranks between Bangladesh and Mexico, its economy between Brazil and South Korea and its share of global exports between Taiwan and Switzerland. Although Russia enjoys some sympathy in **non­aligned** countries like South Africa and India, its soft power is **ebb**ing-**hasten**ed by its display of incompetence and brutality in Ukraine.
 
 > **yearn**：渴望；渴求
  > 
@@ -64,7 +64,7 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 > **mercenary**：雇佣兵
  > 
 
-9.Humiliation in Ukraine weakens Russia’s last claim to superpower status. The war may yet drag on, and while it does Russia will not be able to** mount** big operations elsewhere. Equipment, ammunition and manpower are being used up fast. Restoring Russia’s forces to full strength and training them to avoid the mistakes in Ukraine could take years. Should sanctions remain because Mr Putin is still in power, the task will require even longer. Russian missiles are **chock­full **of Western components. The flight of talented, **outward-­looking** Russians will weigh on the economy. All the while, the less that Russia can project military power, the less it will be able to disrupt the rest of the world.
+9.Humiliation in Ukraine weakens Russia’s last claim to superpower status. The war may yet drag on, and while it does Russia will not be able to **mount** big operations elsewhere. Equipment, ammunition and manpower are being used up fast. Restoring Russia’s forces to full strength and training them to avoid the mistakes in Ukraine could take years. Should sanctions remain because Mr Putin is still in power, the task will require even longer. Russian missiles are **chock­full** of Western components. The flight of talented, **outward-­looking** Russians will weigh on the economy. All the while, the less that Russia can project military power, the less it will be able to disrupt the rest of the world.
 
 > **chock­full** :塞满了的
  > 
@@ -78,7 +78,7 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 > **atrocity:**暴行；凶恶；暴虐
  > 
 
-12.Ultimately, weakness may lead Russia to the last arena where it is still **indisputably** a superpower: chemical, biological and nuclear weapons. From the start of this war, Mr Putin and his government have repeatedly** brandish**ed the threat of weapons of mass destruction. Mr Putin is rational, in that he wants his regime to survive, so the chances of their use probably remain slim. But as Russia’s armed forces run out of conventional options, the temptation to **escalate** will surely grow.
+12.Ultimately, weakness may lead Russia to the last arena where it is still **indisputably** a superpower: chemical, biological and nuclear weapons. From the start of this war, Mr Putin and his government have repeatedly **brandish**ed the threat of weapons of mass destruction. Mr Putin is rational, in that he wants his regime to survive, so the chances of their use probably remain slim. But as Russia’s armed forces run out of conventional options, the temptation to **escalate** will surely grow.
 
 > **indisputably** 毫无疑问
  > 
@@ -87,15 +87,15 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 > **escalate**:不断恶化/升级
  > 
 
-13The message for the wider world is that Mr Putin’s military opportunism in Ukraine must be seen to fail by his own officers and strategists, who may then temper his next **headstrong **scheme. A **stalemate** in Donbas would merely set up the next fight and it could be even more threatening than today’s.
+13The message for the wider world is that Mr Putin’s military opportunism in Ukraine must be seen to fail by his own officers and strategists, who may then temper his next **headstrong** scheme. A **stalemate** in Donbas would merely set up the next fight and it could be even more threatening than today’s.
 
 > **headstrong**：顽固的；刚愎自用的
  > 
 > **stalemate**：僵局；相持
  > 
 
-14.Yet, even if Mr Putin is defeated, he will remain dangerous. The message for nato is that it needs to update its **tripwire **defence. This rests on the idea that a Russian attempt to take a bite out of, say, the Baltic states may succeed at first, but would trigger a wider war which nato would eventually win. That defence involves the risk of miscalculation and escalation, which are more fraught than ever if Russia’s conventional forces are weak. Better to have a large forward force that Russia would find hard to defeat from the very start. The best way to be safe from Mr Putin and his rotten army is to deter him from fighting at all.
+14.Yet, even if Mr Putin is defeated, he will remain dangerous. The message for nato is that it needs to update its **tripwire** defence. This rests on the idea that a Russian attempt to take a bite out of, say, the Baltic states may succeed at first, but would trigger a wider war which nato would eventually win. That defence involves the risk of miscalculation and escalation, which are more fraught than ever if Russia’s conventional forces are weak. Better to have a large forward force that Russia would find hard to defeat from the very start. The best way to be safe from Mr Putin and his rotten army is to deter him from fighting at all.
 
-> **tripwire **：绊索/网
+> **tripwire** ：绊索/网
  > 
 

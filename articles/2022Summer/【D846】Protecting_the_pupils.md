@@ -3,7 +3,7 @@ description: To fight an epidemic of myopia, schools should send their students 
 ---
 
 # D846  Protecting the pupils 
-1.Few things come with no **downside**s at all. Rich countries have almost completely banished infectious diseases such as **tuberculosis**, **cholera **and **malaria**. Instead, their health ministries spend much of their time worrying about illnesses caused by wealth. Cheap, **calorie­dense **food has abolished starvation in the rich world, but it also encourages diabetes. **Sedentary**, white-collar jobs are less** arduous** (and less** lethal**) than manual work. They also promote obesity and heart disease.
+1.Few things come with no **downside**s at all. Rich countries have almost completely banished infectious diseases such as **tuberculosis**, **cholera** and **malaria**. Instead, their health ministries spend much of their time worrying about illnesses caused by wealth. Cheap, **calorie­dense** food has abolished starvation in the rich world, but it also encourages diabetes. **Sedentary**, white-collar jobs are less **arduous** (and less **lethal**) than manual work. They also promote obesity and heart disease.
 
 > **downside：**负面；不利的一面；消极面
  > 
@@ -35,7 +35,7 @@ description: To fight an epidemic of myopia, schools should send their students 
 > **lit：**照亮的；点着
  > 
 
-3. Before the long economic booms that began in the 1960s, myopia was uncommon in East Asia. These days, among the young, it is almost** ubiquitous**. In Hong Kong, Singapore and Taipei more than 80% of **school­leaver**s are short-sighted. In Seoul over nine in ten young men are. China, which began its economic rise later, is catching up. Data from as far **afield** as Guangzhou in the south and Inner Mongolia in the north show myopia rates among young people of about 80%.
+3. Before the long economic booms that began in the 1960s, myopia was uncommon in East Asia. These days, among the young, it is almost **ubiquitous**. In Hong Kong, Singapore and Taipei more than 80% of **school­leaver**s are short-sighted. In Seoul over nine in ten young men are. China, which began its economic rise later, is catching up. Data from as far **afield** as Guangzhou in the south and Inner Mongolia in the north show myopia rates among young people of about 80%.
 
 > **ubiquitous**：似乎无所不在的；十分普遍的
  > 
@@ -55,7 +55,7 @@ description: To fight an epidemic of myopia, schools should send their students 
 > **state of affairs:**事态
  > 
 
-5. There are, admittedly, worse things to suffer from. But short-sightedness is not always** benign**. Glasses and contact lenses are an expensive, lifelong **hassle**. In parts of rural China, where some families cannot afford either, children struggle in the very schools that are causing the problem. And severe myopia predisposes those enduring it to other eye diseases in middle age, some of which can cause untreatable loss of vision. Governments in Asia are increasingly worried about the public­ health implications of entire generations growing up short­sighted. Those in other parts of the world should start worrying, too.
+5. There are, admittedly, worse things to suffer from. But short-sightedness is not always **benign**. Glasses and contact lenses are an expensive, lifelong **hassle**. In parts of rural China, where some families cannot afford either, children struggle in the very schools that are causing the problem. And severe myopia predisposes those enduring it to other eye diseases in middle age, some of which can cause untreatable loss of vision. Governments in Asia are increasingly worried about the public­ health implications of entire generations growing up short­sighted. Those in other parts of the world should start worrying, too.
 
 > **benign:**慈祥的；良性的
  > 
@@ -72,9 +72,9 @@ description: To fight an epidemic of myopia, schools should send their students 
  > 
 
 7. Special eyedrops, as well as **clever glasses** and contact lenses, may be able to slow the progression of myopia once it has started. But prevention is better than mitigation, and the science suggests a cheap, straightforward measure. A series of encouraging trials, many conducted in Taiwan, show that giving schoolchildren—and especially those in primary education—more time outside can cut the number who go on to develop myopia. An island­wide policy of doing just that seems to have begun reversing the decades­long rise in myopia rates. Similar attempts in Singapore relied on parents, who proved more reluctant to change their behaviour, perhaps worried that other parents might not follow suit, leaving their children at a disadvantage in the classroom.
-**clever glasses **:The objective of clever glasses will be to put computer-generated material in the individual’s field of view or ears. This content includes enhanced fact, blended fact, virtual reality, 360 video clip, heads-up screens and also contextual audio.
+**clever glasses** :The objective of clever glasses will be to put computer-generated material in the individual’s field of view or ears. This content includes enhanced fact, blended fact, virtual reality, 360 video clip, heads-up screens and also contextual audio.
 
-8. Governments are well placed to solve such collective­ action problems, while reassuring anxious parents that a bit less classroom time is unlikely to be catastrophic. After all, countries such as Finland and Sweden do well in global education rankings with a less intense approach to education. Giving more outdoor time to young children would still leave room for them to **cram** for exams in their teenage years. And longer breaks in the playground may also** make a dent** in other rich­world problems such as childhood obesity. Far­sighted governments should send the kids outdoors.
+8. Governments are well placed to solve such collective­ action problems, while reassuring anxious parents that a bit less classroom time is unlikely to be catastrophic. After all, countries such as Finland and Sweden do well in global education rankings with a less intense approach to education. Giving more outdoor time to young children would still leave room for them to **cram** for exams in their teenage years. And longer breaks in the playground may also **make a dent** in other rich­world problems such as childhood obesity. Far­sighted governments should send the kids outdoors.
 
 > **cram:**填满；塞入；临时抱佛脚
  > 

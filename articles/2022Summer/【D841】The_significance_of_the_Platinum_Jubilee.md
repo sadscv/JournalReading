@@ -3,7 +3,7 @@ description:  The celebrations are absurd, but the queen represents continuity a
 ---
 
 # D841  The significance of the Platinum Jubilee 
-1.Her first solo engagement took place in 1942, when she inspected the **Grenadier Guards** at Windsor Castle. More than 21,000 **ribbon-cuttings** and **plaque**-unveilings have followed, along with 200-plus official **portrait**s and over 300,000 congratulatory **telegram**s sent to** centenarian **subjects. From June 2nd to June 5th Britain celebrates another milestone for Queen Elizabeth II: the Platinum Jubilee, to mark her 70 years on the throne.
+1.Her first solo engagement took place in 1942, when she inspected the **Grenadier Guards** at Windsor Castle. More than 21,000 **ribbon-cuttings** and **plaque**-unveilings have followed, along with 200-plus official **portrait**s and over 300,000 congratulatory **telegram**s sent to **centenarian** subjects. From June 2nd to June 5th Britain celebrates another milestone for Queen Elizabeth II: the Platinum Jubilee, to mark her 70 years on the throne.
 
 > **Grenadier Guards：**掷弹兵卫队
  > 
@@ -18,7 +18,7 @@ description:  The celebrations are absurd, but the queen represents continuity a
 > **centenarian** :百岁(以上)的；一百周年的
  > 
 
-2.Much of what will unfold over the four-day festival is objectively** ludicrous**. People in large hats will parade around on horses. A lunch in Windsor will feature an attempt on the **coveted** record of the world's longest dining table. The law of large numbers suggests that someone will die in a **bizarre** **jubilee** themed accident—choking on a **Scotch egg**, perhaps, or **garrotted** by** bunting**. Yet despite the weirdness, the jubilee is not a **trifle **(though a trifle is the official Platinum Pudding).
+2.Much of what will unfold over the four-day festival is objectively **ludicrous**. People in large hats will parade around on horses. A lunch in Windsor will feature an attempt on the **coveted** record of the world's longest dining table. The law of large numbers suggests that someone will die in a **bizarre** **jubilee** themed accident—choking on a **Scotch egg**, perhaps, or **garrotted** by **bunting**. Yet despite the weirdness, the jubilee is not a **trifle** (though a trifle is the official Platinum Pudding).
 
 > **ludicrous**:不合理的；可笑的；滑稽的；
  > 
@@ -40,7 +40,7 @@ description:  The celebrations are absurd, but the queen represents continuity a
  > 
 
 
-3.Walter Bagehot, a 19th-century editor of The Economist, divided the British constitution into two branches, the **dignified** and the efficient. The jubilee—and more specifically, the woman at its heart—will show that the monarch, the **exemplar **of the dignified state, is holding up her end of the **bargain**. That matters all the more when the government, far from being efficient, is consumed by scandal and **introspection**. The virtues that the queen represents, of continuity and consensus, are not small** qualities** in modern Britain.
+3.Walter Bagehot, a 19th-century editor of The Economist, divided the British constitution into two branches, the **dignified** and the efficient. The jubilee—and more specifically, the woman at its heart—will show that the monarch, the **exemplar** of the dignified state, is holding up her end of the **bargain**. That matters all the more when the government, far from being efficient, is consumed by scandal and **introspection**. The virtues that the queen represents, of continuity and consensus, are not small **qualities** in modern Britain.
 
 > **dignified**：有尊严的；(某事,某物)庄严的
  > 
@@ -53,7 +53,7 @@ description:  The celebrations are absurd, but the queen represents continuity a
 > **quality**：特性/性质
  > 
 
-4.By its very nature, the jubilee represents continuity. A 70-year reign is unprecedented for an English monarch. The queen has been through 14 prime ministers, and may meet her 15th soon enough. She has met four** pope**s and 13 American presidents; only Lyndon Johnson did not touch her white gloves. She has been a thread running through the lives of millions of Britons, 87% of whom have known no other head of state. A** hereditary** **monarchy** is designed to survive the death of the** incumbent**: the queen, who is 96, is already handing over some of her duties to Prince Charles. But her personal longevity has symbolised the constancy of the state even when other institutions **falter**.
+4.By its very nature, the jubilee represents continuity. A 70-year reign is unprecedented for an English monarch. The queen has been through 14 prime ministers, and may meet her 15th soon enough. She has met four **pope**s and 13 American presidents; only Lyndon Johnson did not touch her white gloves. She has been a thread running through the lives of millions of Britons, 87% of whom have known no other head of state. A **hereditary** **monarchy** is designed to survive the death of the **incumbent**: the queen, who is 96, is already handing over some of her duties to Prince Charles. But her personal longevity has symbolised the constancy of the state even when other institutions **falter**.
 
 > **hereditary**：遗传的；遗传性的；世袭的
  > 
@@ -66,12 +66,12 @@ description:  The celebrations are absurd, but the queen represents continuity a
 > **falter：**踌躇；不稳；摇晃蹒跚；畏缩；衰弱；衰退
  > 
 
-5.As for consensus, that lies in the approval the queen enjoys. Eight in ten Britons have a positive opinion of her; people of all ages think of her favourably. **Broad agreement** is a rarer thing in Britain than it once was. More people still see themselves as** Leavers or Remainers** than as loyal to a political party.
+5.As for consensus, that lies in the approval the queen enjoys. Eight in ten Britons have a positive opinion of her; people of all ages think of her favourably. **Broad agreement** is a rarer thing in Britain than it once was. More people still see themselves as **Leavers or Remainers** than as loyal to a political party.
 
 > **Broad agreement**：广泛征求意见（协议）；广泛的共识
  > 
 
-6.Politicians seek out **wedge issue**s to** galvanise** their own supporters, and symbols of state are not exempt. The government talks up pride in the flag. It **touts** the use of the crown symbol on **pint** glasses as liberation from eu** tyranny** (it really isn't). It is **mulling** the return of imperial measurements, doubtless hoping that the thought of opening Instapound on their phone will stoke **fervour **among supporters. The queen transcends such nonsense: she is a unifying figure in a more **tribal** country.
+6.Politicians seek out **wedge issue**s to **galvanise** their own supporters, and symbols of state are not exempt. The government talks up pride in the flag. It **touts** the use of the crown symbol on **pint** glasses as liberation from eu **tyranny** (it really isn't). It is **mulling** the return of imperial measurements, doubtless hoping that the thought of opening Instapound on their phone will stoke **fervour** among supporters. The queen transcends such nonsense: she is a unifying figure in a more **tribal** country.
 
 > **wedge issue**：分化对方支持者的议题、政党借以离间对手支持者的重大政治难题
  > 
@@ -92,7 +92,7 @@ description:  The celebrations are absurd, but the queen represents continuity a
 > **tribal**：部落
  > 
 
-7.It has not always been this way. The queen's **stiff upper lip** did her no favours after the death of Princess Diana in a car crash in Paris in 1997. Yet the consensus** in her favour** now flows from those same old-fashioned virtues of duty and of self-control.
+7.It has not always been this way. The queen's **stiff upper lip** did her no favours after the death of Princess Diana in a car crash in Paris in 1997. Yet the consensus **in her favour** now flows from those same old-fashioned virtues of duty and of self-control.
 
 > **stiff upper lip**：坚定沉着；僵硬的上嘴唇（让人看不出情感变化）
  > 
@@ -107,7 +107,7 @@ description:  The celebrations are absurd, but the queen represents continuity a
  > 
 > **uncharitable:**刻薄的；苛刻的；冷酷的
  > 
-> **cipher: **1.无足轻重的人；无关紧要的东西a person or thing of no importance
+> **cipher:** 1.无足轻重的人；无关紧要的东西a person or thing of no importance
  > 
 > 2.密码
  > 

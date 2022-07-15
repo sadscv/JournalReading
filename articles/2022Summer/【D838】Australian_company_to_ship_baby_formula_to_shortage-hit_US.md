@@ -34,7 +34,7 @@ The shortage is partly due to Abbott Laboratories’ manufacturing plant in Mich
 > **Similac**：美国雅培
  > 
 
-5.The FDA said this month it “would not object” to the release of about 300,000 cans of** EleCare amino acidbased** infant formula previously produced at Abbott Nutrition’s Sturgis, Michigan facility. The products would undergo “enhanced microbiological testing” before release.
+5.The FDA said this month it “would not object” to the release of about 300,000 cans of **EleCare amino acidbased** infant formula previously produced at Abbott Nutrition’s Sturgis, Michigan facility. The products would undergo “enhanced microbiological testing” before release.
 “Although some EleCare product was included in Abbott Nutrition’s infant formula recall, these EleCare products that will be released were in different **lot**s, have never been released and have been maintained in storage under control by Abbott Nutrition,” the FDA said.
 
 > **amino**：氨基的
@@ -56,8 +56,6 @@ The shortage is partly due to Abbott Laboratories’ manufacturing plant in Mich
 Cargill supplies dozens of products to infant formula makers and the move will allow the manufacturers to produce at full capacity to address the “urgent marketplace shortages”, the department said.
 
 > **Defence Production Act：**国防生产法
- > 
-> **What caused the crisis?**
  > 
 
 

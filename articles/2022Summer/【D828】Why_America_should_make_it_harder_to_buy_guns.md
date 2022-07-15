@@ -3,14 +3,14 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
 ---
 
 # D828 Why America should make it harder to buy guns
-1.The motives for mass murder vary. The teenager in Buffalo who on May 14th shot and killed ten people, most of them black, was driven by racial **paranoia**. The 68-year-old who killed one and injured five on May 16th in a Californian church hated X people. What** impell**ed Salvador Ramos to kill at least 21 on May 24th in and around a school in Texas may someday become apparent, though Mr Ramos is no longer alive to explain himself.
+1.The motives for mass murder vary. The teenager in Buffalo who on May 14th shot and killed ten people, most of them black, was driven by racial **paranoia**. The 68-year-old who killed one and injured five on May 16th in a Californian church hated X people. What **impell**ed Salvador Ramos to kill at least 21 on May 24th in and around a school in Texas may someday become apparent, though Mr Ramos is no longer alive to explain himself.
 
 > **paranoia**：妄想症；偏执狂
  > 
 > **impel**：激励；驱使；推动
  > 
 
-2.What these horrors have in common, though, is the murder weapon. Guns are simple, reliable tools for killing. A man with a gun and plenty of** ammunition **can kill more people, more quickly and with far less physical effort than he can with a knife, a blunt object or his bare hands. The weapon Mr Ramos used—a military-style assault rifle with **high-capacity magazine**s—allowed him to keep shooting until someone shot him. That most of his victims were children makes the crime unusually horrific. But it **resemble**s countless other American tragedies in that the easy availability of guns made it deadlier than it might have been.
+2.What these horrors have in common, though, is the murder weapon. Guns are simple, reliable tools for killing. A man with a gun and plenty of **ammunition** can kill more people, more quickly and with far less physical effort than he can with a knife, a blunt object or his bare hands. The weapon Mr Ramos used—a military-style assault rifle with **high-capacity magazine**s—allowed him to keep shooting until someone shot him. That most of his victims were children makes the crime unusually horrific. But it **resemble**s countless other American tragedies in that the easy availability of guns made it deadlier than it might have been.
 
 > **ammunition** ：弹药
  > 
@@ -25,12 +25,10 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
 
 > **disparity**：差异
  > 
-> **heat-packing**：pack heat: carry a gun
- > 
 
 4.By one estimate, Americans own 400m guns. If they were evenly distributed, each family of five would have six. In 2020 more than 45,000 people in America died from firearm-related injuries. Guns now kill more young people than cars do.
 
-5.The Economist believes it should be hard to own a gun. Farmers need them for pest control; hunters and other hobbyists may use them for sport. But each gun should be licensed and registered. Each owner should have to pass **stringent **background checks, and the process should be slow—no one should be able to buy a gun while in a fit of rage. Also, there is no good reason to let civilians own guns that fire rapidly, or magazines that let them kill a room full of people before reloading.
+5.The Economist believes it should be hard to own a gun. Farmers need them for pest control; hunters and other hobbyists may use them for sport. But each gun should be licensed and registered. Each owner should have to pass **stringent** background checks, and the process should be slow—no one should be able to buy a gun while in a fit of rage. Also, there is no good reason to let civilians own guns that fire rapidly, or magazines that let them kill a room full of people before reloading.
 
 > **stringent**：严格的；严厉的；紧缩的
  > 
@@ -48,7 +46,7 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
 > **hassle**:麻烦；困难；分歧
  > 
 
-8.This is not what most Americans want. Hefty (but dwindling) majorities favour some commonsense curbs, such as denying weapons to the mentally ill, creating a database to track all gun sales, and banning both** assault-style** weapons and high-capacity magazines. Congress is unlikely to deliver such things, thanks to the Senate **filibuster**. So cities and states should step in, though guns will always flow **illicitly** from** lax** jurisdictions to stringent ones. Voters should reward politicians who think a gun licence should be at least as hard to obtain as a driving licence. Not all gun deaths are preventable, but many could be.
+8.This is not what most Americans want. Hefty (but dwindling) majorities favour some commonsense curbs, such as denying weapons to the mentally ill, creating a database to track all gun sales, and banning both **assault-style** weapons and high-capacity magazines. Congress is unlikely to deliver such things, thanks to the Senate **filibuster**. So cities and states should step in, though guns will always flow **illicitly** from **lax** jurisdictions to stringent ones. Voters should reward politicians who think a gun licence should be at least as hard to obtain as a driving licence. Not all gun deaths are preventable, but many could be.
 
 > **assault-style**:突击式
  > 

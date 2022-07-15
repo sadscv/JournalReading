@@ -3,7 +3,7 @@ description: It’s not just Boris Johnson. Economic decline has become a chroni
 ---
 
 # D848-849 Britain’s real problem 
-1.Conservative mps’ half­-hearted vote to endorse Boris Johnson as prime minister, on June 6th, betrayed how deeply Britain’s ruling party fails to confront hard choices. A defeat for Mr Johnson would have **ushered** in a new government, with a chance to prove itself before the next election. A **resounding** victory would have given him a fresh **mandate** to show that he had put his **transgressions** behind him. The irresolute blow the rebels inﬂicted **leaves** Britain in the hands of a **washed­up **cabinet mouthing **grandiloquent** promises it cannot honour.
+1.Conservative mps’ half­-hearted vote to endorse Boris Johnson as prime minister, on June 6th, betrayed how deeply Britain’s ruling party fails to confront hard choices. A defeat for Mr Johnson would have **ushered** in a new government, with a chance to prove itself before the next election. A **resounding** victory would have given him a fresh **mandate** to show that he had put his **transgressions** behind him. The irresolute blow the rebels inﬂicted **leaves** Britain in the hands of a **washed­up** cabinet mouthing **grandiloquent** promises it cannot honour.
 
 > **ushere:**宣告；招待
  > 
@@ -19,14 +19,14 @@ description: It’s not just Boris Johnson. Economic decline has become a chroni
  > 
 > **betray:**（无意中）泄露信息，流露情感to tell sb or make them aware of a piece of information,
  > 
-> **Inflict: **加以(打击等)；使受(痛苦,损失等)；处以刑罚
+> **Inflict:** 加以(打击等)；使受(痛苦,损失等)；处以刑罚
  > 
-> **washed­up: **（事业等）告吹的，完蛋no longer successful and unlikely to succeed again in the future
+> **washed­up:** （事业等）告吹的，完蛋no longer successful and unlikely to succeed again in the future
  > 
 > **grandiloquent:**言辞浮夸的
  > 
 
-2.This newspaper has long argued that Mr Johnson ought to have resigned for lying repeatedly to Parliament about whether he broke his own laws. But hypocrisy and **deceit** do not begin to capture the wider problem that he and his country face. Britain is stuck in a 15­year** rut**. It likes to think of itself as a dynamic, free­market place, but its economy lags behind much of the rich world. There is plenty of speechifying about growth, and no shortage of ideas about how to turn the country round. But the **mettle** and strategic thinking that reform requires are absent— another instance of Tories **duck**ing hard choices.
+2.This newspaper has long argued that Mr Johnson ought to have resigned for lying repeatedly to Parliament about whether he broke his own laws. But hypocrisy and **deceit** do not begin to capture the wider problem that he and his country face. Britain is stuck in a 15­year **rut**. It likes to think of itself as a dynamic, free­market place, but its economy lags behind much of the rich world. There is plenty of speechifying about growth, and no shortage of ideas about how to turn the country round. But the **mettle** and strategic thinking that reform requires are absent— another instance of Tories **duck**ing hard choices.
 
 > **deceit:**欺骗；诡计
  > 
@@ -37,7 +37,7 @@ description: It’s not just Boris Johnson. Economic decline has become a chroni
 > **duck:**逃避责任to evade a duty, question, or responsibility
  > 
 
-3.Britain’s stagnation also holds lessons for other slow­growing countries, many of them in Europe. Lower gdp means declining global inﬂuence,** falter**ing faith in free markets and less money for public services. A struggle over ﬁxed resources ﬁres the populism that turns politics into an ugly ﬁght about identity. The shortage of funds for investment **entrenche**s tired and ineﬃcient institutions. Worst of all, the lack of growth limits Britons’ scope to ﬂourish.
+3.Britain’s stagnation also holds lessons for other slow­growing countries, many of them in Europe. Lower gdp means declining global inﬂuence, **falter**ing faith in free markets and less money for public services. A struggle over ﬁxed resources ﬁres the populism that turns politics into an ugly ﬁght about identity. The shortage of funds for investment **entrenche**s tired and ineﬃcient institutions. Worst of all, the lack of growth limits Britons’ scope to ﬂourish.
 
 > **falter:**动摇；蹒跚；衰退;不稳
  > 
@@ -53,16 +53,16 @@ description: It’s not just Boris Johnson. Economic decline has become a chroni
 > 购买力平价是根据各国不同的价格水平计算出来的货币之间的等值系数。目的是对各国的国内生产总值进行合理比较。
  > 
 
-6.Underlying this is **feeble **productivity. In the decade to 2007, British productivity growth was second only to America’s in the g7. In the decade to 2019, growth in** output per hour worked **stalled to just 0.7% a year, making Britain the second­-slowest in the g7; only Italy was slower. Had Britain’s productivity growth rate not fallen after the ﬁnancial crisis, gdp per person in 2019 would have been £6,700 ($8,380) higher than it is.
+6.Underlying this is **feeble** productivity. In the decade to 2007, British productivity growth was second only to America’s in the g7. In the decade to 2019, growth in **output per hour worked** stalled to just 0.7% a year, making Britain the second­-slowest in the g7; only Italy was slower. Had Britain’s productivity growth rate not fallen after the ﬁnancial crisis, gdp per person in 2019 would have been £6,700 ($8,380) higher than it is.
 
-> **feeble： **虚弱的；衰弱的；无效的
+> **feeble：** 虚弱的；衰弱的；无效的
  > 
 > **output per hour worked ：**工作时间产值
  > 
 
 7.At least in the short run, Brexit has made matters worse. Business investment is lower than when the referendum took place. Since the end of 2020 ﬁrms trading with the European Union have faced extra paperwork, customs delays and higher taxes. In the last quarter of 2021 Britain exported 16% less than at the end of 2019. Global goods trade, by contrast, grew by nearly 6%.
 
-8.The outlook is poor, too. The OECD predicts that next year gdp in Britain will be stagnant. Oﬃcial forecasts show that real **takehome pay **will be lower in ﬁve years than it is today, eaten away by higher taxes and consumer ­price inﬂation that, at 9%, is the highest among big rich economies.
+8.The outlook is poor, too. The OECD predicts that next year gdp in Britain will be stagnant. Oﬃcial forecasts show that real **takehome pay** will be lower in ﬁve years than it is today, eaten away by higher taxes and consumer ­price inﬂation that, at 9%, is the highest among big rich economies.
 
 > **stagnant：**停滞的；不发展的；无变化的
  > 
@@ -71,10 +71,10 @@ description: It’s not just Boris Johnson. Economic decline has become a chroni
 > **takehome pay**：（税后）净薪
  > 
 
-9.Part of the problem is that **boosterish** politicians talk so much nonsense about growth. The statistics are noisy and complex enough for a clever civil servant to ﬁnd a number that paints Britain in a favourable light. Don’t be fooled. Self­delusion stiﬂes fresh thinking about policy, one reason Britain’s economic debates have been **tangential **to growth, harmful even. For most of the 2010s politicians obsessed about cutting **deﬁcit**s. **Budget discipline** is important, but hardly a cure for Britain’s ills. In a speech this week Mr Johnson was to propose unlocking growth by letting people use housing beneﬁts to buy houses.
+9.Part of the problem is that **boosterish** politicians talk so much nonsense about growth. The statistics are noisy and complex enough for a clever civil servant to ﬁnd a number that paints Britain in a favourable light. Don’t be fooled. Self­delusion stiﬂes fresh thinking about policy, one reason Britain’s economic debates have been **tangential** to growth, harmful even. For most of the 2010s politicians obsessed about cutting **deﬁcit**s. **Budget discipline** is important, but hardly a cure for Britain’s ills. In a speech this week Mr Johnson was to propose unlocking growth by letting people use housing beneﬁts to buy houses.
 **boosterish**：marked by or showing extremely or excessively enthusiastic support for something
 
-> **tangential **：离题的；不相干的
+> **tangential** ：离题的；不相干的
  > 
 > **deﬁcit**：赤字, 亏空
  > 
@@ -100,15 +100,13 @@ description: It’s not just Boris Johnson. Economic decline has become a chroni
 > **fixate:**注视；固定下来
  > 
 
-13.Britain has been here before. In 1979, in opposition, Margaret Thatcher **lamented **its declining economic standing. “Travel abroad, and see how much better our neighbours are doing,” she urged Tory supporters. Her **uncompromising** reforms led to nearly three decades in which British living standards closed on those in the rest of the rich world.
+13.Britain has been here before. In 1979, in opposition, Margaret Thatcher **lamented** its declining economic standing. “Travel abroad, and see how much better our neighbours are doing,” she urged Tory supporters. Her **uncompromising** reforms led to nearly three decades in which British living standards closed on those in the rest of the rich world.
 
-> **lamente **:对…感到悲痛；痛惜；对…表示失望
+> **lamente** :对…感到悲痛；痛惜；对…表示失望
  > 
 > **uncompromising:**强硬的;不让步的；不妥协的
  > 
 > **close on:**接近；差不多；渐渐赶上
- > 
-> **The stagnation nation **
  > 
 
 14.Over the coming months we will look at growth in Britain and how to ﬁx it. Some solutions are familiar but politically diﬃcult, like solving the housing crisis in south­east England and boosting trade with the eu. Others involve fresh thinking to harness the potential of the country’s universities and life­sciences ﬁrms, and to expose managers to competition.

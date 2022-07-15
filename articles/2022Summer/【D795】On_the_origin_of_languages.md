@@ -10,7 +10,7 @@ description: It's tempting to think that they have clear beginnings. They don't.
 > **marginalia**：（书等的）旁注；无足轻重的事情；细枝末节
  > 
 
-2 The “Emilian **glosses**” were written at the** monastery** of Suso, which was founded by St Aemilianus (Millán, in Spanish) in the La Rioja region of Spain. Known as la cuna del castellano, “the cradle of **Castilian**”, it is a **unesco** world heritage site and a great tourist draw. In 1977 Spain celebrated 1,000 years of the Spanish language there.
+2 The “Emilian **glosses**” were written at the **monastery** of Suso, which was founded by St Aemilianus (Millán, in Spanish) in the La Rioja region of Spain. Known as la cuna del castellano, “the cradle of **Castilian**”, it is a **unesco** world heritage site and a great tourist draw. In 1977 Spain celebrated 1,000 years of the Spanish language there.
 Everyone loves a superhero origin story. Spanish is now the world’s third-biggest language, with over 500m speakers, and it all began with a monk scrawling on his homework. But as with the radioactive bite that put the Spider into Spider-Man, there is more than a little mythmaking going on here.
 
 > **gloss**：注释
@@ -20,7 +20,7 @@ Everyone loves a superhero origin story. Spanish is now the world’s third-bigg
 > **unesco**：联合国教科文组织
  > 
 
-3 First, while “Castilian” and “Spanish” are synonymous for most Spanish-speakers, **philologist**s argue that what the anonymous monk wrote is closer to the **Aragonese** than to the Castilian variety of Romance (the name for the range of dialects that continued their **wayward** development when Rome retreated from most of Europe after the fifth century ad). In any case, the Suso monk’s **scribbling**s have been pipped by the discovery in nearby **Burgo**s province of **writings **that may be two centuries older.
+3 First, while “Castilian” and “Spanish” are synonymous for most Spanish-speakers, **philologist**s argue that what the anonymous monk wrote is closer to the **Aragonese** than to the Castilian variety of Romance (the name for the range of dialects that continued their **wayward** development when Rome retreated from most of Europe after the fifth century ad). In any case, the Suso monk’s **scribbling**s have been pipped by the discovery in nearby **Burgo**s province of **writings** that may be two centuries older.
 
 > **philologist**：语文学家
  > 
@@ -42,7 +42,7 @@ Everyone loves a superhero origin story. Spanish is now the world’s third-bigg
 > **jotting**:草记；简短笔记
  > 
 
-5 Most accurate would be to call the monk’s **prose** an intermediate form: words like **sieculos **(centuries) in the text are almost perfectly halfway between Latin’s** saecula** and modern Spanish’s **siglo**s. In its way, the church in which the glosses were written is a mirror of such evolution. It includes arches in **Visigothic**, **Mozarabi**c **(Moorish**-influenced) and more recent styles, added as it was expanded. As many visitors to an ancient site find, it can be hard to date buildings in use for centuries. Little of the original remains; all is layers upon layers.
+5 Most accurate would be to call the monk’s **prose** an intermediate form: words like **sieculos** (centuries) in the text are almost perfectly halfway between Latin’s **saecula** and modern Spanish’s **siglo**s. In its way, the church in which the glosses were written is a mirror of such evolution. It includes arches in **Visigothic**, **Mozarabi**c **(Moorish**-influenced) and more recent styles, added as it was expanded. As many visitors to an ancient site find, it can be hard to date buildings in use for centuries. Little of the original remains; all is layers upon layers.
 
 > **prose**：散文
  > 
@@ -60,7 +60,7 @@ Everyone loves a superhero origin story. Spanish is now the world’s third-bigg
 > **La Chanson de Roland**：罗兰之歌
  > 
 
-7 A better** analogy **is that the first written records of a language are like the first fossil traces of a distinct species. But even this should not be mistaken for the moment at which the species emerged. After all, the neat nodes on a **palaeobiologist**’s tree of life are just simplifications of a messy **continuum**.
+7 A better **analogy** is that the first written records of a language are like the first fossil traces of a distinct species. But even this should not be mistaken for the moment at which the species emerged. After all, the neat nodes on a **palaeobiologist**’s tree of life are just simplifications of a messy **continuum**.
 
 > **analogy**：比喻
  > 

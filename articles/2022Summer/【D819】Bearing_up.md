@@ -3,9 +3,9 @@ description: Why Russia is on track for a record trade surplus
 ---
 
 # D819 Bearing up
-1.Within days of Vladimir Putin’s invasion of Ukraine, Russia’s financial system seemed on the **verge** of collapse. The West imposed a range of financial sanctions, notably on the Russian central bank’s foreign­ exchange reserves, that sent the** rouble** plunging and led citizens to withdraw cash **frantically.** Then the central bank raised interest rates, imposed capital controls and injected** liquidity** into the banking system, and some of these misfortunes reversed. Although a chunk of Russia’s currency reserves remains frozen, the country still generates about $1bn a day from its energy exports.
+1.Within days of Vladimir Putin’s invasion of Ukraine, Russia’s financial system seemed on the **verge** of collapse. The West imposed a range of financial sanctions, notably on the Russian central bank’s foreign­ exchange reserves, that sent the **rouble** plunging and led citizens to withdraw cash **frantically.** Then the central bank raised interest rates, imposed capital controls and injected **liquidity** into the banking system, and some of these misfortunes reversed. Although a chunk of Russia’s currency reserves remains frozen, the country still generates about $1bn a day from its energy exports.
 
-> **trade surplus : **外贸盈余；贸易顺差a situation in which the value of a country's exports is greater than the value of its imports
+> **trade surplus :** 外贸盈余；贸易顺差a situation in which the value of a country's exports is greater than the value of its imports
  > 
 > **verge**: 边缘；边界
  > 
@@ -20,7 +20,7 @@ description: Why Russia is on track for a record trade surplus
 
 3.On May 9th China reported that its goods exports to Russia fell by over a quarter in April, compared with a year earlier, while its imports from Russia rose by more than 56%.Germany reported a 62% monthly drop in exports to Russia in March, and its imports fell by 3%. Adding up such flows across eight of Russia’s biggest trading partners, we estimate that Russian imports have fallen by about 44% since the invasion of Ukraine, while its exports have risen by roughly 8%.
 
-4.Imports have collapsed partly because sanctions on the Russian central bank and the **expulsion** of some lenders from the swift interbank messaging network have made it harder for consumers and firms to buy Western goods. Elina Ribakova of the Institute of International Finance (iif), a bankers’ group, says that regulatory uncertainty was also a big factor at first, as Western firms were unsure which Russian banks came under sanctions. Logistical disruptions, including decisions by Western firms to suspend deliveries to Russia, mattered, too. The early** depreciation **of the rouble also dampened Russian demand for imports, says Claus Vistesen of Pantheon Macroeconomics, a consultancy.
+4.Imports have collapsed partly because sanctions on the Russian central bank and the **expulsion** of some lenders from the swift interbank messaging network have made it harder for consumers and firms to buy Western goods. Elina Ribakova of the Institute of International Finance (iif), a bankers’ group, says that regulatory uncertainty was also a big factor at first, as Western firms were unsure which Russian banks came under sanctions. Logistical disruptions, including decisions by Western firms to suspend deliveries to Russia, mattered, too. The early **depreciation** of the rouble also dampened Russian demand for imports, says Claus Vistesen of Pantheon Macroeconomics, a consultancy.
 
 > **expulsion:**开除；驱逐；逐出
  > 

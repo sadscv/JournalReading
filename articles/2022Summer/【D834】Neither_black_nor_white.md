@@ -3,7 +3,7 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
 ---
 
 # D834 Neither black nor white
-1.On may 25th Sue Gray, a senior civil servant, published a report into gatherings that had taken place in Downing Street during the pandemic. Nine photos are included, depicting two events: a drinks party in November 2020 (shown above) for a departing official, and a gathering in the Cabinet Room in June 2020 to mark the prime minister’s birthday. In parts the images are **pin­sharp**, capturing tins of** lager**, emptied wine glasses and Boris Johnson holding a plastic beaker **aloft**. Much of them are a blur, the identities of Mr Johnson’s fellow partygoers obscured.
+1.On may 25th Sue Gray, a senior civil servant, published a report into gatherings that had taken place in Downing Street during the pandemic. Nine photos are included, depicting two events: a drinks party in November 2020 (shown above) for a departing official, and a gathering in the Cabinet Room in June 2020 to mark the prime minister’s birthday. In parts the images are **pin­sharp**, capturing tins of **lager**, emptied wine glasses and Boris Johnson holding a plastic beaker **aloft**. Much of them are a blur, the identities of Mr Johnson’s fellow partygoers obscured.
 
 > **patchy：**不完整的；参差不齐的
  > 
@@ -11,10 +11,10 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
  > 
 > **pin­-sharp**：清晰的
  > 
-> ** lager**：淡啤酒；窖藏啤酒；拉格啤酒
+> **lager**：淡啤酒；窖藏啤酒；拉格啤酒
  > 
 
-2.This** blend** of** precision** and** pixellation** characterises Ms Gray’s report into events that scandalised **Briton**s. The revelations that politicians and officials had been breaking pandemic-­era restrictions had already resulted in **126 police fines** for 83 people, including one each for Mr Johnson, his wife, and Rishi Sunak, the chancellor. But Ms Gray’s long­-awaited report was meant to** clear up** what had been going on. Ministers had vowed that her report would be “independent”: a former head of government **propriety** and ethics, she is known for having no-­nonsense grip.
+2.This **blend** of **precision** and **pixellation** characterises Ms Gray’s report into events that scandalised **Briton**s. The revelations that politicians and officials had been breaking pandemic-­era restrictions had already resulted in **126 police fines** for 83 people, including one each for Mr Johnson, his wife, and Rishi Sunak, the chancellor. But Ms Gray’s long­-awaited report was meant to **clear up** what had been going on. Ministers had vowed that her report would be “independent”: a former head of government **propriety** and ethics, she is known for having no-­nonsense grip.
 
 > **blend**：混和；调和
  > 
@@ -31,7 +31,7 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
 > **no-­nonsense**：严肃的
  > 
 
-3.Yet she is also a civil­-service** veteran**, an insider’s insider with a reputation for foiling freedom-­of ­information requests, now **call**ed** upon** to pass judgment on her colleagues and her ultimate boss, Mr Johnson. Expectations for her report** veer**ed between **forensic** **exposé **and artful** obscuration**.
+3.Yet she is also a civil­-service **veteran**, an insider’s insider with a reputation for foiling freedom-­of ­information requests, now **call**ed **upon** to pass judgment on her colleagues and her ultimate boss, Mr Johnson. Expectations for her report **veer**ed between **forensic** **exposé** and artful **obscuration**.
 
 > **veteran**：经验丰富的人；退伍军人
  > 
@@ -48,16 +48,16 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
 > **obscuration**：朦胧；遮蔽
  > 
 
-4.In the end, she delivered both. The report is an embarrassing portrait of a government which, while confronting the worst pandemic in a century, seemed remarkably preoccupied by a schedule of leaving drinks, Christmas parties, garden receptions and “Wine Time Friday”. But elsewhere its gaze is cloudy and** incurious**. As a crime report, it logs the blood, fingerprints and weaponry, but the **perpetrator** is no more than a **silhouette**.
+4.In the end, she delivered both. The report is an embarrassing portrait of a government which, while confronting the worst pandemic in a century, seemed remarkably preoccupied by a schedule of leaving drinks, Christmas parties, garden receptions and “Wine Time Friday”. But elsewhere its gaze is cloudy and **incurious**. As a crime report, it logs the blood, fingerprints and weaponry, but the **perpetrator** is no more than a **silhouette**.
 
-> **silhouette **： 剪影；轮廓    /sɪluˈet/
+> **silhouette** ： 剪影；轮廓    /sɪluˈet/
  > 
 > **incurious**：不感兴趣的；不好奇的；漫不经心的
  > 
 > **perpetrator：**作恶者；行凶者；犯罪者
  > 
 
-5.One bash on June 18th, fuelled by pizza and** prosecco**, spilled through the Downing Street complex from 6.30pm until the last **attendee** left at 3.13am. Helen MacNamara, then the deputy cabinet secretary, produced a karaoke machine. One attendee drank until they vomited. Two others fell into a “minor altercation”.  At another “crowded and noisy” **bash**, a **panic alarm** was triggered, prompting the police to arrive. Ms Gray found “multiple examples of a lack of respect and poor treatment of security and cleaning staff”. The scandal exposed those involved not to be particularly wicked, but **callow**, **self­absorbed**, almost bored by high office.
+5.One bash on June 18th, fuelled by pizza and **prosecco**, spilled through the Downing Street complex from 6.30pm until the last **attendee** left at 3.13am. Helen MacNamara, then the deputy cabinet secretary, produced a karaoke machine. One attendee drank until they vomited. Two others fell into a “minor altercation”.  At another “crowded and noisy” **bash**, a **panic alarm** was triggered, prompting the police to arrive. Ms Gray found “multiple examples of a lack of respect and poor treatment of security and cleaning staff”. The scandal exposed those involved not to be particularly wicked, but **callow**, **self­absorbed**, almost bored by high office.
 
 > **prosecco**:普洛赛克,一种葡萄,也指用这种葡萄酿的白葡萄酒
  > 
@@ -112,7 +112,7 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
  > 
 
 9.That appears to be his defence for a forthcoming House of Commons inquiry into whether he lied to **mps** about the affair. The principle of individual ministerial responsibility, by which **minister**s
-shoulder the errors of their** unelected** staff, whether they knew of them or not, has been out of fashion for some years. Mr Johnson has **discard**ed it entirely.
+shoulder the errors of their **unelected** staff, whether they knew of them or not, has been out of fashion for some years. Mr Johnson has **discard**ed it entirely.
 
 > **mps：(=member of Parliament)**议员
  > 
@@ -132,7 +132,7 @@ shoulder the errors of their** unelected** staff, whether they knew of them or n
 > **thrilled**：非常兴奋；极为激动
  > 
 
-11.Others see danger through the **murk**. According to YouGov, a pollster, 59% of voters, and 27% of those who voted Tory in the general election of 2019, think Mr Johnson should resign. Tobias Ellwood, a Conservative mp, told the House that he had lost faith in the prime minister. “A question I **humbly** put to my colleagues is: are you willing, **day in day out**, to defend this behaviour publicly? Can we continue to govern without distraction, given the** erosion** of the trust of the British people? Can we win a general election on this** trajectory**?” Ms Gray’s report may not have cleared things up. The voters eventually will.
+11.Others see danger through the **murk**. According to YouGov, a pollster, 59% of voters, and 27% of those who voted Tory in the general election of 2019, think Mr Johnson should resign. Tobias Ellwood, a Conservative mp, told the House that he had lost faith in the prime minister. “A question I **humbly** put to my colleagues is: are you willing, **day in day out**, to defend this behaviour publicly? Can we continue to govern without distraction, given the **erosion** of the trust of the British people? Can we win a general election on this **trajectory**?” Ms Gray’s report may not have cleared things up. The voters eventually will.
 
 > **murk**：阴暗；阴沉
  > 

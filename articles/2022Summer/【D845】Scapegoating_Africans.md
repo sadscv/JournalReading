@@ -3,7 +3,7 @@ description: South Africans should not blame immigrants for their country’s fa
 ---
 
 # D845  Scapegoating Africans 
-1. In 1995, a year after becoming South Africa’s first black president, Nelson Mandela gave a speech in **Alexandra**, a **township** in **Johannesburg**. “It saddens and angers me to see the rising hatred of foreigners,” he said, **chastising **residents for destroying migrants’ homes. “We cannot blame other people for our troubles.” Under Mandela, the African National Congress (anc), many of whose **fugitive** leaders had been sheltered by other African countries during apartheid, **took in **Africans fleeing wars in Congo, Somalia and elsewhere. The new government also made it easier for Africans to work and settle in South Africa.
+1. In 1995, a year after becoming South Africa’s first black president, Nelson Mandela gave a speech in **Alexandra**, a **township** in **Johannesburg**. “It saddens and angers me to see the rising hatred of foreigners,” he said, **chastising** residents for destroying migrants’ homes. “We cannot blame other people for our troubles.” Under Mandela, the African National Congress (anc), many of whose **fugitive** leaders had been sheltered by other African countries during apartheid, **took in** Africans fleeing wars in Congo, Somalia and elsewhere. The new government also made it easier for Africans to work and settle in South Africa.
 
 > **Alexandra**:亚历桑德拉
  > 
@@ -15,10 +15,10 @@ description: South Africans should not blame immigrants for their country’s fa
  > 
 > **fugitive**：逃亡者；逃亡的
  > 
-> **take in **：收进；收容
+> **take in** ：收进；收容
  > 
 
-2.They have not always felt welcome. **Xenophobic** locals occasionally attacked immigrants in the 1990s in poor urban areas like Alexandra, and there was more widespread violence against foreigners in 2008. In general, however, South African politicians have refrained from **inciting** such horrors. Unfortunately, that is changing. Today politicians from several parties are **vying** to see who can blame immigrants most loudly for the country’s **self-­inflicted **problems (see Middle East & Africa section). The **virulence** of their rhetoric varies, but the consequence is the same: life for immigrants has grown **nastier** and more **perilous**.
+2.They have not always felt welcome. **Xenophobic** locals occasionally attacked immigrants in the 1990s in poor urban areas like Alexandra, and there was more widespread violence against foreigners in 2008. In general, however, South African politicians have refrained from **inciting** such horrors. Unfortunately, that is changing. Today politicians from several parties are **vying** to see who can blame immigrants most loudly for the country’s **self-­inflicted** problems (see Middle East & Africa section). The **virulence** of their rhetoric varies, but the consequence is the same: life for immigrants has grown **nastier** and more **perilous**.
 
 > **Xenophobic**：仇外的；排外的；憎恨外国人的
  > 
@@ -35,7 +35,7 @@ description: South Africans should not blame immigrants for their country’s fa
 > **perilous**:(peril)危险的；艰险的
  > 
 
-3. ** Vigilante** groups are growing in strength. They spread wild rumours on social media. They stomp around townships, demanding (illegally) to check foreigners’ identity documents. Sometimes, they inflict **mob** justice. Astonishingly, one in eight South Africans say they have taken part in “violent action” against immigrants; almost as many say they would be prepared to do so. Most South Africans think migrants commit more crimes (they don’t) and “steal” local jobs (studies suggest that they tend to boost both gdp and employment).
+3.  **Vigilante** groups are growing in strength. They spread wild rumours on social media. They stomp around townships, demanding (illegally) to check foreigners’ identity documents. Sometimes, they inflict **mob** justice. Astonishingly, one in eight South Africans say they have taken part in “violent action” against immigrants; almost as many say they would be prepared to do so. Most South Africans think migrants commit more crimes (they don’t) and “steal” local jobs (studies suggest that they tend to boost both gdp and employment).
 
 > **Vigilante**:义务警员；治安维持会（常贬义）
  > 
@@ -53,7 +53,7 @@ description: South Africans should not blame immigrants for their country’s fa
 > **woo**:争取…的支持；寻求…的赞同
  > 
 
-5. Anxious to cling to power, the ruling party has responded by treating foreigners more harshly. The processing of **asylum** applications has **ground to a halt**. Some provinces want to restrict foreign ownership of township shops. A new immigration system promises to make it harder for firms to hire non­citizens. And the government says it will no longer renew residence permits used by many **Zimbabweans** since the ruin of their country in the late 2000s. Before long, they will face a grim choice: live in the shadows or be deported **en masse **to a failing state.
+5. Anxious to cling to power, the ruling party has responded by treating foreigners more harshly. The processing of **asylum** applications has **ground to a halt**. Some provinces want to restrict foreign ownership of township shops. A new immigration system promises to make it harder for firms to hire non­citizens. And the government says it will no longer renew residence permits used by many **Zimbabweans** since the ruin of their country in the late 2000s. Before long, they will face a grim choice: live in the shadows or be deported **en masse** to a failing state.
 
 > **asylum**:庇护；收容所；避难所
  > 

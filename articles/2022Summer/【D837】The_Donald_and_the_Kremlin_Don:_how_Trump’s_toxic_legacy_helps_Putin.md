@@ -1,6 +1,6 @@
 # D837 The Donald and the Kremlin Don: how Trump’s toxic legacy helps Putin
 1.Even by Donald Trump’s chaotic standards, the “comprehensive peace agreement” for Afghanistan signed by the US in **Doha** in February 2020 was a huge own goal.
-The pact **posited** no binding ceasefire, no power-sharing requirements, and no political **roadmap**.In return for some** mumbo-jumbo** about **al-Qaida**, Trump pledged total, unconditional US and Nato withdrawal within 14 months.This was not peacemaking. This was **capitulation**. The Taliban could hardly believe their luck.
+The pact **posited** no binding ceasefire, no power-sharing requirements, and no political **roadmap**.In return for some **mumbo-jumbo** about **al-Qaida**, Trump pledged total, unconditional US and Nato withdrawal within 14 months.This was not peacemaking. This was **capitulation**. The Taliban could hardly believe their luck.
 
 > **Doha**:卡达首都杜哈
  > 
@@ -15,7 +15,7 @@ The pact **posited** no binding ceasefire, no power-sharing requirements, and no
 > **capitulation**：(有条件的)投降；投降条约
  > 
 
-2.Trump hoped to benefit politically from “bringing the troops home”, even though the vast majority had already left. He was otherwise** **wholly indifferent to the fate of the Afghan people.
+2.Trump hoped to benefit politically from “bringing the troops home”, even though the vast majority had already left. He was otherwise wholly indifferent to the fate of the Afghan people.
 Military men in the US and UK were **aghast**. So, too, were diplomats, politicians, aid agencies and analysts familiar with Afghanistan. But their warnings of **looming** catastrophe were ignored.
 Despite being **hobbled** by official secrecy, two damning reports this month, one by a US public watchdog, the other by the UK parliament’s foreign affairs committee (FAC), lay bare the almost unbelievable incompetence of the two governments.
 
@@ -29,7 +29,7 @@ Despite being **hobbled** by official secrecy, two damning reports this month, o
  > 
 
 3.Boris Johnson and the then British foreign secretary, Dominic Raab, failed to effectively challenge the Doha pact, then failed adequately to prepare for the 2021 withdrawal, the FAC report said.
-On 8 July 2021, Johnson **blithely** told the Commons there was “no military path to victory for the Taliban”. On 15 August,** Kabul** fell. Chaos** reign**ed. **Evacuees **died. Dogs were saved. But many UK-employed Afghan staff and workers were not.
+On 8 July 2021, Johnson **blithely** told the Commons there was “no military path to victory for the Taliban”. On 15 August, **Kabul** fell. Chaos **reign**ed. **Evacuees** died. Dogs were saved. But many UK-employed Afghan staff and workers were not.
 Twenty years of nation-building, at a cost of tens of thousands of US, British and Afghan lives, were blown away in a few shameful days. Johnson and Raab should have resigned then, but didn’t. There’s still time, guys
 
 > **then**:当时（任职等）的
@@ -43,9 +43,9 @@ Twenty years of nation-building, at a cost of tens of thousands of US, British a
 > **evacuee**:(尤指战争时期) 撤离者
  > 
 
-4.The report of the US special inspector general (Sigar) blamed the **calamity **on Trump as well as his successor, Joe Biden, and the then Afghan president, Ashraf Ghani.
-Biden was certainly at fault. He should have insisted on renegotiating Doha and kept some US forces at Bagram base, outside Kabul. European Nato allies should have voiced their **misgivings **more **forcibly**.
-But responsibility lies primarily with the man who set this lethal geopolitical car crash in motion. While boasting of his **prowess **as a dealmaker, Trump **caved **to a gang of **feudal warlord**s, who promptly defaulted to **tyranny.**
+4.The report of the US special inspector general (Sigar) blamed the **calamity** on Trump as well as his successor, Joe Biden, and the then Afghan president, Ashraf Ghani.
+Biden was certainly at fault. He should have insisted on renegotiating Doha and kept some US forces at Bagram base, outside Kabul. European Nato allies should have voiced their **misgivings** more **forcibly**.
+But responsibility lies primarily with the man who set this lethal geopolitical car crash in motion. While boasting of his **prowess** as a dealmaker, Trump **caved** to a gang of **feudal warlord**s, who promptly defaulted to **tyranny.**
 
 > then：时任的
  > 
@@ -66,9 +66,9 @@ But responsibility lies primarily with the man who set this lethal geopolitical 
 > **warlord**:军阀the leader of a military group that is not official and that fights against other groups within a country or an area
  > 
 
-5.Today’s ongoing Afghan tragedy is but one aspect of Trump’s toxic legacy. The negative impact of his presidency is still being felt around the world – and time is running out to** dispel** its noxious **after-effect**s.
-In two years’ time, Trump or a Trump-**endorsed **Republican clone could win back the White House. His **reactionary**,** disruptive** America First agenda may once again dictate the way the US deals, or fails to deal, with the big global challenges of the day.
-This **dire **prospect is rendered more likely by Biden’s apparent inability, seen in Afghanistan, to fundamentally **shift the dial** on a range of key international issues.
+5.Today’s ongoing Afghan tragedy is but one aspect of Trump’s toxic legacy. The negative impact of his presidency is still being felt around the world – and time is running out to **dispel** its noxious **after-effect**s.
+In two years’ time, Trump or a Trump-**endorsed** Republican clone could win back the White House. His **reactionary**, **disruptive** America First agenda may once again dictate the way the US deals, or fails to deal, with the big global challenges of the day.
+This **dire** prospect is rendered more likely by Biden’s apparent inability, seen in Afghanistan, to fundamentally **shift the dial** on a range of key international issues.
 
 > **dispel**：消除（尤指感觉或信仰）；驱散；打消
  > 
@@ -100,11 +100,11 @@ Since neither **Gulf** state threatened Israel, this was hardly the historic bre
 > **Human Rights Watch**:人权观察组织
  > 
 
-7.Biden recently condemned yet another expansion of illegal **West Bank **settlements. But he has done little to revive the peace process. Maybe this will change when he visits Israel later this year. Maybe not.
-Biden also appears to have bowed to Israeli pressure over Iran. Trump stupidly** reneged** on the 2015 nuclear deal with** Tehran**. Since then, Iran has reportedly moved steadily closer to acquiring nuclear weapons capability.
-Trump’s** blunder**, coupled with repeated Israeli and US **assassinations** of prominent Iranians, has increased tensions. Yet despite a firm promise, Biden has been unable to revive the deal. Now it seems he’s giving up.
+7.Biden recently condemned yet another expansion of illegal **West Bank** settlements. But he has done little to revive the peace process. Maybe this will change when he visits Israel later this year. Maybe not.
+Biden also appears to have bowed to Israeli pressure over Iran. Trump stupidly **reneged** on the 2015 nuclear deal with **Tehran**. Since then, Iran has reportedly moved steadily closer to acquiring nuclear weapons capability.
+Trump’s **blunder**, coupled with repeated Israeli and US **assassinations** of prominent Iranians, has increased tensions. Yet despite a firm promise, Biden has been unable to revive the deal. Now it seems he’s giving up.
 
-> **West Bank **：约旦河西岸
+> **West Bank** ：约旦河西岸
  > 
 > **renege:**拒绝；背信;否认；放弃；
  > 
@@ -115,11 +115,11 @@ Trump’s** blunder**, coupled with repeated Israeli and US **assassinations** o
 > **assassinations**:暗杀,行刺
  > 
 
-8.Trump made a fool of himself trying to charm the nuclear-armed North Korean dictator, Kim Jong-un. His** photo-op** **summitry **boosted Kim’s **prestige **for zero return. Kim has lately been firing off ballistic missiles like there’s no tomorrow. The way he’s going, there may not be.
-Yet North Korea is another **tinderbox** issue on which Biden has nothing new to say. His visits to South Korea and Japan last week underlined how much he has neglected China and the Indo-Pacific region, **ostensibly **his top overseas priority.
+8.Trump made a fool of himself trying to charm the nuclear-armed North Korean dictator, Kim Jong-un. His **photo-op** **summitry** boosted Kim’s **prestige** for zero return. Kim has lately been firing off ballistic missiles like there’s no tomorrow. The way he’s going, there may not be.
+Yet North Korea is another **tinderbox** issue on which Biden has nothing new to say. His visits to South Korea and Japan last week underlined how much he has neglected China and the Indo-Pacific region, **ostensibly** his top overseas priority.
 Trump’s attempts to pressure China punished America. He picked trade fights that hurt US exporters and **boycotted** the Trans-Pacific Partnership –more own goals.
 
-> **photo-op： **专门安排的媒体拍照机会，photo opportunity
+> **photo-op：** 专门安排的媒体拍照机会，photo opportunity
  > 
 > **summitry**：峰会上的谈判 [美国英语]
  > 
@@ -133,8 +133,8 @@ Trump’s attempts to pressure China punished America. He picked trade fights th
  > 
 
 9.Now Biden is belatedly trying to pick up the pieces, reassuring Taiwan of US military backing, strengthening regional alliances, and launching a multi-country an “Indo-Pacifific Economic Framework” to counter China.
-While some of his problems are self-inflicted, Biden’s struggle to repair the global damage **wrought **by Trump’s four-year rampage has been made infinitely more difficult by Russia’s war in Ukraine.
-Trump** obsequiously courted** Vladimir Putin. He **obligingly **trashed Nato and the EU. And he **clash**ed with Putin’s **arch foe** – Ukraine’s leader, Volodymyr Zelenskiy – whom he notoriously (and **impeachably**) pressured **in a bid to** discredit Biden.
+While some of his problems are self-inflicted, Biden’s struggle to repair the global damage **wrought** by Trump’s four-year rampage has been made infinitely more difficult by Russia’s war in Ukraine.
+Trump **obsequiously courted** Vladimir Putin. He **obligingly** trashed Nato and the EU. And he **clash**ed with Putin’s **arch foe** – Ukraine’s leader, Volodymyr Zelenskiy – whom he notoriously (and **impeachably**) pressured **in a bid to** discredit Biden.
 
 > **wrought**：使发生，work的过去式
  > 
@@ -157,7 +157,7 @@ Trump** obsequiously courted** Vladimir Putin. He **obligingly **trashed Nato an
 
 10.Trump, in office, seemed inexplicably **beholden to** the Kremlin mafifia boss. He still does.
 Now Putin’s brutal imperialism threatens in turn to damage Trump’s arch-foe – Biden – by **derailing** his international and domestic priorities and, if Russia wins, discrediting American global leadership.
-The symmetry is striking. Horror in Ukraine, directed from Moscow, **nobble**s Joe’s chances in 2024. It’s almost like the **Don **and the Donald are working together. **Perish the thought**!
+The symmetry is striking. Horror in Ukraine, directed from Moscow, **nobble**s Joe’s chances in 2024. It’s almost like the **Don** and the Donald are working together. **Perish the thought**!
 **beholden to**：owing thanks or having a duty to someone in return for help or a service.
 
 > **derail**：使脱轨

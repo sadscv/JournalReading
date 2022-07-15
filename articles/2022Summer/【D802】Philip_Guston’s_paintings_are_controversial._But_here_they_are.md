@@ -3,14 +3,14 @@ description: A struggle over artistic freedom suggests a better way out of the c
 ---
 
 # D802 Philip Guston’s paintings are controversial. But here they are
-1 “Probably the only thing one can really learn”, Philip Guston eventually concluded, “is the capacity to be able to change.” The modern artist’s fate, he said, was “constant change”. As a painter he embraced that fate—and in **posterity **his work has proved both an index of change and a challenge to it. A new show in Boston charts his restless genius; it is also the canvas for a struggle over art’s freedom and obligations, and the **contested **balance between them.
+1 “Probably the only thing one can really learn”, Philip Guston eventually concluded, “is the capacity to be able to change.” The modern artist’s fate, he said, was “constant change”. As a painter he embraced that fate—and in **posterity** his work has proved both an index of change and a challenge to it. A new show in Boston charts his restless genius; it is also the canvas for a struggle over art’s freedom and obligations, and the **contested** balance between them.
 
 > **posterity**：后代
  > 
 > **contested**：具有争议的
  > 
 
-2 Twice Guston, who died in 1980, made a reputation and gave it up—first as a **figurative **artist and **muralist **in the 1930s and 1940s, next by plunging into abstraction with his friend Jackson Pollock and other mid-century American pioneers. Boldly he returned to figuration in the late 1960s, dwelling on **banal **yet somehow **uncanny **objects: light bulbs, bricks, boots. He painted heads, distorted or half-submerged. And he made a series of paintings of triangular hooded figures that recall the Ku Klux Klan.
+2 Twice Guston, who died in 1980, made a reputation and gave it up—first as a **figurative** artist and **muralist** in the 1930s and 1940s, next by plunging into abstraction with his friend Jackson Pollock and other mid-century American pioneers. Boldly he returned to figuration in the late 1960s, dwelling on **banal** yet somehow **uncanny** objects: light bulbs, bricks, boots. He painted heads, distorted or half-submerged. And he made a series of paintings of triangular hooded figures that recall the Ku Klux Klan.
 
 > **figurative**：具象派
  > 
@@ -21,7 +21,7 @@ description: A struggle over artistic freedom suggests a better way out of the c
 > **uncanny**：出奇的
  > 
 
-3 When first exhibited in 1970, these caused an art-world scandal—not because of the imagery, or Guston’s right to use it, but over the **brashly **cartoonish technique. A **retrospective **staged in 2003-04 passed without uproar. But in 2020, in the **ferment **after the murder of George Floyd, the organisers of the then-upcoming new show **quailed **at Guston’s motifs and themes. The director of the National Gallery of Art in Washington, where it was due to open first, said he had “appropriated images of black trauma”. The problem, implicitly, was both what Guston painted and who he was.
+3 When first exhibited in 1970, these caused an art-world scandal—not because of the imagery, or Guston’s right to use it, but over the **brashly** cartoonish technique. A **retrospective** staged in 2003-04 passed without uproar. But in 2020, in the **ferment** after the murder of George Floyd, the organisers of the then-upcoming new show **quailed** at Guston’s motifs and themes. The director of the National Gallery of Art in Washington, where it was due to open first, said he had “appropriated images of black trauma”. The problem, implicitly, was both what Guston painted and who he was.
 
 > **brashly**：无礼地、唐突
  > 
@@ -36,7 +36,7 @@ description: A struggle over artistic freedom suggests a better way out of the c
 
 ![](./archive/img/boxcnNWhGFKfHRBbTK3SJTnDVJh.png)
 
-5 As for the later hoods themselves: Guston delighted in telling stories with them, and in the expressions he could conjure in their almost blank **visages**. At bottom, though, they were—and are—a **reproach**. They are terrible in their ordinariness, surrounded with everyday **bric-a-brac**, glimpsed smoking or riding in a **boxy **car. In “The Studio” one sketches a self-portrait, blood on his hand and costume. The stitching in the hoods matches and merges with the window slits in the buildings Guston painted. His hoods are knitted into society. They are everywhere.
+5 As for the later hoods themselves: Guston delighted in telling stories with them, and in the expressions he could conjure in their almost blank **visages**. At bottom, though, they were—and are—a **reproach**. They are terrible in their ordinariness, surrounded with everyday **bric-a-brac**, glimpsed smoking or riding in a **boxy** car. In “The Studio” one sketches a self-portrait, blood on his hand and costume. The stitching in the hoods matches and merges with the window slits in the buildings Guston painted. His hoods are knitted into society. They are everywhere.
 
 > **visages**：脸 [文学性]
  > 
@@ -54,7 +54,7 @@ description: A struggle over artistic freedom suggests a better way out of the c
 > **Insidious**：潜伏的; 暗中为害的
  > 
 
-7 They were wrong. Ahead of the **mooted **schedule, it opens on May 1st at the Museum of Fine Arts (mfa) in Boston, and will be adapted in Houston, Washington and London. It is a magnificent exhibition and—at a **febrile**, polarised time—an important one. The mfa assembled a diverse group of curators and has carefully laid out the political context of Guston’s life and work. Visitors can avoid the hoods if they choose to: they can make up their own minds.
+7 They were wrong. Ahead of the **mooted** schedule, it opens on May 1st at the Museum of Fine Arts (mfa) in Boston, and will be adapted in Houston, Washington and London. It is a magnificent exhibition and—at a **febrile**, polarised time—an important one. The mfa assembled a diverse group of curators and has carefully laid out the political context of Guston’s life and work. Visitors can avoid the hoods if they choose to: they can make up their own minds.
 
 > **mooted**：有争议的; 悬而未决的
  > 

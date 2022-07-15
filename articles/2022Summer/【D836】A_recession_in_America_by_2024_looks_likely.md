@@ -39,7 +39,7 @@ description: The coming downturn. It should be mild—but fear its consequences
 > **stratospheric**:平流层的; 同温层的
  > 
 
-8.A system of market-based lending has sprung up since 2007-09 that has yet to be severely tested. It includes investment funds that act like banks, vast derivatives **clearing-houses** and high-speed bond traders. If something goes wrong, the Fed will find it hard to **bail out **Wall Street yet again, because it will at the same time be forcing Main Street to cope with higher rates and job losses.
+8.A system of market-based lending has sprung up since 2007-09 that has yet to be severely tested. It includes investment funds that act like banks, vast derivatives **clearing-houses** and high-speed bond traders. If something goes wrong, the Fed will find it hard to **bail out** Wall Street yet again, because it will at the same time be forcing Main Street to cope with higher rates and job losses.
 
 > **clearing-houses**：票据交换所，清算所
  > 
@@ -54,8 +54,6 @@ description: The coming downturn. It should be mild—but fear its consequences
 10.Politics could distort the government’s response to a recession. The Fed may be dragged into a venomous political battle. After receiving **handouts** amounting to 26% of gdp in the pandemic, voters and firms may expect the state to protect them from hardship this time, too. Yet the Republicans, who will probably control Congress after mid-term elections in November, would be most unlikely to spend money to see off a downturn if that also risked saving President Joe Biden.
 
 > **handouts**：施舍物; 救济品; 救济金
- > 
-> **From the roaring to the raging 2020s**
  > 
 
 11.If America’s economy does shrink in the next year or two, it could even alter the country’s long-term direction. The best response to a downturn during which inflation remained high would be pro-growth reforms, such as lower tariffs and more competition. Instead, recession may fuel populism and protectionism and even return Donald Trump to the presidency. Three of the past four recessions coincided with presidential elections or shortly preceded them. Each time the party controlling the White House lost power.

@@ -8,7 +8,7 @@ description: More American clinics are offering ketamine to treat depression. Is
 > **ketamine**：氯胺酮
  > 
 
-2.Interest is rising in the idea that ketamine, typically used as an anaesthetic (or as an illegal party drug), can help provide a lasting cure where traditional treatments, such as **antidepressant **drugs, have failed. psych Global, a provider of information on **psychedelic** health care, estimates that the revenue for American clinics could be over $3bn between 2023 and 2029. Critics, though, worry that the drug can lead to dependency and that not enough is known about its long­term safety.
+2.Interest is rising in the idea that ketamine, typically used as an anaesthetic (or as an illegal party drug), can help provide a lasting cure where traditional treatments, such as **antidepressant** drugs, have failed. psych Global, a provider of information on **psychedelic** health care, estimates that the revenue for American clinics could be over $3bn between 2023 and 2029. Critics, though, worry that the drug can lead to dependency and that not enough is known about its long­term safety.
 
 > **antidepressant** ：抗抑郁药
  > 
@@ -22,15 +22,13 @@ description: More American clinics are offering ketamine to treat depression. Is
 > **off-­label**：标签以外；适应症外使用
  > 
 
-4.In kwc’s treatment rooms, people spend between two and four hours experiencing what Kevin Nicholson, the founder and chief executive of the firm, calls a mildly  “**floaty**” and “dreamlike” high high, under the close watch of a nurse or **paramedic**. Although there may be less clinical evidence for ketamine than for traditional antidepressants, its ability to act quickly to relieve depression is an enormous advantage. It stands in **stark contrast **to anti-depressants that can take weeks or months to have an effect—if they work at all. For patients who have failed to respond to anti-depressants, and for those who may be suicidal, ketamine is an attractive option.
+4.In kwc’s treatment rooms, people spend between two and four hours experiencing what Kevin Nicholson, the founder and chief executive of the firm, calls a mildly  “**floaty**” and “dreamlike” high high, under the close watch of a nurse or **paramedic**. Although there may be less clinical evidence for ketamine than for traditional antidepressants, its ability to act quickly to relieve depression is an enormous advantage. It stands in **stark contrast** to anti-depressants that can take weeks or months to have an effect—if they work at all. For patients who have failed to respond to anti-depressants, and for those who may be suicidal, ketamine is an attractive option.
 
 > **floaty**：轻的；漂浮感
  > 
 > **stark contrast** ：强烈对比
  > 
 > **paramedic**：护理人员
- > 
-> **Quicker but potentially quackier  **
  > 
 
 5.Some of kwc’s patients struggled for a decade, though a growing number are coming a year or two after their first diagnosis. At the Naperville clinic, to get treatment for depression patients must first go through a psychological evaluation, usually over a video call. They must also have been experiencing symptoms that have not lifted after the use of anti-depressant medications and lifestyle changes.
@@ -56,16 +54,16 @@ description: More American clinics are offering ketamine to treat depression. Is
 > **opioid**：阿片类物质
  > 
 
-9.Plenty of other firms use the drug as an** adjunct **to psychiatry. While the exact mechanism by which ketamine works is not entirely clear, it is known to increase neuroplasticity and stimulate the growth of new **synapse**s. By combining the ketamine experience with psychiatric support, the idea is it helps the patient learn new ways of thinking during a window of** neuroplasticity** opened by the drug.
+9.Plenty of other firms use the drug as an **adjunct** to psychiatry. While the exact mechanism by which ketamine works is not entirely clear, it is known to increase neuroplasticity and stimulate the growth of new **synapse**s. By combining the ketamine experience with psychiatric support, the idea is it helps the patient learn new ways of thinking during a window of **neuroplasticity** opened by the drug.
 
-> **adjunct **：附属的
+> **adjunct** ：附属的
  > 
 > **synapse**：突触
  > 
 > **neuroplasticity**:神经塑性；神经重构
  > 
 
-10.Many of these new clinics also have a **weather eye** to rapid shifts in the science, and cultural acceptability, of using** psilocybin** and **mdma**, two **psychedelic** drugs, for many of the same mental­health conditions. The path to such treatments is trickier: both these drugs are illegal in most of the country. But ketamine clinics provide the ideal setting for delivering future substances, if and when their time arrives.
+10.Many of these new clinics also have a **weather eye** to rapid shifts in the science, and cultural acceptability, of using **psilocybin** and **mdma**, two **psychedelic** drugs, for many of the same mental­health conditions. The path to such treatments is trickier: both these drugs are illegal in most of the country. But ketamine clinics provide the ideal setting for delivering future substances, if and when their time arrives.
 
 > **weather eye**:留神;警惕
  > 

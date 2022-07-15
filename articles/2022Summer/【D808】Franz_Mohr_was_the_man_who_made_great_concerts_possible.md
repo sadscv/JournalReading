@@ -4,13 +4,13 @@ description:  chief piano tuner for 24 years died on March 28th, aged 94
 
 # D808 Franz Mohr was the man who made great concerts possible
 1.Several decades ago The Economist’s New York office was above the old showroom of Steinway & Sons, piano-makers, on West 57th Street. The way to the office was a staircase to the left; to the right the **glossy** black pianos stood among rich carpets, and customers could be seen and heard shyly, or boldly, trying them out.
-The showroom, however, was not Franz Mohr’s place. His realm was the basement, where the beautiful** concert grand**s were stabled within bare walls, out of the daylight, in ideal relative humidity of 45-65%. Here, in his black Steinway apron, he was in near-constant attendance, ears cocked to his** tuning fork **to hear how quickly, after he struck a key, the** wave **died and the note was “in”, while his right arm was thrust into the innards of each creature, moving his tuning hammer along the **tuning pin**s. When electronic strobes came in, he had no time for them. To set pitch, a tuner could rely only on hearing and touch.
+The showroom, however, was not Franz Mohr’s place. His realm was the basement, where the beautiful **concert grand**s were stabled within bare walls, out of the daylight, in ideal relative humidity of 45-65%. Here, in his black Steinway apron, he was in near-constant attendance, ears cocked to his **tuning fork** to hear how quickly, after he struck a key, the **wave** died and the note was “in”, while his right arm was thrust into the innards of each creature, moving his tuning hammer along the **tuning pin**s. When electronic strobes came in, he had no time for them. To set pitch, a tuner could rely only on hearing and touch.
 
 > **glossy:**光滑的；光彩夺目的
  > 
 > **concert grand:**大型三角钢琴；音乐会大钢琴
  > 
-> **tuning fork **:音叉（一种校音器）
+> **tuning fork** :音叉（一种校音器）
  > 
 > **tuning hammer:**调音锤
  > 
@@ -30,7 +30,7 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 > **Day in and day out:**日复一日
  > 
 
-3.Into this room the great pianists came, looking for an instrument to play in public. He would **brim** then with pride and excitement, but kept his mouth shut, unless the** maestro** asked a question. He knew his place. In his time at Steinway he was the chief tuner for Arthur Rubinstein, Van Cliburn, Glenn Gould and, more than anyone, Vladimir Horowitz, who in the 1980s was perhaps the greatest in the world. His awe at their art did not alter his feeling that the pianos were his, as much as theirs.
+3.Into this room the great pianists came, looking for an instrument to play in public. He would **brim** then with pride and excitement, but kept his mouth shut, unless the **maestro** asked a question. He knew his place. In his time at Steinway he was the chief tuner for Arthur Rubinstein, Van Cliburn, Glenn Gould and, more than anyone, Vladimir Horowitz, who in the 1980s was perhaps the greatest in the world. His awe at their art did not alter his feeling that the pianos were his, as much as theirs.
 
 > **brim:**（使）满
  > 
@@ -39,13 +39,11 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 > **awe :**敬畏
  > 
 
-4.Their tastes were highly distinctive. Horowitz wanted a brilliant response from a **petal-light** touch, which most other pianists could barely control. He also liked (and here Mr Mohr’s German English ran out), a bit of “**nasal-ness**” in it. Rubinstein preferred a warmer, darker sound, and **forbade** the keys to be cleaned because it made them slippery. When Mr Mohr, new to his service, polished them, he had to apply a** double- pssst **of hairspray to restore their resistance. Gould wanted the hammers to make a** drumming** at certain speeds, so he fixed that for him, though it hurt.
+4.Their tastes were highly distinctive. Horowitz wanted a brilliant response from a **petal-light** touch, which most other pianists could barely control. He also liked (and here Mr Mohr’s German English ran out), a bit of “**nasal-ness**” in it. Rubinstein preferred a warmer, darker sound, and **forbade** the keys to be cleaned because it made them slippery. When Mr Mohr, new to his service, polished them, he had to apply a **double-** **pssst** of hairspray to restore their resistance. Gould wanted the hammers to make a **drumming** at certain speeds, so he fixed that for him, though it hurt.
 
 > **petal**:花瓣
  > 
-> Nasal-ness:** **The quality of being nasal
- > 
-> ** pssst :**拟声词，多用来让别人小声一些，也有的时候就是单纯的取这个音作为一些开瓶盖的声音，东西飞出去了的声音等。
+> **pssst :**拟声词，多用来让别人小声一些，也有的时候就是单纯的取这个音作为一些开瓶盖的声音，东西飞出去了的声音等。
  > 
 > **drumming**:鼓声
  > 
@@ -58,7 +56,7 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
  > 
 > **fury**：狂怒；狂暴
  > 
-> **flat: **降音的；降半音的(in music)
+> **flat:** 降音的；降半音的(in music)
  > 
 
 6.In his youth, growing up in wartime Germany, he had never considered such a role. He had learned the violin, studied music at Detmold and Cologne, and hoped to be a soloist. But the Lord had planned a different future for him. **Tendonitis** crippled his left wrist, and he had to give up playing. He answered an ad that led him to an apprenticeship in piano mechanics, then another that took him in 1962 to Steinway in New York. It was not his dream path, but it still had to do with music. In a way it mirrored an event he had never forgotten, the burning in a bombing **raid** on Cologne of the Academy’s **great organ**, which responded to the winds that followed by **groan**ing, then singing, through the fire.
@@ -72,7 +70,7 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 > **great organ**：大风琴；大键盘
  > 
 
-7.Working with the maestros was** eye-opening** in itself. Cliburn, a good Texas boy, was too lazy to practise except “onstage” (he told him), and collected dozens of leather suitcases. Gould, before a recording, would soak his hands in water as hot as he could stand it, then put on gloves, then take them off to play. He made the technicians despair both with his humming as he played, and with the **squeak**s of the fold-up chair he insisted he must sit on.
+7.Working with the maestros was **eye-opening** in itself. Cliburn, a good Texas boy, was too lazy to practise except “onstage” (he told him), and collected dozens of leather suitcases. Gould, before a recording, would soak his hands in water as hot as he could stand it, then put on gloves, then take them off to play. He made the technicians despair both with his humming as he played, and with the **squeak**s of the fold-up chair he insisted he must sit on.
 
 > **eye-opening**：使瞠目吃惊的；大开眼界
  > 
@@ -81,7 +79,7 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 
 ![](./archive/img/boxcnJaGmNI0HgNnKQnRPgdE3gf.png)
 
-8.It was Horowitz, though, and Horowitz’s piano, with whom Mr Mohr’s life became most tightly **entwined**. After a few delicate years, Horowitz would have no tuner but him. The piano in question, one of six the maestro used, had been built for him by Steinway in 1941, and regulated so lovingly by Mr Mohr since 1965 or so that its insides were as good as new. On this Horowitz could display his whole range, from whispering **pianissimi** to thundering** fortissimi**: mostly because it was a Steinway, as Mr Mohr loyally insisted, whose secret lay in the quality of the wood in it, but also because he had given a really high tension to the repetition spring. After Horowitz’s death in 1989 he continued to care for it, tuning and regulating it and accompanying it on tour round America, so that other pianists could play it—though this would not, he cautioned, no way! make them play like Horowitz afterwards.
+8.It was Horowitz, though, and Horowitz’s piano, with whom Mr Mohr’s life became most tightly **entwined**. After a few delicate years, Horowitz would have no tuner but him. The piano in question, one of six the maestro used, had been built for him by Steinway in 1941, and regulated so lovingly by Mr Mohr since 1965 or so that its insides were as good as new. On this Horowitz could display his whole range, from whispering **pianissimi** to thundering **fortissimi**: mostly because it was a Steinway, as Mr Mohr loyally insisted, whose secret lay in the quality of the wood in it, but also because he had given a really high tension to the repetition spring. After Horowitz’s death in 1989 he continued to care for it, tuning and regulating it and accompanying it on tour round America, so that other pianists could play it—though this would not, he cautioned, no way! make them play like Horowitz afterwards.
 
 > **entwined**：缠绕；纠缠
  > 

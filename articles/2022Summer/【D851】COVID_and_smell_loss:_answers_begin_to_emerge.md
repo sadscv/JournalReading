@@ -3,22 +3,22 @@ description: Researchers are learning more about how the SARS-CoV-2 coronavirus 
 ---
 
 # D851 COVID and smell loss: answers begin to emerge
-1.Researchers are finally making **headway** in understanding how the SARS-CoV-2 coronavirus causes loss of smell. And a** multitude **of potential treatments to tackle the condition are undergoing clinical trials, including** steroid**s and blood plasma.
+1.Researchers are finally making **headway** in understanding how the SARS-CoV-2 coronavirus causes loss of smell. And a **multitude** of potential treatments to tackle the condition are undergoing clinical trials, including **steroid**s and blood plasma.
 
 > **Make headway**：取得（缓慢的或艰难的）进展to make progress, especially when this is slow or difficult
  > 
-> **multitude **:众多；群众；人群
+> **multitude** :众多；群众；人群
  > 
 > **steroid:**类固醇；甾族化合物
  > 
 
-2.Once a **tell-tale **sign of COVID-19, smell disruption is becoming less common as the virus evolves. “Our inboxes are not as flooded as they used to be,” says Valentina Parma, a psychologist at the **Monell Chemical Senses Center **in Philadelphia, Pennsylvania, who helped field desperate inquiries from patients throughout the first two years of the pandemic.
+2.Once a **tell-tale** sign of COVID-19, smell disruption is becoming less common as the virus evolves. “Our inboxes are not as flooded as they used to be,” says Valentina Parma, a psychologist at the **Monell Chemical Senses Center** in Philadelphia, Pennsylvania, who helped field desperate inquiries from patients throughout the first two years of the pandemic.
 **tell-tale** :a device for indicating or recording something
 
 > **Monell Chemical Senses Center :**费城莫奈尔化学感应中心
  > 
 
-3.A study published last month1 surveyed 616,318 people in the United States who have had COVID-19. It found that, compared with those who had been infected with the original virus, people who had contracted the Alpha variant — the first variant of concern to arise — were 50% as likely to have **chemosensory **disruption. This probability fell to 44% for the later Delta variant, and to 17% for the latest variant, Omicron.
+3.A study published last month1 surveyed 616,318 people in the United States who have had COVID-19. It found that, compared with those who had been infected with the original virus, people who had contracted the Alpha variant — the first variant of concern to arise — were 50% as likely to have **chemosensory** disruption. This probability fell to 44% for the later Delta variant, and to 17% for the latest variant, Omicron.
 
 > **chemosensory:**化学感觉的
  > 
@@ -27,8 +27,6 @@ description: Researchers are learning more about how the SARS-CoV-2 coronavirus 
 For these people, help can’t come soon enough. Simple activities such as tasting food or smelling flowers are now “really emotionally distressing”, Parma says.
 
 > **anosmia**:嗅觉缺失
- > 
-> **Scrambled nuclei**
  > 
 
 5.A clearer picture of how SARS-CoV-2 causes this disruption should help to create better therapies for the condition. Early in the pandemic, a study showed3 that the virus attacks cells in the nose, called **sustentacular** cells, that provide nutrients and support to **odour**-sensing neurons.
@@ -72,8 +70,6 @@ For these people, help can’t come soon enough. Simple activities such as tasti
 
 > **olfactory:**嗅觉的
  > 
-> **Treatments in testing**
- > 
 
 10.In the meantime, many treatments are being explored, often in small clinical trials. But it’s still early days, so the only thing that most researchers recommend for now is smell training7. Patients are given samples of strong-smelling substances to sniff and try to identify, with the aim of driving the restoration of olfactory signalling. However, the method seems to work only with people who have partial smell loss, Reed says. That means it helps about one-third of people who experienced a chemosensory disruption after COVID-19, adds Parma.
 
@@ -84,14 +80,14 @@ For these people, help can’t come soon enough. Simple activities such as tasti
 > furoate：糠酸酯
  > 
 
-12.Another therapeutic possibility is **platelet-rich** plasma; this is made from patients’ own blood and is rich in biochemicals that might induce healing. A** pilot study** published in 20209 followed seven patients who had platelet-rich plasma injected into their noses: five showed improvement after three months. Similarly, a preprint published in February this year10 followed 56 people and found that platelet-rich plasma made them more sensitive to smells. But these are “really small numbers”, says Carl Philpott, a nose and sinus specialist at the University of East Anglia, Norwich, UK. A US-based team is now launching a larger study.
+12.Another therapeutic possibility is **platelet-rich** plasma; this is made from patients’ own blood and is rich in biochemicals that might induce healing. A **pilot study** published in 20209 followed seven patients who had platelet-rich plasma injected into their noses: five showed improvement after three months. Similarly, a preprint published in February this year10 followed 56 people and found that platelet-rich plasma made them more sensitive to smells. But these are “really small numbers”, says Carl Philpott, a nose and sinus specialist at the University of East Anglia, Norwich, UK. A US-based team is now launching a larger study.
 
 > **platelet：**血小板
  > 
 > **pilot study**：探索性研究；试点研究
  > 
 
-13.Unlike COVID-19 vaccines, which were tested at unprecedented speed because of tremendous government support, treatments for post-COVID chemosensory dysfunction are** plodding** along. Philpott is in the early stages of a small study of vitamin A, which previous experiments have suggested could help with other forms of smell loss. “The reality is that the study will take the rest of this year to run, and it’ll take us probably to the middle of next year before we analyse the data and report it,” Philpott says. “If we find a positive benefit, our next job will be to apply for more funding to do a full stage trial.”
+13.Unlike COVID-19 vaccines, which were tested at unprecedented speed because of tremendous government support, treatments for post-COVID chemosensory dysfunction are **plodding** along. Philpott is in the early stages of a small study of vitamin A, which previous experiments have suggested could help with other forms of smell loss. “The reality is that the study will take the rest of this year to run, and it’ll take us probably to the middle of next year before we analyse the data and report it,” Philpott says. “If we find a positive benefit, our next job will be to apply for more funding to do a full stage trial.”
 
 > **plodding：**沉重缓慢的；单调乏味的
  > 
