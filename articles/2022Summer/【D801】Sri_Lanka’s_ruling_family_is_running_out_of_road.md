@@ -5,7 +5,7 @@ description: The Rajapaksas hang together. Now they are falling apart
 # D801 Sri Lanka’s ruling family is running out of road
 1 As the sun goes down the numbers swell on **Galle Face Green**, a **promenade** facing the Indian Ocean in downtown Colombo where families and lovers typically come to stroll and fly kites. These days it hosts a more **purposeful** crowd. Families are there, but so are farmers, students and their professors, Buddhist monks, Catholic **nun**s, Muslims and members of Sri Lanka’s **Tamil** minority. A **makeshift** settlement has sprung up. There are **teach-in**s at the “People’s University” and **slapstick** plays for children. The capital’s **classiest choir** has even led a rousing **rendition** of “Do you hear the people sing?”. This is Gota Go Gama: “Gota Go Village”. “Gota” is short for **Gotabaya**. The whole carnival takes aim at the president, the 72-year-old Gotabaya Rajapaksa, and his family: Go, Gota, just go.
 
-> **Galle Face Green:**加勒菲斯格林
+> **Galle Face Green**: 加勒菲斯格林
  > 
 > **promenade**: 漫步；公共散步场所；（常指）滨海步行大道
  > 
@@ -21,11 +21,11 @@ description: The Rajapaksas hang together. Now they are falling apart
  > 
 > **slapstick** :打闹剧；粗俗滑稽剧
  > 
-> **classy:**优等的；时髦的
+> **classy**: 优等的；时髦的
  > 
 > **rendition** :演奏；演唱；表演
  > 
-> **choir:**唱诗班；唱诗席
+> **choir**: 唱诗班；唱诗席
  > 
 > **Gotabaya**:戈塔巴亚·
  > 
@@ -34,13 +34,13 @@ description: The Rajapaksas hang together. Now they are falling apart
 
 > **ghastly** :可怕的
  > 
-> **denouement:**收场；（事情的）结果
+> **denouement**: 收场；（事情的）结果
  > 
 > **wallow**:沉溺于;打滚
  > 
-> **triumphalism:**耀武扬威；扬扬得意
+> **triumphalism**: 耀武扬威；扬扬得意
  > 
-> **settle scores:** 算帐
+> **settle scores**:  算帐
  > 
 > **rampant**:泛滥的；猖獗的
  > 
@@ -69,13 +69,15 @@ description: The Rajapaksas hang together. Now they are falling apart
 
 > **sergeant**:陆军（或空军）中士；军士；警官；警长
  > 
-> **vanity:**虚荣；虚荣心；自负
+> **vanity**: 虚荣；虚荣心；自负
  > 
 > **fertiliser** :肥料
  > 
 > **plummet**:笔直掉下；骤然跌落
  > 
-> **credit line:**贷款限额;信用额度
+> **A way off**:a long distance away
+ > 
+> **credit line**: 贷款限额;信用额度
  > 
 
 6 And then what? The people on Galle Face Green are furious over their country’s **precipitous** fall. Soon, hunger may loom. Meanwhile, Rajapaksa mismanagement and **sleaze** have so diminished Gota’s authority that he has not shown his face in public in weeks, as **barricades** have gone up around the presidential office. But **impeach**ing a president is far from easy, and heaven knows Gota wants to stay. Out of office he is even liable to prosecution for war crimes.
@@ -95,7 +97,7 @@ description: The Rajapaksas hang together. Now they are falling apart
  > 
 > **budge** :让步；预算；改变意见
  > 
-> **all-party government:** 超党派ZF
+> **all-party government**:  超党派ZF
  > 
 
 8 It is not clear that opposition parties will play along. But **ejecting** Mahinda could persuade enough of the doubters in the ruling coalition for the government to win any **no-confidence vote**. Whatever happens, the implications are profound. The Rajapaksas have always been as thick as any Sicilian family. Whatever their differences, they knew they needed to stand together. But the crowds on Galle Face Green have had an effect. From now on, it seems, the Rajapaksas stand separately.

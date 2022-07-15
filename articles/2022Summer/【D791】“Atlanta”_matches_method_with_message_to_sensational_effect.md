@@ -14,7 +14,7 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
 
 > **sitcom**：情景喜剧
  > 
-> **trippy:**(由致幻药引起幻觉产生)迷迷糊糊的
+> **trippy**: (由致幻药引起幻觉产生)迷迷糊糊的
  > 
 > **nicety**:准确, 精确, 细节, 细微的差别
  > 
@@ -42,6 +42,8 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
  > 
 > **sinister** :邪恶的；险恶的；不祥的
  > 
+> **FX** is an American pay television channel owned by FX Networks, LLC, a subsidiary of the Disney General Entertainment Content unit of The Walt Disney Company
+ > 
 
 6 The content is as discomforting as the form. Mostly the **villains** are not **frothing bigot**s but **presumptuous** white liberals, like the **condescending** host of a **Juneteenth** party in season one. The **microaggressions** add up, though. Gatekeepers in “Atlanta” will admit its black characters only on **soul-crushing**, **pigeonholing** terms. Charm and talent are not enough, and nor, for Earn and Van, is love. Their mistakes count triple; small gains are liable to be snatched back. The humour is less laugh or cry than both at once.
 
@@ -53,7 +55,13 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
  > 
 > **condescending**:表现出优越感的；居高临下的
  > 
-> **Juneteenth :**六月节；六月庆典
+> **Juneteenth **: 六月节；六月庆典
+ > 
+> **microaggression**: a statement, action, or incident regarded as an instance of indirect, subtle, or unintentional discrimination against members of a marginalized group such as a racial or ethnic minority.
+ > 
+> **soul-crushing **: used to describe a dream-crushing, breaking, moment.
+ > 
+> **pigeonholing**:assign to a particular category or class, especially in a manner that is too rigid or exclusive.
  > 
 
 7 Even success isn’t enough, it turns out. Like the actors—above all Mr Glover, not only a “Star Wars” hero but, as Childish Gambino, an internet-breaking musician—in season three the characters have made it and are touring Europe. But good fortune is less an escape than a new kind of trap. In Amsterdam they stumble into a **blackface** winter festival. At a party in London, an **off-key** remark is a chance for white **onlooker**s to perform their **piety**. Racism, the show insists, **transcends** borders and bank accounts.
@@ -73,6 +81,8 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
 
 > **elastic**:有弹性的；有弹力的；灵活的
  > 
+> **woozy**:unsteady, dizzy, or dazed.
+ > 
 > **perpetrate**：施(恶行)；犯(过失等)
  > 
 > **throb**:跳动；阵阵的疼痛
@@ -81,7 +91,7 @@ description: The basic template in Donald Glover’s genre-bending drama is the 
  > 
 > **mundane** ：单调的；平凡的
  > 
-> **errand:**差事
+> **errand**: 差事
  > 
 > **screwball** :怪人；狂人
  > 

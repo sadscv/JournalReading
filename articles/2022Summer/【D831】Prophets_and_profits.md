@@ -5,7 +5,7 @@ description: Why investors are increasingly worried about recession in America
 # D831  Prophets and profits
 1.So **choppy** has America’s stockmarket been this year that only a fool would predict mid-­week (or even mid-­Friday) whether prices will end the week up or down. At the market’s close on May 25th, the s&p 500 index of leading American shares looked on course to break a seven­-week losing streak—or to extend the **rout** to eight weeks. Thus far, at least, it has avoided (just) the 20% peak­-to**­trough** decline that is the informal definition of a bear market. But there are signs that America’s markets are entering a new, more worrying phase.
 
-> **choppy ：**波浪起伏的；不平静的
+> **choppy **: 波浪起伏的；不平静的
  > 
 > **­trough [trɒf]**：低谷；低压槽
  > 
@@ -29,7 +29,7 @@ description: Why investors are increasingly worried about recession in America
 
 > **sideswipe**：借机抨击，擦边撞击；沿边擦过
  > 
-> **resilient:**可迅速恢复的；有适应力的
+> **resilient**: 可迅速恢复的；有适应力的
  > 
 > **faltering**:踉跄的；不稳的
  > 
@@ -40,7 +40,7 @@ description: Why investors are increasingly worried about recession in America
 
 4.Slower growth is one element of a textbook **profit squeeze**. A consequence of the mostly stable **cost base** of big businesses is that, when sales rise or fall, profits rise and fall by a lot more. This effect boosted profits considerably last year, but as gdp slows it goes into reverse. The other element of a profit squeeze is higher costs. A variety of bottlenecks have pushed up the prices of key inputs, notably energy. Debt-­service costs are rising with interest rates. But the main worry is wages. The jobs market in America is tight. Pay rises have become more generous as a consequence. Corporate America finds itself in a **double bind** in this regard. If it passes on rising wage costs in higher prices, it will keep inflation high and force the Fed to raise interest rates more aggressively. If it absorbs rising costs, that will crush profits.
 
-> **textbook :**规范的；标准的
+> **textbook **: 规范的；标准的
  > 
 > **profit squeeze**:利润缩减
  > 
@@ -53,7 +53,9 @@ description: Why investors are increasingly worried about recession in America
 
 > **soothsayer**：算命者；预言者
  > 
-> **rally:** 复原；恢复健康;回升；反弹
+> **rally**:  复原；恢复健康;回升；反弹
+ > 
+> position-taking:?
  > 
 > **backdrop**:（事态或活动的）背景
  > 
@@ -64,7 +66,7 @@ description: Why investors are increasingly worried about recession in America
  > 
 > **conjuncture**:局面；(某种)机缘
  > 
-> **counter­factual:**反事实
+> **counter­factual**: 反事实
  > 
 > **shrug off** :(耸肩)表示轻蔑[不屑]；摆脱
  > 

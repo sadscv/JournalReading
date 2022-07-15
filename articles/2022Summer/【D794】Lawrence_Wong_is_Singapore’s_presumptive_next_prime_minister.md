@@ -7,7 +7,7 @@ description: The ruling party’s new leader-in-waiting is meant to show its sof
 
 > **epitomise**：成为…的典范（或典型）
  > 
-> **stint：**从事某项工作（或活动）的时间
+> **stint**: 从事某项工作（或活动）的时间
  > 
 > **co-chair** ：联合主席
  > 
@@ -35,6 +35,8 @@ description: The ruling party’s new leader-in-waiting is meant to show its sof
 4 All this cuts against the image of the typical **pap** politician. The man with whom the party is most closely associated is Lee senior. **Unabashedly** elitist, he possessed immense intellect, ruthlessness and a **penchant** for telling Singaporeans what was best for them. A **colossus** who transformed the city, he saw no need to be liked. Over the course of his long career—he retired from politics only in 2011—he moulded the party in his image.
 
 > **PAP**：人民行动党
+ > 
+> **unabashedly**： in an unabashed way (= without any worry about possible criticism)
  > 
 > **penchant for**: 特别的喜好 [正式]
  > 

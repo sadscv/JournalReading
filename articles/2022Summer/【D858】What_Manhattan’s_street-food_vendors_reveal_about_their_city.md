@@ -5,11 +5,11 @@ description: The lessons of a day in Midtown with Sherif Baioumy and his halal c
 # D858 What Manhattan’s street-food vendors reveal about their city
 1 Sherif baioumy’s morning begins at around 7am in a garage in Queens, where he loads up his cart with the day’s food: **marinated** chicken, a ten-pound **skewer** of ground lamb, rice, vegetables, hot dogs, **falafel**, frozen chips, canned soft drinks and bottled water. A colleague **hitche**s the cart to the back of a pickup truck, and by 9.30 they’ve rolled it into place on the south-west corner of 48th Street and 6th Avenue, in the heart of office-worker Midtown.
 
-> **falafel:**炸豆丸子（中东食品，用鹰嘴豆泥制成，常与面包一起吃）
+> **falafel**: 炸豆丸子（中东食品，用鹰嘴豆泥制成，常与面包一起吃）
  > 
 > **marinated** :卤；腌泡过的
  > 
-> **hitche:**拴住；套住；搭便车
+> **hitche**: 拴住；套住；搭便车
  > 
 > **pickup truck**:小型运货汽车；轻运货车
  > 
@@ -31,30 +31,30 @@ description: The lessons of a day in Midtown with Sherif Baioumy and his halal c
 
 3 The next eight hours are a steady stream of frying, wrapping and unceasing **banter**. Calling Mr Baioumy friendly is like calling water damp; he is **ebullient** and warm, whether **fist-bumping** with his regulars or **enticing** passers-by. In restaurants, where chefs are generally secreted in the kitchen, they can afford to be **surly.** Buying lunch from a vendor is a more intimate experience, and chatting to him as he cooks is part of the charm.
 
-> **banter：**开玩笑；逗乐
+> **banter**: 开玩笑；逗乐
  > 
-> **ebullient：**充满自信的；精力充沛的；热情洋溢的
+> **ebullient**: 充满自信的；精力充沛的；热情洋溢的
  > 
-> **fist-bumping ：**击拳
+> **fist-bumping **: 击拳
  > 
-> **entice：**诱使；引诱
+> **entice**: 诱使；引诱
  > 
-> **surly：**脾气坏的；乖戾的；态度粗暴的
+> **surly**: 脾气坏的；乖戾的；态度粗暴的
  > 
 
 4 Mr Baioumy runs one of Manhattan’s “halal carts”, a term with a meaning specific to New York. Usually overseen by Afghans, **Bangladeshis** or Egyptians like him, they mainly serve halal chicken or lamb over rice or in a **pita**, **garnish**ed either with “white sauce” (a **bafflingly** popular **spiced** **mayonnaise** cut with vinegar) or hot sauce. Much like pho stalls in **Hanoi** or taco trucks in Los Angeles, New York’s halal carts have similar menus, but each vendor has his own style. Mr Baioumy’s marinade has an almost Mediterranean flavour, with strong notes of lemon, garlic and **rosemary**.
 
-> **Bangladeshis:**孟加拉国人
+> **Bangladeshis**: 孟加拉国人
  > 
-> **pita:**皮塔饼；口袋饼
+> **pita**: 皮塔饼；口袋饼
  > 
-> **garnish:**为（食物）加装饰；加饰菜于
+> **garnish**: 为（食物）加装饰；加饰菜于
  > 
-> **spiced:**给…加香料[佐料]
+> **spiced**: 给…加香料[佐料]
  > 
-> **baffling:**令人困惑的；令人迷惑的；阻碍的
+> **baffling**: 令人困惑的；令人迷惑的；阻碍的
  > 
-> **mayonnaise :**蛋黄酱
+> **mayonnaise **: 蛋黄酱
  > 
 > **Hanoi**: 河内
  > 
@@ -65,26 +65,26 @@ description: The lessons of a day in Midtown with Sherif Baioumy and his halal c
 
 > **souvlaki**（希腊）烤肉串
  > 
-> **recurs：**重复；循环
+> **recurs**: 重复；循环
  > 
-> **papaya salad：**青木瓜沙拉
+> **papaya salad**: 青木瓜沙拉
  > 
-> **Bangkok:**曼谷
+> **Bangkok**: 曼谷
  > 
-> **Isaan:**泰国东北部伊森
+> **Isaan**: 泰国东北部伊森
  > 
-> **impoverished:**赤贫的；不名一文的；贫乏的
+> **impoverished**: 赤贫的；不名一文的；贫乏的
  > 
 
 6 The work is **gruelling**, especially in the heat. Mr Baioumy reckons that on a good day he takes home $200 in profit, but every two years $20,000 of that goes to the Florida-based owner of his licence. Because New York issues a **paltry** number, the licences are valuable commodities, though that is set to change: the city will give out 4,450 more in the next decade, and will require the holders actually to run the carts.
 
-> **gruelling：**繁重而累人的；折磨人的
+> **gruelling**: 繁重而累人的；折磨人的
  > 
-> **paltry：**可忽略不计的；微小的；微不足道的
+> **paltry**: 可忽略不计的；微小的；微不足道的
  > 
 
 7 In time, the chicken and lamb that Mr Baioumy sells may seem as unremarkably American as **bagels** or hot dogs, both of which were once the province of immigrant vendors. But as the food evolves, New York’s food carts serve the same function: offering a quick meal and friendly greeting to a city eternally in a hurry. ■
 
-> **bagel：**百吉饼；贝谷圈
+> **bagel**: 百吉饼；贝谷圈
  > 
 

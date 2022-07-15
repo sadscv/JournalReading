@@ -17,9 +17,11 @@ description: More American clinics are offering ketamine to treat depression. Is
 
 3.It is more than 20 years since studies first suggested that ketamine was an effective, rapidly acting antidepressant—**albeit** one whose impact lasts for only days and weeks. Its take­up has been limited because it has not been approved for use specifically as an antidepressant. That deters doctors, patients and those who pay for medicines. It is also unlikely to gain such regulatory approval, which would require a pharmaceutical firm to invest in a drug that is now a cheap generic that anyone can make. Still, **off-­label** prescriptions are possible—and they are on the rise.
 
-> **albeit：**尽管；虽然
+> **albeit**: 尽管；虽然
  > 
 > **off-­label**：标签以外；适应症外使用
+ > 
+> using or involving the use of a prescription drug to treat a condition for which the drug has not been approved by the U.S. Food and Drug Administration
  > 
 
 4.In kwc’s treatment rooms, people spend between two and four hours experiencing what Kevin Nicholson, the founder and chief executive of the firm, calls a mildly  “**floaty**” and “dreamlike” high high, under the close watch of a nurse or **paramedic**. Although there may be less clinical evidence for ketamine than for traditional antidepressants, its ability to act quickly to relieve depression is an enormous advantage. It stands in **stark contrast** to anti-depressants that can take weeks or months to have an effect—if they work at all. For patients who have failed to respond to anti-depressants, and for those who may be suicidal, ketamine is an attractive option.
@@ -29,6 +31,8 @@ description: More American clinics are offering ketamine to treat depression. Is
 > **stark contrast** ：强烈对比
  > 
 > **paramedic**：护理人员
+ > 
+> **Quicker but potentially** **quackier  **
  > 
 
 5.Some of kwc’s patients struggled for a decade, though a growing number are coming a year or two after their first diagnosis. At the Naperville clinic, to get treatment for depression patients must first go through a psychological evaluation, usually over a video call. They must also have been experiencing symptoms that have not lifted after the use of anti-depressant medications and lifestyle changes.

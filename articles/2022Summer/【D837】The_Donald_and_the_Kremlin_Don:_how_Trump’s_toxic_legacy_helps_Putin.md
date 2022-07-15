@@ -8,7 +8,7 @@ The pact **posited** no binding ceasefire, no power-sharing requirements, and no
  > 
 > **roadmap**:蓝图；路标；路径图
  > 
-> **mumbo-jumbo:**摩包君婆；迷信的崇拜物；令人畏惧的东西；迷惑人的做法
+> **mumbo-jumbo**: 摩包君婆；迷信的崇拜物；令人畏惧的东西；迷惑人的做法
  > 
 > **al-Qaida**：基地组织
  > 
@@ -84,6 +84,8 @@ This **dire** prospect is rendered more likely by Biden’s apparent inability, 
  > 
 > **dire**：极为严重的
  > 
+> **Shift the dial**：it means that **it causes a noticeable change**
+ > 
 
 6.It’s little wonder, for example, that occupation-related violence between Israelis and **Palestinian**s in the West Bank and elsewhere is at its highest level since 2014, according to the UN.
 Trump abandoned peace efforts and the internationally preferred two-state solution, ignored the Palestinian Authority, and promoted the business focused “Abraham **Accord**s” between Israel, the **UAE** and Bahrain.
@@ -106,9 +108,9 @@ Trump’s **blunder**, coupled with repeated Israeli and US **assassinations** o
 
 > **West Bank** ：约旦河西岸
  > 
-> **renege:**拒绝；背信;否认；放弃；
+> **renege**: 拒绝；背信;否认；放弃；
  > 
-> **Tehran:**伊朗首都德黑兰
+> **Tehran**: 伊朗首都德黑兰
  > 
 > **blunder**:愚蠢（或粗心）的错误
  > 
@@ -158,14 +160,19 @@ Trump **obsequiously courted** Vladimir Putin. He **obligingly** trashed Nato an
 10.Trump, in office, seemed inexplicably **beholden to** the Kremlin mafifia boss. He still does.
 Now Putin’s brutal imperialism threatens in turn to damage Trump’s arch-foe – Biden – by **derailing** his international and domestic priorities and, if Russia wins, discrediting American global leadership.
 The symmetry is striking. Horror in Ukraine, directed from Moscow, **nobble**s Joe’s chances in 2024. It’s almost like the **Don** and the Donald are working together. **Perish the thought**!
-**beholden to**：owing thanks or having a duty to someone in return for help or a service.
 
+> **beholden to**：owing thanks or having a duty to someone in return for help or a service.
+ > 
 > **derail**：使脱轨
  > 
 > **nobble**：阻止；阻挠
  > 
 > **Perish**：死亡；毁灭；暴死；丧失
  > 
-> **Perish the thought：**打住念头；别存这种念头
+> **Don**: The mafia as a criminal institution originated in Sicily, Italy. The word 'Don' in Italian means boss. So the leader of a mafia gang came to be known as a don.
+ > 
+> **Perish the thought**: 打住念头；别存这种念头
+ > 
+> used for saying that an idea or suggestion is silly, not acceptable, or not likely to happen
  > 
 

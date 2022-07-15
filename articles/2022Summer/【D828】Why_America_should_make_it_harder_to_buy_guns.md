@@ -9,6 +9,8 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
  > 
 > **impel**：激励；驱使；推动
  > 
+> **X people**：Generation X, people **born between 1965-1980.**
+ > 
 
 2.What these horrors have in common, though, is the murder weapon. Guns are simple, reliable tools for killing. A man with a gun and plenty of **ammunition** can kill more people, more quickly and with far less physical effort than he can with a knife, a blunt object or his bare hands. The weapon Mr Ramos used—a military-style assault rifle with **high-capacity magazine**s—allowed him to keep shooting until someone shot him. That most of his victims were children makes the crime unusually horrific. But it **resemble**s countless other American tragedies in that the easy availability of guns made it deadlier than it might have been.
 
@@ -25,6 +27,8 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
 
 > **disparity**：差异
  > 
+> **heat-packing**：pack heat: carry a gun
+ > 
 
 4.By one estimate, Americans own 400m guns. If they were evenly distributed, each family of five would have six. In 2020 more than 45,000 people in America died from firearm-related injuries. Guns now kill more young people than cars do.
 
@@ -34,11 +38,14 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
  > 
 
 6.In America such strict gun control is unthinkable. The Second Amendment guarantees a right to bear arms, and the National Rifle Association promotes a **maximalist** interpretation of it. Politicians who hint that they might make it a little bit harder to obtain a firearm face a well-organised bloc of single-issue voters. In Republican primaries, especially, few dare offend the **gun lobby**.
-**maximalist**：one who advocates immediate and direct action to secure the whole of a program or set of goals
 
+> **maximalist**：one who advocates immediate and direct action to secure the whole of a program or set of goals
+ > 
 > **primary**：初选
  > 
 > **single-issue voter**：单一议题选民
+ > 
+> **gun lobby** :a group of people who argue for the right of members of the public to be able to own guns
  > 
 
 7.Hence the steady loosening of rules in places like Texas, where 21-year-olds can carry a handgun in public without training or a permit (both of which are needed to cut hair); and where 18-year-olds can buy a handgun if they come from a violent home (to defend themselves against abusive relatives); and where almost any adult can buy a rifle with minimal **hassle**. Mr Ramos bought two assault rifles legally as soon as he turned 18, and shot his grandmother before heading for the local elementary school.
@@ -50,9 +57,9 @@ description: Perhaps make it a bit harder to buy one?  In many states, it is eas
 
 > **assault-style**:突击式
  > 
-> **filibuster:**冗长发言
+> **filibuster**: 冗长发言
  > 
-> **hefty:**大而重的；很大的；超出一般的；可观的
+> **hefty**: 大而重的；很大的；超出一般的；可观的
  > 
 > **illicitly**:违法地
  > 

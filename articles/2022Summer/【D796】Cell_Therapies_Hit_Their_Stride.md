@@ -7,7 +7,7 @@
  > 
 > **sickle**：镰刀状细胞
  > 
-> **nascent：**新生的；未成熟的
+> **nascent**: 新生的；未成熟的
  > 
 
 2 In recent years, however, our field has expanded to include other treatments that work in similar ways as bone marrow transplantation. They are collectively known as "cellular therapies" because they do one of three things: provide healthy new cells to replace diseased cells, release an influx of specially modified immune cells to teach the body's immune cells how to fight disease, or provide cells that connect immune cells with cancer cells they are designed to kill. Study after study has demonstrated how these approaches are extending patients' lives. This progression of therapies is reflected in bone marrow transplant services around the country, many of which — including our own at Hackensack University Medical Center — now include the words "cellular therapy" in their names.
@@ -24,7 +24,7 @@
 4 But where we are really seeing a revolution in care is the field of cellular therapy — particularly **CAR T-cell** immunotherapy. Cancer cells have found ways to escape being detected and destroyed by immune cells. Immunotherapies work by helping the immune system find and kill cancer cells.
 With CAR T-cell therapy, immune cells called T cells are removed from the patient, genetically modified in a lab to recognize and attach to certain targets on cancer cells, grown to larger quantities (hundreds of millions), and returned to the patient. There, the modified T cells can find, bind to and kill cancer cells. The treatment is given **intravenously**. Long after the patient goes home, however, his or her newly educated immune cells continue to detect and destroy cancer cells, which is why this treatment is often referred to as a "living therapy."
 
-> **CAR T-cell :**Chimeric antigen receptor T cell缩写而来，汉语直译为**嵌合抗原受体T细胞**，可以理解为人为的给正常T细胞加入（嵌合）特定抗原的受体，以使T细胞行使特异的杀伤功能。
+> **CAR T-cell **: Chimeric antigen receptor T cell缩写而来，汉语直译为**嵌合抗原受体T细胞**，可以理解为人为的给正常T细胞加入（嵌合）特定抗原的受体，以使T细胞行使特异的杀伤功能。
  > 
 > **intravenously**:静脉注射地
  > 

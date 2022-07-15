@@ -30,7 +30,7 @@ description: The hawks are taking flight
 
 > **quiescent**：静态的 [文学性]
  > 
-> **even-handed：**公平无私的; 不偏不倚的
+> **even-handed**: 公平无私的; 不偏不倚的
  > 
 
 5 A common **refrain** of the Fed’s critics is that the central bank was caught fighting the last war. The recovery from the global financial crisis of 2007-09 was long and drawn out, with inflation staying **subdued**. Sonal Desai of Franklin Templeton, an asset manager, thinks this misled the Fed. “The idea was that inflation expectations were so well-anchored that a free lunch was available. You could have a massive expansion of fiscal and monetary policy, and still no impact on inflation,” she says. This time, though, the economy was not emerging from a deep financial crisis. Rather, the pandemic was more akin to a natural disaster, from which recoveries tend to be much swifter.

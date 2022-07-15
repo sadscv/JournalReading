@@ -78,15 +78,17 @@ description: Foundation models
  > 
 > **pornographic**:下流的；黄色的；色情的
  > 
-> **dilemma:**困境；左右为难
+> **dilemma**: 困境；左右为难
  > 
 > **elite**:精英；精华；杰出人物
+ > 
+> **Bring on the revolution**
  > 
 
 11.For years it has been said that ai-powered automation poses a threat to people in repetitive, routine jobs, and that artists, writers and programmers were safer. Foundation models challenge that assumption. But they also show how ai can be used as a software **sidekick** to enhance productivity. This machine intelligence does not resemble the human kind, but offers something entirely different. Handled well, it is more likely to complement humanity than **usurp** it.
 
 > **sidekick**:搭档；帮手；朋友
  > 
-> **usurp:**篡夺；侵权
+> **usurp**: 篡夺；侵权
  > 
 

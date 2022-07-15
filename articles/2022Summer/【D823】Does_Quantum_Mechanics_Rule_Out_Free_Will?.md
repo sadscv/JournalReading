@@ -41,7 +41,9 @@ description: Superdeterminism, a radical quantum hypothesis, says our “choices
 **of its own accord** —used to suggest that something happens by itself without anyone causing it to happen
 eg. The tree fell of its own accord.
 
-> **eternal：**不朽的；永久的
+> **eternal**: 不朽的；永久的
+ > 
+> **be in good company**：be in the same situation as someone important or respected.
  > 
 > **accord**：协议/定；一致
  > 
@@ -61,17 +63,19 @@ eg. The tree fell of its own accord.
  > 
 
 10.Invoking psychological causes “doesn’t make the laws of physics go away,” Hossenfelder sternly informed me. “Everything is physics. You’re made of particles.” I felt like we were **talking past each other.** To her, a nondeterministic world makes no sense. To me, a world without choice makes no sense.
-**Talking past each other：** is an English phrase describing the situation where two or more people talk about different subjects, while believing that they are talking about the same thing.
+
+> **Talking past each other**:  is an English phrase describing the situation where two or more people talk about different subjects, while believing that they are talking about the same thing.
+ > 
 
 11.Other physicists insist that physics provides **ample** room for free will. George Ellis argues for “**downward causation**,” which means that physical processes can lead to “**emergent**” phenomena, notably human desires and intentions, that can in turn **exert** an influence over our physical selves. Mathematicians John Conway and Simon Kochen go even further in their 2009 paper “The Strong Free Will Theorem.” They present a mathematical argument, which resembles John Bell’s theorem on quantum nonlocality, that we have free will because particles have free will.
 
-> **ample：**足够的；丰裕的；
+> **ample**: 足够的；丰裕的；
  > 
 > **downward causation**：下向因果性；向下的因果关系
  > 
 > **exert**：施加（影响）
  > 
-> **emergent：**浮出水面的
+> **emergent**: 浮出水面的
  > 
 
 12.To my mind, the debate over whether physics rules out or enables free will is **moot**. It’s like citing quantum theory in a debate over whether the Beatles are the best rock band ever (which they clearly are). Philosophers speak of an “explanatory gap” between physical theories about consciousness and consciousness itself. First of all, the gap is so vast that you might call it a **chasm**. Second, the chasm applies not just to consciousness but to the entire realm of human affairs.

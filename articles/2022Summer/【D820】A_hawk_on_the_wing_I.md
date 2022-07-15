@@ -29,7 +29,7 @@
 
 5.Finnish and Swedish officials think that a far bigger risk is a prolonged and intense campaign of “hybrid” warfare—meaning cyber­-attacks on critical infrastructure, incursions by Russian war-planes, disinformation campaigns and the like. The agreements cover closer co­operation in areas such as intelligence ­sharing and cyber­ security, and are meant to stand in **perpetuity**. “Are we safer with this agreement? Yes, we are. Of course this means something,” Ms Andersson concluded.
 
-> **perpetuity:**永远；不朽
+> **perpetuity**: 永远；不朽
  > 
 
 6.The deals fit with Britain’s evolution over the past decade into one of the most active defenders of  nato’s northern flank and eastern front. It is central to a network of bilateral pacts and groupings, including the **Joint Expeditionary Force**, a cluster of ten states around the Baltic and the North Sea. Britain **shunned** a treaty on foreign policy and security when it left the eu. As a result, says Richard Whitman of the University of Kent, its policy in Europe resembles a “Polo mint”: it has a hard outer rim, and a hole in the middle.
@@ -47,6 +47,6 @@
  > 
 > **devour**:吞没；毁灭
  > 
-> **status quo ante:**以前的状态；以前状况
+> **status quo ante**: 以前的状态；以前状况
  > 
 

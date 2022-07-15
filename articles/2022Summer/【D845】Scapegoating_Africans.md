@@ -11,7 +11,7 @@ description: South Africans should not blame immigrants for their country’s fa
  > 
 > **township**：黑人居住区；镇区
  > 
-> **chastise:**惩罚；严惩；谴责
+> **chastise**: 惩罚；严惩；谴责
  > 
 > **fugitive**：逃亡者；逃亡的
  > 
@@ -28,7 +28,7 @@ description: South Africans should not blame immigrants for their country’s fa
  > 
 > **self­inflicted** ：自己造成的;自使蒙受的;自我伤害
  > 
-> **virulence:**恶意
+> **virulence**: 恶意
  > 
 > **nasty**：难应付的;难弄的;严重的:
  > 
@@ -71,11 +71,13 @@ description: South Africans should not blame immigrants for their country’s fa
 
 7. So instead of scapegoating people who cannot vote, the government should try to govern better: by curbing corruption, improving public services and making South Africa an easier place to do business. More specifically, to restore public confidence in its immigration system it should get a grip on its borders, by firming the **crooked** officials who wave people across illicitly. It should make it easier for migrants to plug skills shortages, which aggravate the difficulty South Africa already has keeping the water flowing and the lights on. And rather than barring firms from hiring unskilled migrants it should make it easier to hire anyone—looser labour rules would mostly benefit jobless South Africans. It should also support free and fair elections in Zimbabwe, without which the awful regime there will remain in power and carry on driving its citizens to emigrate.
 
-> **crooked:**弯曲的；扭曲的；不诚实的
+> **crooked**: 弯曲的；扭曲的；不诚实的
  > 
 
 8.Many countries in Africa are trying to open their borders. The African Union has proposed that its members follow the European Union and embrace freedom of movement. The 15­country regional bloc in west Africa has gone furthest in making that aim a reality; an east African bloc is growing more liberal, too. South Africa, which aspires to lead the continent, ought to be at the **vanguard** of such eforts. Instead it is an outlier.
 
-> **vanguard:**先锋；前卫;先头部队
+> **vanguard**: 先锋；前卫;先头部队
+ > 
+> doi: https://doi.org/10.1038/d41586-022-01589-z
  > 
 

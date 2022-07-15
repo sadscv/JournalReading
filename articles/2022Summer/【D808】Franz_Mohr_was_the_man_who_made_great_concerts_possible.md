@@ -6,44 +6,46 @@ description:  chief piano tuner for 24 years died on March 28th, aged 94
 1.Several decades ago The Economist’s New York office was above the old showroom of Steinway & Sons, piano-makers, on West 57th Street. The way to the office was a staircase to the left; to the right the **glossy** black pianos stood among rich carpets, and customers could be seen and heard shyly, or boldly, trying them out.
 The showroom, however, was not Franz Mohr’s place. His realm was the basement, where the beautiful **concert grand**s were stabled within bare walls, out of the daylight, in ideal relative humidity of 45-65%. Here, in his black Steinway apron, he was in near-constant attendance, ears cocked to his **tuning fork** to hear how quickly, after he struck a key, the **wave** died and the note was “in”, while his right arm was thrust into the innards of each creature, moving his tuning hammer along the **tuning pin**s. When electronic strobes came in, he had no time for them. To set pitch, a tuner could rely only on hearing and touch.
 
-> **glossy:**光滑的；光彩夺目的
+> **glossy**: 光滑的；光彩夺目的
  > 
-> **concert grand:**大型三角钢琴；音乐会大钢琴
+> **concert grand**: 大型三角钢琴；音乐会大钢琴
  > 
 > **tuning fork** :音叉（一种校音器）
  > 
-> **tuning hammer:**调音锤
+> **tuning hammer**: 调音锤
  > 
-> **tuning pin:**调音弦轴
+> **tuning pin**: 调音弦轴
  > 
 > **pitch**: 音高
  > 
 
 2.Each piano had a different character. To make two sound exactly alike was an impossibility. No doubt the good Lord—to whom he turned constantly, as to his tuning fork, to hear the perfect pitch of his life—could make two the same, but where would be the joy in that? So one piano would have a big, **bombastic** voice, just right for **Rachmaninov**, and another would be refined, for **chamber music.** No piano could give what wasn’t there. He could, however, gradually adjust them, by both tuning and full mechanical regulation, to be as close as possible to the sound the owner wanted. **Day in and day out**, that was what he was doing.
 
-> **bombastic:**夸大的；言过其实的；夸夸其谈的
+> **bombastic**: 夸大的；言过其实的；夸夸其谈的
  > 
-> **Rachmaninov:**拉赫曼尼诺夫, **二**十世纪世界的古典音乐作曲家、钢琴家、指挥家
+> **Rachmaninov**: 拉赫曼尼诺夫, **二**十世纪世界的古典音乐作曲家、钢琴家、指挥家
  > 
-> **chamber music:**室内乐（为小型乐队谱写的古典乐曲）classical music written for a small group of instruments
+> **chamber music**: 室内乐（为小型乐队谱写的古典乐曲）classical music written for a small group of instruments
  > 
-> **Day in and day out:**日复一日
+> **Day in and day out**: 日复一日
  > 
 
 3.Into this room the great pianists came, looking for an instrument to play in public. He would **brim** then with pride and excitement, but kept his mouth shut, unless the **maestro** asked a question. He knew his place. In his time at Steinway he was the chief tuner for Arthur Rubinstein, Van Cliburn, Glenn Gould and, more than anyone, Vladimir Horowitz, who in the 1980s was perhaps the greatest in the world. His awe at their art did not alter his feeling that the pianos were his, as much as theirs.
 
-> **brim:**（使）满
+> **brim**: （使）满
  > 
-> **maestro:**大师；音乐大师
+> **maestro**: 大师；音乐大师
  > 
-> **awe :**敬畏
+> **awe **: 敬畏
  > 
 
 4.Their tastes were highly distinctive. Horowitz wanted a brilliant response from a **petal-light** touch, which most other pianists could barely control. He also liked (and here Mr Mohr’s German English ran out), a bit of “**nasal-ness**” in it. Rubinstein preferred a warmer, darker sound, and **forbade** the keys to be cleaned because it made them slippery. When Mr Mohr, new to his service, polished them, he had to apply a **double-** **pssst** of hairspray to restore their resistance. Gould wanted the hammers to make a **drumming** at certain speeds, so he fixed that for him, though it hurt.
 
 > **petal**:花瓣
  > 
-> **pssst :**拟声词，多用来让别人小声一些，也有的时候就是单纯的取这个音作为一些开瓶盖的声音，东西飞出去了的声音等。
+> Nasal-ness: The quality of being nasal
+ > 
+> **pssst **: 拟声词，多用来让别人小声一些，也有的时候就是单纯的取这个音作为一些开瓶盖的声音，东西飞出去了的声音等。
  > 
 > **drumming**:鼓声
  > 
@@ -63,9 +65,9 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 
 > **tendonitis**:肌腱炎
  > 
-> **raid：**突袭；偷袭
+> **raid**: 突袭；偷袭
  > 
-> **groan：**叹息；哼哼
+> **groan**: 叹息；哼哼
  > 
 > **great organ**：大风琴；大键盘
  > 
@@ -84,6 +86,8 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 > **entwined**：缠绕；纠缠
  > 
 > pianissimi：须极轻地奏出的乐句[乐段]
+ > 
+> **fortissimi** ：a passage marked to be performed very loudly:
  > 
 > **Steinway**：施坦威
  > 

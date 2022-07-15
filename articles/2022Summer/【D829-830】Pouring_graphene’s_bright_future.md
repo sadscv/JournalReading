@@ -7,16 +7,18 @@ description: A wonder material that promised much but delivered little may at la
 
 > **rowing team**：赛艇队
  > 
-> **Abu Dhabi:**阿布扎比
+> **Abu Dhabi**: 阿布扎比
  > 
 > **methane**：甲烷；沼气
  > 
 > **landfill**：垃圾填埋
  > 
+> **flare off**: to burn gas and let it go into the atmosphere
+ > 
 
 2.Graphene, which consists of **monolayer**s of carbon atoms bonded in a repeating hexagonal pattern, is the thinnest known material. It was isolated in 2004 at the University of Manchester by Andre Geim and Konstantin Novoselov, who went on to win a Nobel prize for their discovery.
 
-> **monolayer:**单分子层
+> **monolayer**: 单分子层
  > 
 > **hexagonal** :六边形；六方
  > 
@@ -27,32 +29,36 @@ description: A wonder material that promised much but delivered little may at la
  > 
 > **super-conducting**：超导
  > 
+> **Putting carbon to work**
+ > 
 
 4.Yet despite this promise, apart from a few **niche** uses in electronics, water filtration and some specialist sports equipment, graphene remains largely unemployed. Certainly, no killer application of the sort predicted when the stuff was discovered has emerged. But that could be about to change. Concrete is as far from **super-conductivity** on the technological sexiness **spectrum** as it is possible to get. Yet it is an important material and of great concern to those attempting to slow down global warming, because the process of making it inevitably releases carbon dioxide. And graphene may hold the key to reducing that contribution considerably.
 
 > **niche** :专门的
  > 
-> **super-conductivity:**超导现象
+> **super-conductivity**: 超导现象
  > 
 > **spectrum：光谱、范围**
  > 
 
 5.Concrete is made by mixing sand, **gravel**, water and cement. And cement is made by **roasting** **limestone**, a rock composed of calcium carbonate, to drive off carbon dioxide and leave behind calcium oxide. The 5bn tonnes of cement produced each year thus account for some 8% of the world’s **anthropogenic** CO2, and generate abnormally high emissions per dollar of revenue earned compared even with other polluting industries (see chart on next page). Yet if less than 0.1% by weight of graphene is added to the mixture, concrete ends up 30% stronger. And stronger concrete means less of it is needed, with a consequent reduction in CO2.
 
-> **gravel:**砾石；沙砾
+> **gravel**: 砾石；沙砾
  > 
-> **cement :**水泥
+> **cement **: 水泥
  > 
 > **roast**:焙烧；烘烤
  > 
-> **limestone:**石灰岩
+> **limestone**: 石灰岩
  > 
-> **anthropogenic:** 人为的
+> **anthropogenic**:  人为的
  > 
 
 6.That does, indeed, sound like a killer app. There is, though, some way to go. As with most new materials it can take years for commercial production to scale up to the point of mass­market adoption. Petroleum-­based carbon­fibre composites were invented in the 1950s, but it took more than 30 years before they began to be used in significant quantities in aircraft and cars. Graphene is now moving in that direction. According to estimates by idTechEx, a firm of analysts based in Cambridge, the world’s annual production capacity of the material was less than 3,000 tonnes in the first quarter of 2019. By the first quarter of this year, that figure had more than quadrupled, to 12,700 tonnes.
 
 > **scale up** ：增加；扩大；提高
+ > 
+> Petroleum­-based：
  > 
 
 7. Novel production methods, such as Levidian Nanosystems’ and others being developed around the world, are assisting this growth. Besides methane, graphene is being made from an increasing range of materials, including waste and discarded mixed plastics, which otherwise might end up in landfill. This avoids “exfoliating” mined graphite, which at present is the dominant manufacturing process.
@@ -80,6 +86,8 @@ description: A wonder material that promised much but delivered little may at la
  > 
 > **exfoliation**：脱落；剥离
  > 
+> **Out of the mine**
+ > 
 
 10.The various grades of graphene produced by exfoliation are not necessarily green, though. Graphite is not a renewable resource and it has to be mined, which can be environmentally damaging. As an alternative some producers obtain their **feedstock** elsewhere. This can be as organic compounds in **gaseous** form, such as methane, or as liquids like **ethanol**, an alcohol that can be made from plant matter. These are used in **chemical vapour deposition** (cvd), a long established industrial process. cvd relies on a chemical reaction, sometimes in combination with heat and a **catalyst**, to deposit carbon atoms turned into a vapour onto a substrate, such as copper or **nickel**. The **substrate** can then be removed, if desired, and the graphene recovered.
 
@@ -102,7 +110,7 @@ description: A wonder material that promised much but delivered little may at la
 
 > **plasma**：等离子体a gas that contains approximately equal numbers of positive and negative electric charges and is present in the sun and most stars
  > 
-> **chemical bond：**化学键
+> **chemical bond**: 化学键
  > 
 
 12.The idea is that  loop can be used to strip carbon from methane gas flows, such as those found in various industrial processes, water­-treatment plants and **biogas** reactors, as well as oil wells and landfill sites. That gets rid of methane, a potent pollutant, without generating CO2—which would be an inevitable outcome if the methane were, instead, burned. The hydrogen that is made can then be burned as fuel without producing any greenhouse gases and the graphene sold for other applications, such as an **additive** to **toughen anti­corrosion paint**—in exactly the same way that the grey paint used to protect Levidian’s shipping container from the elements has been treated.
@@ -147,6 +155,44 @@ description: A wonder material that promised much but delivered little may at la
 
 > **disintegrate**:解体；分裂
  > 
+> Any substances that are not carbon are vaporised into a gas, which can be collected, cleaned and used in other processes. What remains is a form of graphene called turbostratic. This consists of a number of layers misaligned with one another. That misalignment, however, is a useful feature because it allows the layers to be more easily separated when the stuff is mixed into other materials. With graphene, the fewer the layers the more powerful are the benefits bestowed.
+ > 
+> **Fixing concrete cracks**
+ > 
+> One mixture in which Dr Tour is particularly interested in is concrete, some 30bn tonnes of which are poured every year. The addition of a small amount of graphene to concrete provides an anchor for the cement in it to grab onto, resulting in a more powerful interaction as the concrete cures. This means not only that less concrete is needed to achieve the same level of strength, but also that structures made of it are likely to last longer. Graphene-enhancement would also protect rebar, the steel rods used to reinforce concrete, from moisture. If water creeps into tiny cracks in concrete it can cause rebar to rust and expand, which results in concrete crumbling and sometimes in buildings collapsing.
+ > 
+> In certain cases, indeed, the use of rebar in construction might be avoided altogether, saving costs and the emissions involved in producing the steel from which it is made. Last year, a team from the University of Manchester, working with Nationwide Engineering, a British construction company, used graphene to enhance the concrete floor of a new gymnasium in Amesbury, in southern England, avoiding the need for rebar. This reduced the amount of material that would otherwise be required by nearly a third, resulting in a similar saving in CO2 emissions.
+ > 
+> Another hazard to concrete is chlorine, which is found in seawater and is particularly corrosive. Sixth Element says it has found the addition of just 0.005% of graphene to marine cement enhances its resistance to chlorine by 40%.
+ > 
+> It might even be possible to build without concrete by adding graphene to composite materials made from wood and polymers. This would be particularly green if the graphene involved were produced from waste or recycled materials, including graphene itself. Dr Tour has already successfully flashed composites made with graphene in order to recover the material so that it can be used again. The use of stronger, lighter composites that are easily recyclable might tempt many manufacturers to move away from energy-intensive materials such as steel and aluminium. Ford, for one, has started using graphene to enhance the durability and reduce the weight of some of the composites used in its cars.
+ > 
+> A complicating factor is that not all graphene is technically graphene. Most commercial graphene has more than one layer of atoms. Generally, anything under ten layers is accepted as graphene by most in the industry, although some products have more than that. Graphene also varies in form, from films to powders, to nanoplatelets, to graphene oxides and more. On top of that there are different quality levels, particularly as some of the carbon structures of which it is made contain defects. This does not necessarily mean that high quality, so-called “few layer”, graphene is the most useful. All types have some value, hence pricing is dependent on the application the material is used for. This huge variation in what is labelled graphene results in prices ranging from tens of dollars a kilogram to more than $1,000.
+ > 
+> “We aim to be at the lower end of that spectrum,” says Jon Van Leeuwen, chief executive of Universal Matter, a Canadian company based in Burlington, Ontario, which has licensed the flash process from Rice University. It is building a demonstration plant, which by early next year should be making a tonne of flash graphene a day.
+ > 
+> Greening cement is seen as the biggest market. “We all know it works in cement and concrete,” says Mr Van Leeuwen. “But to go big you need a certain cost point that has been unachievable until now.” Other potential markets include adding small amounts of graphene to the bitumen used to make asphalt roads. This would greatly prolong their life, preventing creeping and rutting in hot weather and cracking during cold spells, which leads to potholes. Graphene can also increase the abrasion-resistance of car tyres, making them last longer.
+ > 
+> **No pixie dust**
+ > 
+> But using graphene is not as simple as “sprinkling a bit of magic pixie dust into your end product,” cautions Adrian Potts, chief executive of Applied Graphene Materials, a British company based in Redcar. The firm makes its own graphene from ethanol using a cvd process, and also buys in the material. Its particular expertise is in what is called “dispersion” technologies, which means putting few-layer graphene into a range of different substances so that it is easier to mix into products.
+ > 
+> On its own, graphene has a tendency to restack itself into graphite, which can diminish its usefulness. The idea, says Dr Potts, is to make “graphene stay as graphene” when it is mixed into things such as anticorrosion treatments, composites and even the car wax used to polish and protect vehicle bodywork.
+ > 
+> There remain, however, some concerns about the health implications of the growing use of engineered nanomaterials such as graphene. Researchers are trying to get a better understanding of how they might enter the body and what the effects of their doing so might be. Hence, adds Dr Potts, it is going to be important for the industry as it scales up for ways to be found that not only allow graphene to be used in bulk applications, but also to be used safely.
+ > 
+> Not everyone is convinced graphene is on the cusp of great success as an environmental fix. Richard Collins, the North American research director of idTechEx, follows the business closely. He agrees that graphene could become an enabling technology for certain decarbonisation processes. “But the feedstock and processes currently used by the main players makes calling it a green material a stretch.”
+ > 
+> Some of the new production methods, such as the flash process, could change that, especially if they can use waste materials such as discarded food as a feedstock, says Dr Collins. But he cautions that these methods are at an early stage and have yet to prove themselves at scale.
+ > 
+> Nevertheless, there is, he adds, precedent to be found with graphene’s older and less glamorous siblings, carbon nanotubes. These are essentially rolled up sheets of graphene and can also be made with cvd. Carbon nanotubes have been in development for a decade or so longer than graphene, with annual production hovering around a few thousand tonnes. But demand is starting to soar, and may reach more than 70,000 tonnes by 2032. The reason? Carbon nanotubes have found their killer app: making cathodes for the lithium-ion batteries used by electric cars (evs). With battery gigafactories springing up all over the world, this has become a booming business.
+ > 
+> Researchers are looking at ways of using graphene itself to enhance the performance of batteries. Graphite is already widely used in battery-making. Graphene could allow ev batteries to be lighter, longer-lasting and faster-charging. If any of that pays off, graphene will have found itself another important market.
+ > 
 > **The big bet**
+ > 
+> Green concrete, though, remains the big bet for graphene—not least because the volumes of material involved are so huge. However, it faces competition in that field. Other ways to reduce concrete emissions are being explored. One promising method is to inject captured CO2 into concrete at the point when the water and cement are being mixed in. This not only locks the gas up as calcium carbonate, but also makes the concrete stronger. Even so, there is nothing to stop anyone adding a bit of graphene as well, if the price is right.
+ > 
+> Many of the other potential uses of graphene besides concrete and batteries could also turn into big markets. Simply making things last longer with anti-corrosion coatings and producing sturdier composite structures would be good for the environment, not least because they will need less maintenance and will not need replacing so often. And when, eventually, these things do reach the ends of their lives, if the graphene can be recovered and used again it would be a welcome boost to building a circular economy. Nothing is certain with new technologies, but the wonder material’s time just might be coming.
  > 
 

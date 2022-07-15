@@ -5,9 +5,9 @@ description: Doctors and therapists are using comic books to spread awareness of
 # D825  Comic relief
 1.The class begins with the following assignment: draw a four-**panel** comic strip about your day. In five minutes the pupils—among them writers, artists, stay-at-home mothers, a graduate student and a cinema manager—produce **lighthearted** yet touching sketches about play dates, tedious chores and a **quizzical** chicken.
 
-> **panel：**方格板块
+> **panel**: 方格板块
  > 
-> **lighthearted：**轻松愉快的
+> **lighthearted**: 轻松愉快的
  > 
 > **quizzical**：诧异的；感到好笑的；古怪的
  > 
@@ -25,27 +25,27 @@ description: Doctors and therapists are using comic books to spread awareness of
  > 
 > **compulsive neurosis**：强迫神经症
  > 
-> **obsessive-compulsive disorder (ocd)：**强迫性神经（官能）症；强迫症
+> **obsessive-compulsive disorder (ocd)**: 强迫性神经（官能）症；强迫症
  > 
-> **Maus：**《鼠族》（德语：Maus）是美国**漫画**家阿特·斯皮格曼的图画小说，于1980至1991 年连载
+> **Maus**: 《鼠族》（德语：Maus）是美国**漫画**家阿特·斯皮格曼的图画小说，于1980至1991 年连载
  > 
 
 4.**Anecdotally**, comics have been used in treatments since the late 1980s. But in recent years they have increasingly caught the attention of doctors, therapists and even government agencies. In 2017 the **nhs** authorities in Manchester, England, funded the publishing of comic-type work books on **panic attack**s and insomnia. America’s agency for defence-technology innovation, **darpa**, has considered comic-design software as an emotional tool for **veteran**s of the war in Afghanistan.
 
 > **Anecdotally**：逸事地；趣闻地
  > 
-> **nhs：**国民医疗服务体系（全写为 National Health Service)
+> **nhs**: 国民医疗服务体系（全写为 National Health Service)
  > 
-> **panic attack:**恐慌症
+> **panic attack**: 恐慌症
  > 
-> **veteran:**老兵；退伍军人
+> **veteran**: 老兵；退伍军人
  > 
 > **darpa**:美国国防部高级研究计划局(Defense Advanced Research Projects Agency)
  > 
 
 5.Katharine Houpt, an art therapist in Chicago, explains that the drawing of comics gives people agency in their stories. The imagery and **malleable** conventions—such as thought bubbles,perspective shifts and the personification of **inanimate** concepts—can help convey thorny ideas and experiences. Getting patients to draw a daily six-panel strip, and other such exercises,can reveal cognitive patterns and potential triggers for distress.
 
-> **malleable:**可锻造的；可轧压的；易成型的；可塑的
+> **malleable**: 可锻造的；可轧压的；易成型的；可塑的
  > 
 > **inanimate**:无生命的
  > 
@@ -54,18 +54,18 @@ description: Doctors and therapists are using comic books to spread awareness of
 
 > **ailment**: 轻病；小恙
  > 
-> **Draughtsmen :**绘图员
+> **Draughtsmen **: 绘图员
  > 
 > **recount**：讲述；描述
  > 
 
 7.Engaging with comic-book characters can also **prod** patients to go easier on themselves. John Pollard, who researched the use of comics in psychotherapy as part of his training as a counsellor in Britain, notes that readers develop empathy with, say, superheroes as they endure and overcome trials. So why, patients can gently be asked, “can’t you experience that same level of compassion for yourself?” In a similar way, “**pathographies**”, usually autobio-graphical accounts of illnesses such as **bipolar** disorder or depression, can **coax** people to be kinder to themselves.
 
-> **prod ：**刺激；激励
+> **prod **: 刺激；激励
  > 
-> **pathography:**病情记录
+> **pathography**: 病情记录
  > 
-> **bipolar:**躁郁症
+> **bipolar**: 躁郁症
  > 
 > **coax**:to persuade sb to do sth劝说
  > 
@@ -77,6 +77,8 @@ description: Doctors and therapists are using comic books to spread awareness of
 > **sequential**：连续的；循序；相继的
  > 
 > **graphic novel**：连环画小说；漫画小说
+ > 
+> **Heal** **thyself**
  > 
 
 10.The roles of comics are multiplying. They can simplify medical information, making **arcane** concepts more accessible to children and people with learning disabilities or language barriers. Examples include helping patients to grasp the notion of informed consent, understand how electronic health records work or negotiate handovers between carers. Government health agencies are harnessing the medium for public education. In 2020 Stark County, Ohio, commissioned Cara Bean, an artist, and the Centre for Cartoon Studies in **Vermont** to produce a comic to introduce pupils to mental health.
@@ -93,9 +95,12 @@ description: Doctors and therapists are using comic books to spread awareness of
 11.Behind this burst of activity is a group of enthusiastic medical professionals and artists. Some have been fans of the medium since childhood; others, such as Ms Czerwiec, stumbled upon it as adults. In 2007 Ian Williams, a Welsh doctor­-turned-artist, made a website to gather those interested in what he called “graphic medicine”. The name stuck.
 
 12.It is still a young field. Mr Williams— who in 2014 published “The Bad Doctor”, a semi-auto-biographical graphic novel about a doctor with OCD—recalls being invited to speak at conferences as **comic relief** rather than a practitioner. But a growing body of evidence attests to the art form’s uses, and new textbooks are **codify**ing its applications. “The idea of graphic medicine is getting into the medical main-stream now in a way which would have been unimaginable ten years ago,” says Michael Green, who teaches the subject at Penn State University and **guest­-edit**s the digital­ comics section of Annals of Internal Medicine, a respected journal.
-**comic relief**：a relief from the emotional tension especially of a drama that is provided by the interposition of a comic episode or element
 
+> **comic relief**：a relief from the emotional tension especially of a drama that is provided by the interposition of a comic episode or element
+ > 
 > **codify**：编纂；整理
+ > 
+> **guest­-edit**: Be invited to choose material for a single issue or broadcast of(a newspaper, magazine, or television program)
  > 
 
 13.Comics are not for everyone, notes Mr Pollard, the researcher, and using them in therapy requires tact and expertise. But he can **vouch** for their potential from  his personal experience. Reading them helped him overcome **dyslexia.** “If I hadn’t had any kind of contact with comics,” he reflects, “I have my doubts that I would have gone to university.

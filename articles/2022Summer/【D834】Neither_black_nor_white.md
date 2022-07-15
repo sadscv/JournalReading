@@ -5,7 +5,7 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
 # D834 Neither black nor white
 1.On may 25th Sue Gray, a senior civil servant, published a report into gatherings that had taken place in Downing Street during the pandemic. Nine photos are included, depicting two events: a drinks party in November 2020 (shown above) for a departing official, and a gathering in the Cabinet Room in June 2020 to mark the prime minister’s birthday. In parts the images are **pin­sharp**, capturing tins of **lager**, emptied wine glasses and Boris Johnson holding a plastic beaker **aloft**. Much of them are a blur, the identities of Mr Johnson’s fellow partygoers obscured.
 
-> **patchy：**不完整的；参差不齐的
+> **patchy**: 不完整的；参差不齐的
  > 
 > **aloft**：在空中，在高处
  > 
@@ -18,11 +18,11 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
 
 > **blend**：混和；调和
  > 
-> **precision：**精确；准确
+> **precision**: 精确；准确
  > 
-> **pixellation：**像素化；点素化
+> **pixellation**: 像素化；点素化
  > 
-> **Briton：**英国人
+> **Briton**: 英国人
  > 
 > **propriety**：礼节
  > 
@@ -54,7 +54,7 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
  > 
 > **incurious**：不感兴趣的；不好奇的；漫不经心的
  > 
-> **perpetrator：**作恶者；行凶者；犯罪者
+> **perpetrator**: 作恶者；行凶者；犯罪者
  > 
 
 5.One bash on June 18th, fuelled by pizza and **prosecco**, spilled through the Downing Street complex from 6.30pm until the last **attendee** left at 3.13am. Helen MacNamara, then the deputy cabinet secretary, produced a karaoke machine. One attendee drank until they vomited. Two others fell into a “minor altercation”.  At another “crowded and noisy” **bash**, a **panic alarm** was triggered, prompting the police to arrive. Ms Gray found “multiple examples of a lack of respect and poor treatment of security and cleaning staff”. The scandal exposed those involved not to be particularly wicked, but **callow**, **self­absorbed**, almost bored by high office.
@@ -67,29 +67,29 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
  > 
 > **bash**:**n.**重击；盛大的聚会；盛典; **v.**猛击；严厉批评
  > 
-> **panic alarm:**应急报警；恐慌报警
+> **panic alarm**: 应急报警；恐慌报警
  > 
 > **callow**:幼稚无经验的；未谙世事的
  > 
-> **self­absorbed:**自私的;自以为是的
+> **self­absorbed**: 自私的;自以为是的
  > 
 
 6.Elsewhere, Ms Gray’s gaze is much less piercing. She decided to identify by name only the most senior officials. There are curiously few references to the role of Dominic Cummings, Mr Johnson’s **anarchic** chief **aide** for much of the period, who once declared that successful political operations are characterised by “hot women and beer and pizza and music in the office on Friday and Saturday night”. Ms Gray declined to investigate a gathering in Mr Johnson’s private flat on the night Mr Cummings resigned, in which celebrating special advisers were said to have **blared** abba songs. Some events Ms Gray found out about only through the **press**; she acknowledges she may have missed more.
 
-> **anarchic:**无政府主义的；无政府状态
+> **anarchic**: 无政府主义的；无政府状态
  > 
-> **aide:**（尤指从政者的）助手
+> **aide**: （尤指从政者的）助手
  > 
-> **blare:**吼叫；(喇叭等的)响声
+> **blare**: 吼叫；(喇叭等的)响声
  > 
 > **press**：媒体，新闻界
  > 
 
 7.Her conclusions are also rather **coy**: the closest she comes to censuring Mr Johnson or Simon Case, the cabinet secretary, is to declare that the “senior leadership at the centre, both political and official, must bear responsibility for this culture”. She declares that progress has been made on **overhauling** Downing Street’s management, and hopes junior officials “have taken the learning from this experience”.It is a report that manages to satisfy two constituencies: a public that wants lurid detail and officials who hope to avoid the blame.
 
-> **coy:**含糊其词的;忸怩的；怕羞的
+> **coy**: 含糊其词的;忸怩的；怕羞的
  > 
-> **overhaul:**翻新，修检
+> **overhaul**: 翻新，修检
  > 
 > **constituency**：选区的选民；利益群体
  > 
@@ -106,7 +106,7 @@ description: Sue Gray gives a strikingly patchy account of the Downing Street pa
  > 
 > **drop in on**：顺便拜访
  > 
-> **morale：**士气
+> **morale**: 士气
  > 
 > **bacchanalia**:大酒宴；狂闹乱饮；狂饮的闹宴
  > 
@@ -120,7 +120,7 @@ shoulder the errors of their **unelected** staff, whether they knew of them or n
  > 
 > **unelected**：未经选举的，not having been chosen by people in an election
  > 
-> **discard：**放弃；解雇
+> **discard**: 放弃；解雇
  > 
 
 10.Mr Johnson seems yet again to have **dodged** the immediate threat. If 54 members of the parliamentary Conservative Party declare a lack of confidence in him, a leadership **ballot** will be triggered. In the House of Commons, many Tory  mps declared themselves satisfied with Mr Johnson’s apology. Libertarian types are **thrilled** that the affair makes it harder for a future government to introduce a lockdown.

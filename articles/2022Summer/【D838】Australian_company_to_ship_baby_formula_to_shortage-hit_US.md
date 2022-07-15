@@ -7,7 +7,7 @@ description: （from The Guardian）
 The US Food and Drug Administration said some of it was now in stock for transport and more would be produced by Bubs Australia in the coming weeks and months.
 It’s the latest measure the US is taking to address the shortage that has left many parents struggling to feed their babies after **Abbott** Laboratories, the largest producer in the country, issued a nationwide recall.
 
-> **Abbott：**雅培
+> **Abbott**: 雅培
  > 
 
 2.President Joe Biden tweeted the “good news” at the weekend, saying the equivalent of 27.5m bottles of infant formula were on the way.
@@ -55,7 +55,15 @@ The shortage is partly due to Abbott Laboratories’ manufacturing plant in Mich
 7.The US Department of Health and Human Services has also allowed the global farm commodities trader Cargill Inc to provide raw materials needed to maximise the production of infant formula by invoking the **Defence Production Act**.
 Cargill supplies dozens of products to infant formula makers and the move will allow the manufacturers to produce at full capacity to address the “urgent marketplace shortages”, the department said.
 
-> **Defence Production Act：**国防生产法
+> **Defence Production Act**: 国防生产法
+ > 
+> (bloomberg:) Why is there a shortage?
+ > 
+> Long-term economic pressures collided with a sudden supply shock. The long-term issues stem from the pandemic, which disrupted supply chains and shipping of myriad products—including ingredients used in baby formula—and caused labor shortages that are vexing many industries. The supply shock ramped up in February, when Abbott Laboratories initiated a recall of powdered infant formula produced at its Sturgis, Michigan, facility, after receiving reports of bacteria infection in several babies.
+ > 
+> **What caused the crisis?**
+ > 
+> In February, Abbott Laboratories, maker of popular baby formulas, closed a manufacturing facility in Sturgis, Michigan, after it recalled infant formula products when a federal investigation started after four babies taking the formula developed bacterial infections, two of whom died. Abbott has said there is no link between its formula and the illnesses.
  > 
 
 

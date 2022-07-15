@@ -18,14 +18,14 @@ description: Macron nods to the left, sort of
  > 
 > **technocrat**：技术官僚an expert in science, engineering, etc. who has a lot of power in politics and/or industry
  > 
-> **pension age：**退休金年龄
+> **pension age**: 退休金年龄
  > 
 
 3.Mr Macron has put her in the job in part because Ms Borne has shown that she can be an efficient negotiator. In a previous post as his transport minister, and as a former head of the Paris metro, she brought in a reform of the **sncf** national railways that included opening passenger transport to competition and ending special protected contracts for newly recruited railway workers. She may not have left the unions with warm, **fuzzy feelings**, but she got the reform through. Employment will also be near the top of her **in­tray**. Serving as Mr Macron’s labour minister, Ms Borne expanded **apprenticeship**s and reformed the rules for unemployment benefits. Having already brought joblessness down from 9.2% to 7.1%, Mr Macron has promised to bring about full employment by the end of his second term.
 
 > **sncf** ：the national railroad system in France法国国营铁路公司
  > 
-> **fuzzy：**覆有绒毛的；毛茸茸的;模糊的
+> **fuzzy**: 覆有绒毛的；毛茸茸的;模糊的
  > 
 > **in­tray**：收文篮；放置办公室新收到的文件的文件盘
  > 
@@ -36,7 +36,7 @@ description: Macron nods to the left, sort of
 
 > **Insofar**：到如此程度；在…的范围
  > 
-> **hail from:**来自
+> **hail from**: 来自
  > 
 > **moribund**：濒于崩溃的；垂死的
  > 

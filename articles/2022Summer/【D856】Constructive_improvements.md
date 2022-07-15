@@ -9,7 +9,7 @@ description: The property industry has a huge carbon footprint. Here’s how to 
 
 3.The pandemic has thrown another spanner in the works. Doubts over the level of future demand for oﬃce blocks have reduced landlords’ incentives to undertake green refurbishments, and demand for larger homes to accommodate remote working will **crank up** residential energy use.
 
-> **crank up：**启动
+> **crank up**: 启动
  > 
 
 4.What can be done? The problem can be divided into three parts. The ﬁrst goal is to incentivise owners to make existing properties more energy­-eﬃcient. In the long run, as electricity generation shifts towards renewables, the emissions arising from air­conditioning and day­to­day power use will fall. But retroﬁtting oﬃces and homes with insulation, cleverer control systems and heat pumps rather than fossil­fuel boilers can have an immediate impact. In big cities, building codes and city­wide net carbon targets can prod commercial landlords to upgrade buildings (see Finance & economics section).

@@ -5,11 +5,11 @@ description: A new law allows the cultivation and sale of gene-edited crops. Goo
 # D835 Tweak and ye shall find
 1.The tomatoes look like any other. But unlike those which sit on supermarket shelves, they are a source of vitamin d. That is owing to the clever work of scientists at the John Innes Centre in Norwich, who have used gene­editing techniques to boost the tomatoes’ nutritional value. By making small deletions in the plant’s genome they blocked the production of a certain **enzyme**, prompting the plants to accumulate **provitamin** d3. This in turn is converted to vitamin d on exposure to ultraviolet light, such as that found in sunlight. A single upgraded tomato could provide around 20% of the recommended daily intake of the vitamin.
 
-> **enzyme：**酶
+> **enzyme**: 酶
  > 
-> **provitamin：**维生素原
+> **provitamin**: 维生素原
  > 
-> **Norwich：**诺里奇(英格兰东部Norfolk郡之首府)
+> **Norwich**: 诺里奇(英格兰东部Norfolk郡之首府)
  > 
 
 2.This fruit was produced in a laboratory; no British farmer could grow it today. A **European Court of Justice** (ecj) ruling in 2018 made it all but impossible to grow gene­-edited crops commercially across Europe, including in Britain. Even running research trials became **burdensome**. The ruling thereby treated gene­editing, which works by tweaking dna that is already there, in the same way as early **genetic modification** (gm)techniques, which work by adding external dna, often from different species, to a crop.
@@ -30,6 +30,8 @@ description: A new law allows the cultivation and sale of gene-edited crops. Goo
 > **flimsy**：劣质的；不结实的；不足信的
  > 
 > **irradiate**：辐照;使生辉/焕发
+ > 
+> **beholden to** : owing a favor or gift to (someone) having obligations to (someone)
  > 
 > **cross-­pollinating**：异花授粉
  > 

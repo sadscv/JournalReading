@@ -5,13 +5,15 @@ description: Why did a local official, at the turn of the twentieth century, mai
 # D790 The Dark Purpose Behind a Town Constable’s Journal
 1 The town of **Downieville**, California, situated at a fork of the Yuba River, about seventy-five miles northeast of Sacramento, began as one of the **gold rush**’s earliest mining camps. It quickly became a hub for miners in the region—a place where they could **restock** their **provisions** and find amusement away from the diggings. Gambling saloons, restaurants, hotels, and even a small theatre all occupied a single street, wedged between a steep mountain slope and the river. Like many parts of California during the latter half of the nineteenth century, the Downieville area became home to a population of Chinese immigrants. As the number of Chinese people on the Pacific coast increased, so did white Americans’ loathing for the “**heathen race.**” The Chinese Exclusion Act, passed in 1882, banned the immigration of Chinese laborers, and dozens of communities across the western United States expelled their Chinese residents. Yet Downieville’s Chinese quarter persisted, in spite of the turbulence. In August, while researching a book I am writing about Chinese exclusion, I visited the California Historical Society in San Francisco and encountered for the first time a small red ledger, dating back to the turn of the twentieth century, that recorded the names and faces of Downieville’s Chinese residents. Accounts of the lives of Chinese people who experienced the cruelties of this era are rare, so I was immediately drawn to the volume, but I also found myself stricken as I began paging through it.
 
-> **Downieville：**唐涅维尔
+> **Downieville**: 唐涅维尔
  > 
 > **gold rush**：淘金热
  > 
-> **provision：**供应品
+> **provision**: 供应品
  > 
-> **heathen：**异教徒；未开化的人；不文明的人
+> **heathen**: 异教徒；未开化的人；不文明的人
+ > 
+> **stricken** ：seriously affected by an unpleasant feeling
  > 
 
 2 The ledger, which measures roughly eight inches long and five inches wide, belonged to John T. Mason, a **constable** in Downieville. The date on the first page is April 8, 1890, though some of the ledger’s notations seem to have been recorded earlier. **Ephemera** consume the first few pages: instructions for treating varicose veins, notes about a letter sent to a detective bureau in Cincinnati, a mailing address in Seattle for “Mrs. H. Libby,” a list of legal **summonses** served between 1889 and 1890. But the book’s real purpose starts to reveal itself on page 4, with a lengthy index of names and a note at the top that reads, “Chinese Photographed by DD Beatty at Downieville Feb 20th, 1894.” What follows is a collection of a hundred and seventy-six photographs of Chinese residents of Downieville and the surrounding area, pasted two to a page, accompanied by **notation**s for each subject’s name, age, height, occupation, place of residence, and select physical characteristics: “little finger of right hand crooked,” “**mole** under right ear,” “**pockmark**ed.”
@@ -108,7 +110,7 @@ description: Why did a local official, at the turn of the twentieth century, mai
 
 10 An alliance of Chinese mutual-aid associations, known as the Six Companies, pledged to resist the registration requirement, calling it “an insult that has not been **inflict**ed upon the subjects of any other nation.” The groups took their fight all the way to the Supreme Court—and lost. The Mountain Messenger cheered the Court’s decision and provided readers with regular updates on the requirements being imposed on the Chinese. “They must **furnish** with their registration papers two unmounted photographs of the face of the applicant, an inch and a half from the base of the hair to the point of the chin,” an article on January 6, 1894, said. “These photographs must be paid for by these **heathens**.”
 
-> **inflict:**造成；施以；加害
+> **inflict**: 造成；施以；加害
  > 
 > **unmounted**:未装框的；未挂载
  > 
@@ -132,7 +134,7 @@ description: Why did a local official, at the turn of the twentieth century, mai
  > 
 > :**Xenophobia**仇外
  > 
-> **take liberties:**过于随便；自作主张
+> **take liberties**: 过于随便；自作主张
  > 
 
 13 Still, there is something undeniably moving about the **assemblage** of images and annotations. The people whom history has confined to the margins are often hidden from our view. By 1890, more than a hundred thousand Chinese were living in the United States, but newspaper articles, letters, diaries, and other historical archives from the nineteenth century are almost entirely devoid of Chinese voices. This is a recurring issue with the source material of American history: power and social status tend to determine whose narratives persist. In this way, the ledger—a record of the oppressed, authored by the powerful—is both magnetic and frustrating. As I have returned to it, I have found myself lingering over individual photographs. I have wondered about each person’s journey to America, their aspirations in this hostile land, the suffering they endured, and what ultimately became of them. From this document we have learned their names, but their stories are still untold.

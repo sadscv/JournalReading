@@ -21,13 +21,13 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
  > 
 > **crippling**:断裂；造成严重后果的
  > 
-> **ration:**（给战士或食品短缺地区的人提供的）定量口粮
+> **ration**: （给战士或食品短缺地区的人提供的）定量口粮
  > 
 > **artillery**:火炮；炮兵部队
  > 
 > **infantry**:步兵团；步兵部队
  > 
-> **Fall back on:**依靠于;退守；投靠
+> **Fall back on**: 依靠于;退守；投靠
  > 
 
 5.Ukraine’s highly motivated forces are a **rebuke** to these Russian failings. Despite being less numerous and less well armed, they resisted the invading army by passing decision ­making to small, adaptable local units given up ­to­ the ­minute intelligence. Even if the Russian campaign, now under a single commander, makes gains in Donbas, it will do so chiefly thanks to its sheer mass. Its claim to be a sophisticated modern force is as convincing as a **tank turret** rusting in a Ukrainian field.
@@ -59,7 +59,7 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 
 8.To fill the gap between its power and aspirations—and to resist what he sees as America’s **encroachment**—Mr Putin has repeatedly turned to the only sphere where Russia can still purport to be world­class: military force. In the past 14 years he has invaded Georgia and Ukraine (twice) and fought in Syria. His **mercenaries** have deployed to Libya, the Central African Republic, Sudan and now Ukraine. Mr Putin is a global bully obsessed with his country’s inadequacies. Contrast that with China, which also has ambitions, but has so far been able to get results using its growing economic and diplomatic heft.
 
-> **encroachment：**侵害；侵略
+> **encroachment**: 侵害；侵略
  > 
 > **mercenary**：雇佣兵
  > 
@@ -75,7 +75,7 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 
 11.Ukraine also shows that in future wars if Russian forces cannot prevail on the battlefield, they will resort to **atrocities**. A weaker Russian army could be an even more brutal one. For those around the world facing Russian aggression, that is a terrible prospect.
 
-> **atrocity:**暴行；凶恶；暴虐
+> **atrocity**: 暴行；凶恶；暴虐
  > 
 
 12.Ultimately, weakness may lead Russia to the last arena where it is still **indisputably** a superpower: chemical, biological and nuclear weapons. From the start of this war, Mr Putin and his government have repeatedly **brandish**ed the threat of weapons of mass destruction. Mr Putin is rational, in that he wants his regime to survive, so the chances of their use probably remain slim. But as Russia’s armed forces run out of conventional options, the temptation to **escalate** will surely grow.
@@ -97,5 +97,7 @@ description: Vladimir Putin uses warfare to make up for Russia’s weaknesses. T
 14.Yet, even if Mr Putin is defeated, he will remain dangerous. The message for nato is that it needs to update its **tripwire** defence. This rests on the idea that a Russian attempt to take a bite out of, say, the Baltic states may succeed at first, but would trigger a wider war which nato would eventually win. That defence involves the risk of miscalculation and escalation, which are more fraught than ever if Russia’s conventional forces are weak. Better to have a large forward force that Russia would find hard to defeat from the very start. The best way to be safe from Mr Putin and his rotten army is to deter him from fighting at all.
 
 > **tripwire** ：绊索/网
+ > 
+> A **tripwire force** (sometimes called a **glass plate**) is a strategic approach in deterrence theory. The tripwire force is a military force smaller than that of a potential adversary, which is designed to signal the defending side's commitment to an armed response to future aggression without triggering a security spiral.
  > 
 

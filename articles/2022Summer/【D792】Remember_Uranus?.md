@@ -22,7 +22,7 @@ Because this is a big day for Uranus. Once every decade, NASA asks the National 
  > 
 > **orb**：球体；（尤指）日
  > 
-> **imagery：**画像；照片
+> **imagery**: 画像；照片
  > 
 
 5 The Uranus mission—if NASA decides to take the space-science community’s suggestion—would mean putting a spacecraft in orbit around the planet, and even dropping a probe into its atmosphere. With Voyager, “it’s almost like if you drove by a person and had a few seconds to look at them,” Jonathan Fortney, an astronomer at UC Santa Cruz, told me. “Do you feel like you’d have a good understanding of who they were?” A spacecraft in residence, by contrast, is akin to “spending years talking to them and getting to know their **idiosyncrasies**,” he said.

@@ -7,6 +7,8 @@ description: Radio data, satellites and a high-tech game of cat and mouse
 
 > **sly**：狡猾的
  > 
+> Despite the sanctions imposed by America and Europe, most of Russia’s energy shipments have remained legal. Outrage over its war on Ukraine, however, has left many firms keen to avoid the reputational risks of dealing with entities or goods of Russian origin. Beyond that, as the pandemic and war have tightened commodity markets, the value of detailed data on shipments has risen. As Reid I’Anson of the Houston office of Kpler, a firm of commodities analysts, notes, even traders who won’t buy **illicit** oil can make better decisions if they can gauge how much sanctioned countries such as Iran are managing to smuggle out.
+ > 
 > **illicit** ：非法的；违法的
  > 
 
@@ -62,6 +64,8 @@ But **ais** has its shortcomings. Satellites struggle to distinguish signals fro
 
 > **herald**：预示；是（某事）的前兆；宣称
  > 
+> **Eyes in the sky**
+ > 
 
 6 But there are other ways to **keep tabs on** ships. These include satellites with cameras and **synthetic-aperture** radar, which sees objects at night and through clouds. A more recently developed approach uses satellites in low orbits to **hoover up** signals from shipborne radars. These are used for navigation and to avoid collisions, so mariners are disinclined to switch them off. Fancy software for signal processing **geolocate**s the signals’ sources, at times within just several hundred metres.
 A handful of firms track ships in this way. Their clients include coast guards, navies and America’s National **Geospatial**-Intelligence Agency. This autumn a British firm, Horizon Technologies, aims to begin providing radio-frequency intelligence to Britain’s Royal Navy and governments in Greece, Italy and Singapore. It will also **compile**, in partnership with the International Maritime Organisation, a library of **radar-pulse** “fingerprints” of ships worldwide, made possible by **minute** idiosyncrasies in **componentry** in radar units of even the same make and model.
@@ -70,7 +74,7 @@ A handful of firms track ships in this way. Their clients include coast guards, 
  > 
 > **hoover** ：用真空吸尘器清扫（地毯、地板等）
  > 
-> **hoover up：**获得大量的
+> **hoover up**: 获得大量的
  > 
 > **geolocate**：物理定位
  > 
@@ -123,7 +127,7 @@ For technologists and technocrats, all this is heady stuff. But not all recent d
  > 
 > **leeway**：自由活动的空间；余地
  > 
-> **shut off ：**阻断；使隔开
+> **shut off **: 阻断；使隔开
  > 
 > **high sea**：公海；大浪
  > 

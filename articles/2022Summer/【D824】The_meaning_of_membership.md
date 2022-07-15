@@ -16,7 +16,7 @@ description: It shows the flimsiness of Vladimir Putin’s justification for inv
 
 2.Finland and Sweden submitted their applications on May 18th. Despite Turkey’s **stalling** tactics, over **Kurdish** militants and possibly American fighter planes, their admission is likely. They will bring formidable capabilities in **Arctic** warfare and, in Finland’s case, the largest **artillery** force in Europe. Membership will more than double the length of nato’s border with Russia. It will also make the Baltic states easier to defend.
 
-> **stall:**拖延；停止
+> **stall**: 拖延；停止
  > 
 > **Kurdish**：库尔德人的
  > 

@@ -23,11 +23,13 @@ description: The conflict shaped the economy as well as vice versa
 
 > **bare-bones**：降到最低限度的、最基本的
  > 
-> **defer to:**尊重；听从
+> **defer to**: 尊重；听从
  > 
-> **antebellum:**战前岁月的；（尤指）美国内战前的
+> **antebellum**: 战前岁月的；（尤指）美国内战前的
  > 
 > 开端 **outset vs onset**
+ > 
+> **Onset** is used for describing the indication of an unpleasant action, whereas the Outset usually used for describing the initiation of an event or referred to as initial stages of something.
  > 
 
 4 Chief responsibility for addressing these problems fell to Salmon Chase (pictured), a **prickly** figure and **aspirant** to the presidency who served as Lincoln’s Treasury secretary. At first neither North nor South expected a long war, and Chase’s initial financial requests were a mere **drop in the bucket** of money that would be needed to **subdue** the rebellion. After he secured a loan of $50m from a bank **syndicate** (around $1.5bn today), a banker said he hoped the sum would be sufficient to win the war. The government would ultimately spend some 60 times that amount. Both sides sought to borrow from Europeans, with minimal success. This newspaper declared it “utterly **out of the question**” that the Americans could obtain “anything like the **extravagant** sums they are asking”.
@@ -41,6 +43,8 @@ description: The conflict shaped the economy as well as vice versa
 > **subdue**:制服
  > 
 > **syndicate** :财团；企业联合组织；私人联合会
+ > 
+> **Out of the question:**  to be an event that cannot possibly happen:
  > 
 > **extravagant** :奢侈的；挥霍的；铺张浪费的
  > 

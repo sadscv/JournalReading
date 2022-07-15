@@ -6,11 +6,11 @@ description: Astronomers have captured the Milky Way’s supermassive, mysteriou
 1 We live in the inner **rim** of one of the Milky Way’s **spiral arm**s, a shimmery curve against inky darkness. Travel for thousands of light-years in one direction, past countless stars, countless planets, and countless moons, and you’d reach the outer edge of the Milky Way, where the last bits of our galaxy give way to the sprawling stillness of the **intergalactic medium**. Travel about the same distance in the other direction, past still more stars and planets and moons, through glittering clouds of dust, and you’ll end up in the heart of the galaxy, at one of the most mysterious landmarks in the universe.
 For the first time in human history, you don’t have to imagine it. Using telescopes powerful enough to stretch our perception across **unfathomable** distances, astronomers have made a cosmic postcard: the first-ever picture of the supermassive black hole at the center of the Milky Way.
 
-> **rim：**边缘
+> **rim**: 边缘
  > 
 > **spiral arm**：漩涡状旋臂
  > 
-> **stillness：**静止；宁静
+> **stillness**: 静止；宁静
  > 
 > **intergalactic medium**：星系际介质
  > 
@@ -21,17 +21,17 @@ For the first time in human history, you don’t have to imagine it. Using teles
 
 > **Behold**：看到
  > 
-> **celestial：**天空的；天体的
+> **celestial**: 天空的；天体的
  > 
 > **radio telescope**：射电望远镜
  > 
-> **Event Horizon Telescope：**事件视界望远镜
+> **Event Horizon Telescope**: 事件视界望远镜
  > 
-> **fanfare：**号角花彩；热闹地介绍[宣布]
+> **fanfare**: 号角花彩；热闹地介绍[宣布]
  > 
 > **void** ：空白；空间；真空
  > 
-> **fabric ：**结构；构造
+> **fabric **: 结构；构造
  > 
 
 3 "I don’t think I ever had an emotional attachment to M87,” Feryal Özel, an astrophysicist at the University of Arizona who works on the Event Horizon Telescope, told me. Özel has spent most of her career studying Sagittarius A*, trying to understand its distinct nature and quirks. This one, she said, “I feel like I know.”
@@ -41,13 +41,13 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
  > 
 > **swirl**：旋涡；涡流；旋转
  > 
-> **Sagittarius：**人马座
+> **Sagittarius**: 人马座
  > 
 > **silhouette**：剪影；形状；轮廓
  > 
 > **uncanny** ：神秘的；不可思议的；离奇的
  > 
-> **danishe：**果酱面包
+> **danishe**: 果酱面包
  > 
 
 4 Astronomers made the observations that produced this image in the spring of 2017. Eight ground-based telescopes—two each in Hawaii and Chile, and one each in Arizona, Mexico, Spain, and **Antarctica**—scanned the skies in **tandem** for several days. The observations, stored on hundreds of computer disk drives, were then shipped to labs in the United States and Germany, where scientists pored over the data like **archaeologists** at a dig site, brushing away the noise to excavate the signal of a supermassive black hole. They had followed a similar process to reveal M87’s black hole, which was observed during the same run in 2017.
@@ -56,7 +56,7 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
  > 
 > **archaeologist**：考古学家
  > 
-> **tandem：** 串联；(两匹马)前后纵列 If one thing happens or is done **in tandem** **with** another thing, the two things happen at the same time
+> **tandem**:  串联；(两匹马)前后纵列 If one thing happens or is done **in tandem** **with** another thing, the two things happen at the same time
  > 
 
 5 But drawing out Sagittarius A* was far more difficult. The supermassive black hole in M87 is 1,500 times more massive than Sagittarius A, which means that the cosmic material around it orbits rather slowly, flickering on the timescale of days. The stuff around the smaller Sagittarius A moves faster, changing within hours or even minutes, which makes the environment more challenging to capture, Özel told me. On top of that, although Sagittarius A* is only 27,000 light-years from Earth—and “only” is quite appropriate when you consider that the black hole in M87 is 55 million light-years from Earth—our supermassive black hole is harder to see. “We’re looking through everything that is between us and the center of the galaxy, whereas for M87, we’re looking out and away from the Milky Way,” Özel said. All the cosmic stuff between us and the galactic center can cause the light coming from the galactic center to appear distorted in the data. “We had to really understand this effect and subtract it from our images correctly,” Özel said.
@@ -65,7 +65,7 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
 
 > **Extraterrestrial** 地球外的；外星球的；宇宙的
  > 
-> **Extraterrestrial Physics：**宇宙物理学
+> **Extraterrestrial Physics**: 宇宙物理学
  > 
 > **UCLA**：加州大学洛杉矶分校
  > 
@@ -74,31 +74,33 @@ And still, we are not truly seeing **Sagittarius** A, not really. Astronomers ca
 
 > **ignite**： 点火；燃烧
  > 
-> **pocket：**（与周围不同的）小组织，小区域a small group or area that is different from its surroundings
+> **pocket**: （与周围不同的）小组织，小区域a small group or area that is different from its surroundings
  > 
 
 8 Quiet does not mean boring. Although Einstein’s theories led to the discovery of black holes, scientists still don’t know whether the rules of gravity as we understand them apply in such extreme, unknowable conditions. The 2019 result showed that the shadow of an **event horizon** is, as predicted, **spherical**. But “our best theories still are falling short,” Ghez told me. Astronomers still don’t know what **transpires** in the interior of a black hole, beyond that point of no return.“Black holes represent that fundamental breakdown in our understanding of how gravity works,” she said.
 
 > **transpire**：发生；泄露；蒸发
  > 
-> **spherical：**球形的；球状的
+> **spherical**: 球形的；球状的
+ > 
+> **event horizon** ：a theoretical boundary around a black hole beyond which no light or other radiation can escape.
  > 
 
 9 Even in this very strange part of our cosmic neighborhood, some evidence suggests, stars could host planets, worlds shaped by the distinct chaos of their environment. “We do see **binary star** systems at the galactic center, which means two stars are able to stay bound together, despite the strong **tidal** forces of the black hole and the chaotic environment,” Jessica Lu, an astrophysicist at UC Berkeley who studies star formation in the galactic center, told me. “So perhaps planets can form and survive as well.” At the galactic center, the few, empty light-years separating our sun from its nearest **stellar** neighbor would be brimming with stars. And in a night sky at the center of the Milky Way, those stars would appear as bright as full moons. “We could visit them in reasonable amounts of time, and our star might be in danger of being hit by another star,” Do said. “We’d probably all be astronomers, because we’d care way more about what’s happening in the sky.”
 
-> **binary：**双体
+> **binary**: 双体
  > 
-> **binary star：**双子星
+> **binary star**: 双子星
  > 
 > **tidal** ：潮汐的；有潮的
  > 
-> **stellar：**星的；恒星的
+> **stellar**: 星的；恒星的
  > 
 
 10 For Ghez, the new picture of Sagittarius A* is an important contribution to astrophysics. That’s her answer when she’s thinking like a scientist. When she takes a moment to consider the work in another, more sentimental way, she appreciates “the fact that we as humans, that are so **finite** and small, can have this understanding of things that are so immense.” And not only that, but to feel some kind of **kinship** with it. “I love to talk about our galaxy, as opposed to the Milky Way,” she said. “It’s our home.”
 
 > **finite**:有限的
  > 
-> **kinship:**亲属关系；（因出身或态度相似而产生的）亲切感
+> **kinship**: 亲属关系；（因出身或态度相似而产生的）亲切感
  > 
 

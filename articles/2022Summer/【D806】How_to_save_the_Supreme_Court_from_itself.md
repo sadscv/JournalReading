@@ -14,7 +14,7 @@ description: To avoid breaking a precious institution, the nine justices need to
  > 
 > **incest**：乱伦、近亲通婚
  > 
-> **better-off：**经济情况较好的：
+> **better-off**: 经济情况较好的：
  > 
 
 3 Perhaps the judges will change their mind or **temper** their arguments before the final opinion is issued. Even so, with a 6-3 conservative majority, not the 5-4 **split** that has held for the past half-century, the court **is poised to** reopen some of the most **contentious** questions in American public life. In this, it risks damaging itself and accelerating the division of the country into two mutually hostile blocs.
@@ -24,27 +24,27 @@ The **outsize** power wielded by the court in 2022 derives from a political syst
  > 
 > **temper**：调和
  > 
-> **split:**分歧；分裂
+> **split**: 分歧；分裂
  > 
 > **be poised to**：信誓旦旦；准备就绪；随时准备着
  > 
-> **filibuster:** 阻挠议事；冗长发言
+> **filibuster**:  阻挠议事；冗长发言
  > 
-> **fundraise:**募捐/款
+> **fundraise**: 募捐/款
  > 
 > **outsize**：特大的
  > 
 
 4 By their **dereliction**, legislators dump big decisions on the justices. As a result Supreme Court confirmations have become trials of strength where the Senate majority holds sway. Donald Trump, who ran on a promise to pick judges explicitly to overturn Roe, further dissolved the idea of judicial independence. All this **politicking** heaps intolerable pressure on the court.
-Conservative Americans, who may not have liked Mr Trump but admire his judges, may **retort:** so what? Liberals, they argue, broke the court in the 1950s and 1960s, pursuing a programme they could not get past Congress. Roe was **shoddily** argued and a correction is long overdue. Even if most Americans favour a compromise between a libertarian view and the belief that life begins at conception, judges are supposed to rule on the law, they say, not bend to public opinion.
+Conservative Americans, who may not have liked Mr Trump but admire his judges, may **retort**:  so what? Liberals, they argue, broke the court in the 1950s and 1960s, pursuing a programme they could not get past Congress. Roe was **shoddily** argued and a correction is long overdue. Even if most Americans favour a compromise between a libertarian view and the belief that life begins at conception, judges are supposed to rule on the law, they say, not bend to public opinion.
 
 > **dereliction:** 玩忽职守；抛弃物；遗弃
  > 
-> **hold sway:**占统治地位/占先
+> **hold sway**: 占统治地位/占先
  > 
-> **politicking:**政治活动（尤指竞选和拉选票的活动）
+> **politicking**: 政治活动（尤指竞选和拉选票的活动）
  > 
-> **retort:**反驳 [书面]
+> **retort**: 反驳 [书面]
  > 
 > **shoddily** :质量很差地；粗制滥造地
  > 
@@ -77,6 +77,6 @@ Conservative Americans, who may not have liked Mr Trump but admire his judges, m
 
 > **bolster**：加强；改善
  > 
-> **angle：**钓鱼；斜移；以（某角度）报道
+> **angle**: 钓鱼；斜移；以（某角度）报道
  > 
 

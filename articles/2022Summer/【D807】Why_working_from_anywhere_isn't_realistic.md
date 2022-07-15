@@ -15,7 +15,9 @@ description: The globe-trotting lifestyle will be open only to a lucky few
  > 
 > **nomad**：牧民；流浪汉
  > 
-> **digital nomad：**数字游民
+> **digital nomad**: 数字游民
+ > 
+> **untether**：to free from or as if from a tether
  > 
 
 4.The work-from-anywhere world edged a little closer on April 28th, when Brian Chesky, Airbnb’s boss, outlined new policies for employees of the property-renting platform. As well as being able to move wherever they want in their country of employment without any cost-of-living adjustment, Airbnb staff can also spend up to 90 days each year living and working abroad. Mr Chesky has been living out of Airbnb properties himself for the past few months, and thinks this is the future.
@@ -34,16 +36,20 @@ Another set of obstacles is more personal. The **carefree** promise of working f
  > 
 > **modem**：猫；数据机
  > 
-> **carefree:**无忧无虑的；无责任的
+> **carefree**: 无忧无虑的；无责任的
  > 
 
 7.The option to work from anywhere will be most attractive to people who have well-paid jobs and fewer obligations: childless tech workers, say. For many other people, the “anywhere” in working from anywhere will still **boil down** to a simple choice between their home and their office. That might be a recipe for **resentment** within teams. Imagine dialling into a Zoom call covered in baby drool, and hearing Greg from product **wax lyrical** about how amazing **Chamonix** is at this time of year.
 
 > **boil down** :浓缩；归结为
  > 
-> **resentment:**怨恨
+> **resentment**: 怨恨
  > 
-> **Chamonix:**沙木尼(法国东部一游览中心)
+> **wax lyrical**:  to talk about something in a very enthusiastic way
+ > 
+> He waxed lyrical about the time he spent living in southern France.
+ > 
+> **Chamonix**: 沙木尼(法国东部一游览中心)
  > 
 
 8.Resentment may even run the other way. Hybrid work has already **smudge**d the boundary between professional and personal lives. Making everywhere a place of work **smear**s them further. Countries that used to be places to get away from it all will become places to bring it all with you. Turning down meetings when you are on a proper vacation is wholly reasonable; it is not an option when you are plorking on a jobliday. Antigua and Barbuda’s tourism slogan, “The beach is just the beginning”, sounds a lot more idyllic if the punchline in your head isn’t, “There’s also the weekly sales review”.

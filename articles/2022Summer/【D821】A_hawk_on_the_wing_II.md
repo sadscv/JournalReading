@@ -17,7 +17,7 @@
 
 > **stony**：多石的；冷漠的；
  > 
-> **fall on stony ground：**(计划等)落空；没有结果
+> **fall on stony ground**: (计划等)落空；没有结果
  > 
 > **fair-minded**：公正的；不偏不倚的
  > 
@@ -33,14 +33,14 @@
 
 > **trajectory**：轨迹
  > 
-> **recoiling：**倒退；畏缩
+> **recoiling**: 倒退；畏缩
  > 
 
 13.The contrast with Mr Johnson’s timidity at home is striking. A fear of aggravating his **backbench** mps and core voters was on full display on May 10th in a safety-first Queen’s Speech, which laid out the government’s legislative programme for the coming parliamentary **session**. His **bombast** often seems **clownish**, his character questionable, and his judgment weak: threats to **rip up** Britain’s deal with the eu over trade arrangements in Northern Ireland are deeply wrong-headed.
 
-> **backbench：** 普通议员席（无官位议会后座议员席）
+> **backbench**:  普通议员席（无官位议会后座议员席）
  > 
-> **session：**（议会等的）会议，会期
+> **session**: （议会等的）会议，会期
  > 
 > **bombast** ：华而不实的言辞；大话
  > 
@@ -53,8 +53,8 @@
 
 14.But on Ukraine at least, and in his commitments to Sweden and Finland, flourish and boldness have served Mr Johnson well. His predecessor, Theresa May, flew on a plane decked in dull air-force grey. These days it is **liveried** in red, white and blue, with gold lettering down the **fuselage**.
 
-> **liveried：**涂成专用颜色的；穿制服的
+> **liveried**: 涂成专用颜色的；穿制服的
  > 
-> **fuselage：**（飞机的）机身
+> **fuselage**: （飞机的）机身
  > 
 

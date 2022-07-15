@@ -3,7 +3,9 @@
 
 > **plough**:耕地；犁耕；耕种
  > 
-> **ingenuity:**聪明才智;独创性
+> **ingenuity**: 聪明才智;独创性
+ > 
+> **bear on sth**: to be connected or related to something
  > 
 
 2.**amie**:Some interventions to save ecosystems are **mind-boggling** **long-shots**.Consider a scheme to reintroduce, by gene-editing Asian elephants,something resembling a mammoth to **Siberia**. Their feeding habits could restore the grassland habitat that was around before mammoths were exterminated, increasing the sunlight reflected into space and helping keep carbon compounds trapped in the soil. But other projects have a bigger chance of making an impact quickly. As we report, one example involves **coral reef**s.
@@ -47,11 +49,11 @@
 
 6.The assisted evolution of corals does not meet with universal enthusiasm.Without carbon **mitigation** and decline in local, coral-killing pollution, even resistant corals will not survive the century. Sceptics doubt humanity will get its act together in time to make much difference. Few of these techniques are ready for deployment in the wild. Some, such as gene editing, are so controversial that it is doubtful they will be approved any time soon. Scale is also an issue. Compared with the **task at hand**, existing restoration projects are a **metaphorical** drop in the ocean.
 
-> **mitigation：**缓解；减轻
+> **mitigation**: 缓解；减轻
  > 
 > **metaphorical**：隐喻的；含比喻的
  > 
-> **task at hand：**手边的任务；手头上的工作
+> **task at hand**: 手边的任务；手头上的工作
  > 
 
 7.But there are grounds for optimism. Carbon targets are being set and maritime pollution is being dealt with. Countries that share responsibilities for reefs are starting to act together, even **in the** diplomatic **doldrums** around the Red Sea. Scientific workarounds can also be found. The application of probiotics can be automated. Natural currents can be **harness**ed to facilitate mass **breeding**. Sites of the greatest ecological and economical importance can be identified to maximise **bang** for buck.
@@ -62,11 +64,13 @@
  > 
 > **in the doldrums**：萧条时期；无精打彩；在无风区里
  > 
-> **breed：**繁殖；教养
+> **breed**: 繁殖；教养
+ > 
+> **Bang for the buck** is when someone gets more value for the money they put into something
  > 
 
 8.This mix of natural activity and human intervention could serve as a blueprint for other ecosystems. Hard-core greens—those who think that all habitats should be kept **pristine**—may not approve. But when entire ecosystems are facing destruction, the cost of doing nothing is too great to bear. For coral reefs, at least, if any are to survive at all, it will be those that humans have re-engineered to handle the future.
 
-> **pristine：**崭新的；清新的；未开发的；处于原始状态的
+> **pristine**: 崭新的；清新的；未开发的；处于原始状态的
  > 
 

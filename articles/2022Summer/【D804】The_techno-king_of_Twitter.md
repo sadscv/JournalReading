@@ -14,7 +14,7 @@ description: The world’s best-known engineer takes on the problem of free spee
 
 > **minnow**：米诺鱼（多种小型鱼类的总称）；无足轻重的（小）公司
  > 
-> **belie:**歪曲…的真相；证明…是假的；与…相背[相反,相左]
+> **belie**: 歪曲…的真相；证明…是假的；与…相背[相反,相左]
  > 
 > **haunt**:（不快的事情）萦绕于脑际；长期不断地缠扰（某人）
  > 
@@ -25,12 +25,16 @@ description: The world’s best-known engineer takes on the problem of free spee
 
 > **upend**:颠倒
  > 
+> **knoty** :extremely difficult or complex.
+ > 
 
 4.**At first blush**, Mr Musk—best known for electric cars and reusable rockets—seems an unlikely social­ media **mogul**. But a closer look suggests his acquisition of Twitter fits his approach to business. Mr Musk, a passionate engineer, likes to take poorly performing technologies and improve them. Tesla tore up the car industry’s rule book by replacing petrol with electricity, ditching **dealership**s and treating cars as computers. SpaceX proved that a hungry, move-fast-and­-break­things startup run on a relative **shoestring** could outperform **aerospace** giants grown cautious and fat on the back of generous government contracts. Both firms were dismissed by bigger **incumbents**—until one day they weren’t.
 
 > **At first blush**：乍一看
  > 
 > **mogul**:(尤指新闻、影视界的)大人物; 大亨
+ > 
+> **Tear up rule book** to do something in a way that is very different to the way in which it is usually done or has been done in the past
  > 
 > **dealership**:代理权；经销权；经销商
  > 
@@ -45,13 +49,13 @@ description: The world’s best-known engineer takes on the problem of free spee
 
 > **idiosyncratic**：独特的、怪癖的
  > 
-> **prod：** (用手指或尖物) 捅
+> **prod**:  (用手指或尖物) 捅
  > 
 > **vindicate**：证明是正确的 [正式]
  > 
-> **grandiose:**华而不实的；浮夸的
+> **grandiose**: 华而不实的；浮夸的
  > 
-> **befall:**遭遇；临头；遇到
+> **befall**: 遭遇；临头；遇到
  > 
 
 6.Assume that Mr Musk really is ready to spend billions of dollars of his own money to secure the “future of civilisation” (though he has a break clause should he **get cold feet**). The question is whether his vision of free speech on Twitter is sensible.
@@ -65,15 +69,15 @@ description: The world’s best-known engineer takes on the problem of free spee
 
 > **tinker**:小修补
  > 
-> **thicket of：**错综复杂的，thicket：灌木丛
+> **thicket of**: 错综复杂的，thicket：灌木丛
  > 
 > **mitigate**：减轻；缓解
  > 
 > **ripe**:时机成熟的；适宜的
  > 
-> **cut teeth:**to gain experience with something,especially at a young age(when one's teeth would be coming in) 初试牛刀
+> **cut teeth**: to gain experience with something,especially at a young age(when one's teeth would be coming in) 初试牛刀
  > 
-> **anti­censorship:**反审查
+> **anti­censorship**: 反审查
  > 
 > **animating**：鼓舞生气的、启发的
  > 
@@ -112,6 +116,8 @@ description: The world’s best-known engineer takes on the problem of free spee
  > 
 > **vendetta**：宿怨
  > 
+> **The bird and the oak tree**
+ > 
 
 12.This newspaper shares Mr Musk’s free­speech **convictions**. Nobody has a monopoly on wisdom. Experts are sometimes wrong and **blowhard**s sometimes right. Even in the internet age, the best response to a bad argument is a better one. Moderation on many platforms has become heavy-­handed and arbitrarily enforced. If Mr Musk’s talent for **shaking up** industries can help cut the **Gordian knot** of online speech, everyone will benefit.
 
@@ -121,7 +127,7 @@ description: The world’s best-known engineer takes on the problem of free spee
  > 
 > **heavy-handed**：粗暴的; 暴虐的，严厉的
  > 
-> **Gordian knot：**难题；戈尔迪之结（希腊神话中的一个难题）西方传说中的物品，神谕说，如果谁能解开这个结，那么他就会成为亚细亚之王。公元前334年，亚历山大大帝率大军来到了小亚细亚的北部城市戈尔迪乌姆。在小亚细亚的北部城市戈尔迪乌姆的卫城上，矗立着宙斯神庙。神庙之中，有一辆献给宙斯的战车。这可不是一辆普通的战车，在它的车轭和车辕之间，用山茱萸绳结成了一个绳扣，绳扣上看不出绳头和绳尾，要想解开它，简直比登天还难。
+> **Gordian knot**: 难题；戈尔迪之结（希腊神话中的一个难题）西方传说中的物品，神谕说，如果谁能解开这个结，那么他就会成为亚细亚之王。公元前334年，亚历山大大帝率大军来到了小亚细亚的北部城市戈尔迪乌姆。在小亚细亚的北部城市戈尔迪乌姆的卫城上，矗立着宙斯神庙。神庙之中，有一辆献给宙斯的战车。这可不是一辆普通的战车，在它的车轭和车辕之间，用山茱萸绳结成了一个绳扣，绳扣上看不出绳头和绳尾，要想解开它，简直比登天还难。
  > 
 > **shake up** :重新改组
  > 

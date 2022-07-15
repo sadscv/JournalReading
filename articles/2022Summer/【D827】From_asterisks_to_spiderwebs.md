@@ -11,14 +11,15 @@ description: The old travel patterns are not coming back. Time for a new approac
  > 
 
 2.None of it seems to be working. The subway is only two-thirds as busy as it was before covid­19. Auckland’s bus system was half as busy in April as it was three years earlier. Despite fears of “**carmageddon**”, people have not **swapped** public transport for the private kind. They are simply moving around less (see Britain section).
-**carmageddon**: A state of extreme traffic congestion
 
+> **carmageddon**: A state of extreme traffic congestion
+ > 
 > **swap**： 交换；替换
  > 
 
 3.Although travel is likely to recover a little further, a return to the pre­pandemic pattern seems **implausible**. One clue is that not all journeys have declined. Parisians made more shopping trips last summer than they did before covid appeared. In New York Sunday travel has held up better than weekday travel. What has collapsed is rush­hour commuting, particularly among well­paid workers in the **knowledge economy**. That suggests the change in behaviour is caused not by fear of infection— which might be expected to diminish over time—but by a fundamental resetting of work habits.
 
-> **implausible：**难以置信的;不可信的
+> **implausible**: 难以置信的;不可信的
  > 
 > **knowledge economy**:知识型经济
  > 
@@ -32,7 +33,7 @@ description: The old travel patterns are not coming back. Time for a new approac
 
 > **A clutch of**：一组/群
  > 
-> **Antwerp:**比利时安特卫普
+> **Antwerp**: 比利时安特卫普
  > 
 > **Genoa**:热那亚
  > 
@@ -52,7 +53,7 @@ description: The old travel patterns are not coming back. Time for a new approac
 
 > **for the time being**：临时；在目前
  > 
-> **shell out：**交付；出需要的或应付的钱
+> **shell out**: 交付；出需要的或应付的钱
  > 
 > **road pricing**：（繁忙路段的）道路收费制度the system of making drivers pay to use busy roads at certain times
  > 

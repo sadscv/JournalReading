@@ -16,7 +16,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
  > 
 > **staple food**：主食
  > 
-> **stunted：**发育不足的；生长不良的
+> **stunted**: 发育不足的；生长不良的
  > 
 > **famine**：饥荒
  > 
@@ -42,7 +42,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
  > 
 > **ravage**：摧毁（常用被动语态）
  > 
-> **breadbasket：**粮仓（指一国或地区的粮食生产基地，尤指谷物生产基地）
+> **breadbasket**: 粮仓（指一国或地区的粮食生产基地，尤指谷物生产基地）
  > 
 
 6.All this will have a **grievous** effect on the poor. Households in emerging economies spend 25% of their budgets on food—and in sub-Saharan Africa as much as 40%. In Egypt bread provides 30% of all calories. In many importing countries, governments cannot afford subsidies to increase the help to the poor, especially if they also import energy—another market in turmoil.
@@ -57,7 +57,9 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 
 8.In spite of soaring grain prices, farmers elsewhere in the world may not make up the shortfall. One reason is that prices are **volatile**. Worse, **profit margin**s are shrinking, because of the surging prices of fertiliser and energy. These are farmers’ main costs and both markets are disrupted by sanctions and the **scramble** for natural gas. If farmers **cut back on** fertiliser, global yields will be lower at just the wrong time.
 
-> **volatile：**易变的；不稳定的
+> **volatile**: 易变的；不稳定的
+ > 
+> **profit margin**：the difference between the cost of buying or producing sth and the price that it is sold for
  > 
 > **scramble**：争夺
  > 
@@ -76,20 +78,20 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 
 11.Instead states need to act together, starting by keeping markets open. This week Indonesia, source of 60% of the world’s palm oil, lifted a temporary ban on exports. Europe should help Ukraine ship its grain via rail and road to ports in Romania or the **Baltics**, though even the most optimistic forecasts say that just 20% of the harvest could get out that way. Importing countries need support, too, so they do not end up being **capsized** by enormous bills. Emergency supplies of grain should go only to the very poorest. For others, import financing on favourable terms, perhaps provided through the imf, would allow donors’ dollars to go further. Debt relief may also help to free up vital resources.
 
-> **Baltics：**波罗的海
+> **Baltics**: 波罗的海
  > 
 > **capsize**：(使)翻转；翻船
  > 
 
 12.There is scope for substitution. About 10% of all grains are used to make **biofuel**; and 18% of vegetable oils go to biodiesel. Finland and **Croatia** have weakened mandates that require petrol to include fuel from crops. Others should follow their lead. An enormous amount of grain is used to feed animals. According to the Food and Agriculture Organisation, grain accounts for 13% of cattle **dry feed**. In 2021 China imported 28m tonnes of corn to feed its pigs, more than Ukraine exports in a year.
 
-> **biofuel：**生物燃料
+> **biofuel**: 生物燃料
  > 
 > **Croatia[kroʊˈeɪʃə]**：克罗地亚
  > 
 > **follow one's lead**：以某人为榜样、听某人的话、跟某人行事
  > 
-> **dry feed：**干饲料
+> **dry feed**: 干饲料
  > 
 
 13.Immediate relief would come from breaking the Black Sea blockade (see Europe section). Roughly 25m tonnes of corn and wheat, equivalent to the annual consumption of all of the world’s least developed economies, is trapped in Ukraine. Three countries must be brought **onside**: Russia needs to allow Ukrainian shipping; Ukraine has to de-mine the approach to Odessa; and Turkey needs to let naval escorts through the **Bosporus**.
@@ -105,7 +107,7 @@ description: War is tipping a fragile world towards mass hunger. Fixing that is 
 
 > **strangle** :勒死；抑制
  > 
-> **convoy：**船队
+> **convoy**: 船队
  > 
 > **sit out**:袖手旁观
  > 

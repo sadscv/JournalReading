@@ -70,3 +70,8 @@ description: A struggle over artistic freedom suggests a better way out of the c
 
 9 Besides the hoods, other themes and motifs recur. Red was the main colour in Guston’s palette, bleeding into pink. He was always influenced by the Italian Renaissance masters, especially their gorgeous visions of the apocalypse and the damned. Heaven was dull, he noted, but “when they’re going to hell the painter really goes to town”. The same is true of him, and of the new show: they draw art from anguish and force you to think.
 
+> "The Deluge", 1969. Museum of Fine Arts, Boston. Bequest of Musa Guston. © The Estate of Philip Guston, courtesy Hauser & Wirth
+ > 
+> "The Studio", 1969. Private Collection. © The Estate of Philip Guston, courtesy Hauser & Wirth
+ > 
+

@@ -6,7 +6,7 @@ description: A new analysis by the CDF collaboration is a bolt from the blue, fi
 1 In particle physics, data long outlives the **detector**s that generate it. A decade ago the 4,100-metric-ton Collider Detector at Fermilab (CDF) reached the end of its life and was shut down, stripped of its parts for use in other experiments. Now a fresh analysis of old CDF data has unearthed a stunning **discrepancy** in the mass of an elementary particle, the W boson, that could point the way to new, as yet undiscovered particles and interactions.
 The W boson is massive, some 80 times heavier than a **proton**. Crucially, the W boson is responsible for certain forms of radioactive decay, allowing **neutron**s to convert into protons. Because its mass is constrained by (and itself constrains) many other particles and parameters within the Standard Model—particle physicists’ theory of fundamental particles and how they behave—the W boson has become a target for researchers seeking to understand where and how their best theories fail.
 
-> **discrepancy：**差异；不符合
+> **discrepancy**: 差异；不符合
  > 
 > **proton:** 质子
  > 
@@ -16,6 +16,8 @@ The W boson is massive, some 80 times heavier than a **proton**. Crucially, the 
 2 Although physicists have long known the W boson’s approximate mass, they still do not know it exactly. Plugging data into the Standard Model framework, however, predicts that the so-called W mass should be 80,357 **mega-electron-volts** (MeV), plus or minus 6 MeV. (One MeV is about twice the **mass-energy** contained within a single electron.) But in a new analysis published on Thursday in Science, physicists on the CDF collaboration have instead found the W boson mass to be 80,433.5 ± 9.4 MeV. The new measurement, which is more precise than all previous measurements combined, is nearly 77 MeV higher than the Standard Model’s prediction. Although these numbers differ by only about one part in 1,000, the uncertainties for each are so **minuscule** that even this small divergence is of enormous statistical significance—it is exceedingly unlikely to be an illusion produced through **sheer chance**. The well-studied W boson, it seems, still holds plenty of secrets about the workings of the **subatomic** world—or at least about how we investigate it. **Taken by surprise,** particle physicists are only beginning to grapple with the implications.
 
 > **mega-electron-volt**:兆电子伏特
+ > 
+> **±:** plus or minus
  > 
 > **mass-energy**:质能
  > 
@@ -27,12 +29,16 @@ The W boson is massive, some 80 times heavier than a **proton**. Crucially, the 
  > 
 > **Taken by surprise**：出其不意；事出意外
  > 
+> **grapple with**：to try hard to understand a difficult idea or to solve a difficult problem
+ > 
 
 3 “Nobody was waiting for this discrepancy,” says Martijn Mulders, an experimental physicist at **CERN** near Geneva, who was not involved with the new research but co-wrote an accompanying **commentary** in Science. “It’s very unexpected. You almost feel betrayed because suddenly they’re sawing off one of the legs that really support the whole structure of particle physics.”
 
 > **CERN**：欧洲原子核研究委员会
  > 
 > **commentary**：评论；注释
+ > 
+> **QUESTING FOR QUARKS**
  > 
 
 4 It was a rough measurement of the W boson mass that allowed physicists in 1990 to predict the mass of the top quark with reasonable accuracy five years before that particle was first observed. Then, using the W boson mass and top quark mass, researchers made a similar prediction for the Higgs boson—which **bore out** spectacularly in 2012. More recently, physicists making such measurements have focused less on refining the Standard Model’s core competencies and more on probing its failures—it does not, for instance, incorporate gravity, dark matter, **neutrino mass**es or a number of other troublesome phenomena. Poking at the places where the Standard Model breaks or otherwise **deviate**s from observations, physicists say, is one of the best ways to search for “new physics,” their **catch-all** term for finding additional, possibly more fundamental building blocks of the universe. Until the CDF result, some of the Standard Model’s most promising discrepancies included an anomaly investigated at the Muon g-2 experiment at Fermilab and results from the LHCb (Large Hadron Collider beauty) experiment at CERN.
@@ -57,6 +63,10 @@ The W boson is massive, some 80 times heavier than a **proton**. Crucially, the 
 
 6 Since then, the results have gone through multiple further rounds of peer review—but that only guarantees the physicists have done their homework, not that they have found new physics.
 
+> **MINING THE DATA**
+ > 
+> To measure the mass of a W boson, one must first build a particle collider. The **Tevatron**, which ran from 1983 to 2011, was a 3.9-mile (6.3-kilometer) loop where protons crashed into **antiproton**s at up to about two tera-electron-volts (TeV)—some 25 times the mass of a W boson. The CDF experiment, located along the loop, sought signs of W bosons in these collisions from 2002 until the **Tevatron** shut down.
+ > 
 > **Tevatron**：万亿电子伏特加速器
  > 
 > **antiproton**：反质子（与质子质量相同，但电荷相反）
@@ -73,7 +83,7 @@ This work took a decade because of the numerous uncertainties in the data, Kotwa
  > 
 > **decommissioned** ：正式停止使用（武器、核电站等）
  > 
-> **quirk：**夸克；怪事，奇事
+> **quirk**: 夸克；怪事，奇事
  > 
 > **dataset**：数据集
  > 
@@ -88,19 +98,21 @@ This work took a decade because of the numerous uncertainties in the data, Kotwa
  > 
 > **overkill**：用过多的核力量摧毁(目标)；重复命中；杀尽杀绝
  > 
+> **DETECTIVE WORK**
+ > 
 
 9 To determine the anomaly’s source, **corroboration** from other experiments is needed. “It’s a very spectacular result,” says Guillaume Unal, ATLAS’s physics coordinator, who was not involved in the new study. “It’s a very complex and challenging measurement, and it’s also a very important one to really probe the Standard Model with good accuracy.” ATLAS is currently working to improve its measurement of the W mass, and Unal says using data from the LHC’s second run, which concluded in 2018, may allow them to get close to CDF’s precision.
 In the meantime, theorists will **pounce on** this new result to produce **myriad** possible explanations. Although the LHC has ruled out many **permutation**s of supersymmetry (SUSY)—a set of theories positing that elementary particles have “superparticle” partners—one **culprit** that could be shifting the W boson’s mass ever so slightly is a **cohort** of relatively light **supersymmetric** particles.
 
-> **corroboration:** 证实；加强
+> **corroboration**:  证实；加强
  > 
 > **pounce on**:猛扑向；对…大做文章；突袭
  > 
-> **myriad:**无数的；众多方面的
+> **myriad**: 无数的；众多方面的
  > 
 > **permutation**:排列（方式）；组合（方式）
  > 
-> **culprit :**罪犯；引起问题的事物
+> **culprit **: 罪犯；引起问题的事物
  > 
 > **cohort** :一群
  > 

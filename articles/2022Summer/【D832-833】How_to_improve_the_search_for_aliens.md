@@ -6,24 +6,26 @@ description: So far, people have sought Earthlike biology. That will change
 1 For decades, astronomers searching for life beyond humanity’s home planet have had a simple strategy: follow the water. Water is the **sine qua non** of terrestrial life and as thousands of new planets have been discovered orbiting far away stars, the greatest levels of excitement have usually been reserved for those in the “habitable zones” of their systems—in other words orbiting at a distance where liquid water could exist on the planet’s surface.
 The next step has been to look for **biosignature**s—molecules which might betray the existence of biological processes. These could include oxygen or methane in a planet’s atmosphere. On Earth, those molecules persist only because living things constantly regenerate them.
 
-> **sine qua non ：**必要条件
+> **sine qua non **: 必要条件
  > 
 > **biosignature**：生命印记
  > 
 
 2 The problem with both these approaches is obvious—they are restricted to finding life as currently known. But, as Natalie Grefenstette, an **astrobiologist** at the Santa Fe Institute in New Mexico, points out, “we don’t know if other forms of life would necessarily have the same **signature**s, if they would have the same metabolisms, if they would be based on the same genetic molecules or any of the same molecules at all.” Life on Earth could have evolved in the way that it has because the specific chemistry of the planet at crucial times **gave rise to** selective pressures which might not be present on other worlds. “And so we’ve been thinking—if life were different, how do you even look for that?”
 
-> **astrobiologist：**天体生物学者,太空生物学者
+> **astrobiologist**: 天体生物学者,太空生物学者
  > 
-> **signature：**特征；标记
+> **signature**: 特征；标记
  > 
 > **give rise to**:导致；使发生
+ > 
+> **Exotic beasts and how to find them**
  > 
 
 3 From May 16th-20th, at AbSciCon, a **biennial** astrobiology meeting organised by the **American Geophysical Union** and held this time around in Atlanta, Georgia, astrobiologists including Dr Grefenstette considered that question and discussed ways to expand their searches in the coming decades, so that they might stand a better chance of recognising more exotic forms of life than are currently being sought. To do this, they will need several strategies.
 The first begins by imagining the various different chemistries which exotic forms of life might employ, and using those to devise a wider set of potential biosignatures. On Earth, the most important molecules of life almost all involve carbon atoms. These are particularly **versatile** because they can form chemical bonds with up to four other atoms, including other carbons, to create complex molecular structures. Carbon is the fourth most abundant element in the universe and the molecules it forms can survive for long periods in the sorts of temperatures and pressures found on Earth’s surface.
 
-> **exotic:**外来物
+> **exotic**: 外来物
  > 
 > **biennial** :两年一次的
  > 
@@ -55,9 +57,9 @@ Alien life might, though, have its roots in something yet more exotic. In the la
 5 Water is a good solvent because it is a “**polar**” molecule, meaning its electrical charge is unevenly distributed. In a molecule of H2O the oxygen has a slightly negative charge and the two hydrogen atoms are, by way of **counterbalance**, slightly positive. This polarity causes water molecules to stick to similarly polar molecules, making them good at dissolving other chemicals—which, in turn, once thus in solution, can interact with each other. That enables water to support the **myriad** functions of life, and no other abundant chemical on Earth matches this versatility.
 Other chemicals can, however, fulfil some of the roles water plays. Life elsewhere might, perhaps, have found a way to employ **ammonia**. This, like water, is polar, and therefore good at dissolving things. It is not quite as good at doing so as water, though, and it also stays liquid (at terrestrial atmospheric pressures, at least) only between -78°C and -33°C. But that would make it available in liquid form in **frigid** places such as **Europa**, a moon of Jupiter, and **Titan** and **Enceladus**, moons of Saturn, where water itself would be frozen.
 
-> **polar:**磁极的
+> **polar**: 磁极的
  > 
-> **counterbalance:**抵消；抗衡
+> **counterbalance**: 抵消；抗衡
  > 
 > **myriad** ：无数的；众多方面的
  > 
@@ -65,11 +67,13 @@ Other chemicals can, however, fulfil some of the roles water plays. Life elsewhe
  > 
 > **frigid**：寒冷的；严寒的；寒带的
  > 
-> **Europa:**木卫二
+> **Europa**: 木卫二
  > 
-> **Titan:**土卫六
+> **Titan**: 土卫六
  > 
 > **Enceladus**：土卫二
+ > 
+> **Possible solutions**
  > 
 
 6 Titan in particular is believed to host vast ammonia-rich underground lakes which might act as cradles for chemically exotic life. But other possibilities exist there, too. Dr Grefenstette says astrobiologists are also intrigued by the lakes of liquid methane that cover Titan’s surface (the average temperature of which is -179°C). Methane exists on the surface of Titan in much the same way that water does on Earth—in liquid, gaseous and solid forms.
@@ -77,7 +81,7 @@ Methane is not a perfect solvent for life. It is not polar and therefore not as 
 
 > **nitrogen**:氮；氮气
  > 
-> **feasibly:**可行的
+> **feasibly**: 可行的
  > 
 > **eke out** :竭力维持；使能持久
  > 
@@ -87,6 +91,8 @@ Methane is not a perfect solvent for life. It is not polar and therefore not as 
 > **formamide**:甲酰胺
  > 
 > **nebulae** [ˈnebjələ]星云
+ > 
+> **pique**:to excite or arouse especially by a provocation, challenge, or rebuff
  > 
 
 8 The units of life on Earth—cells—are contained within lipid membranes. These keep the chemical reactions which sustain life concentrated inside a cell, and the **exterior** world outside it. Such membranes would not be stable in a medium such as liquid methane. But exotic lifeforms on Titan might instead build membranes from structures called **azotozome**s. These are molecules, currently hypothetical, made from nitrogen-rich organic compounds, according to Paulette Clancy, a chemist at Cornell University who came up with the idea. They would, she thinks, be capable of operating in the ultra-low temperatures of a place like Titan.
@@ -106,11 +112,11 @@ Or perhaps there could be life without any membranes at all. Lifelike chemical r
 
 9.Finally, life needs to store information about itself and pass that information on to its offspring. Terrestrial organisms do this using molecules called nucleic acids. These employ four different molecular units known as nucleotides to carry a code of instructions that can build 20 different **amino acid**s, which then link up in various combinations to form proteins. But laboratory experiments and samples from meteorites show that many more **nucleotide**s and amino acids than these exist. Though they have not been incorporated into life on Earth, they could form the basis of alternative systems of genetic information.
 
-> **nucleotide：**核苷酸
+> **nucleotide**: 核苷酸
  > 
-> **amino acid：**氨基酸
+> **amino acid**: 氨基酸
  > 
-> **meteorite：**陨石
+> **meteorite**: 陨石
  > 
 
 10.Identifying exotic life forms made from different materials is thus a matter of widening the search from Earthly biosignatures—oxygen, methane and so on—to include chemicals that might be made by various imagined biochemical systems. One tool for this search is the mass **spectrometer**, a device that **ionises** samples and then filters those ions by mass.
@@ -135,17 +141,17 @@ Or perhaps there could be life without any membranes at all. Lifelike chemical r
 
 12.The next generation of mass spectrometers, though, will be smaller and yet more powerful. And they will be carried aboard a range of missions **far and wide** into the solar system. Dragonfly will hop around the surface of Titan in the mid-2030s and take a **close-up** look at the molecules there. **davinci** will orbit **Venus** in 2031. The Jupiter Icy Moons Explorer will explore the Jovian satellite system, starting in the early 2030s. And Europa Clipper’s mass spectrometer will provide a **high-resolution** **characterisation** of that body, beginning at the end of this decade.
 
-> **close-up：**特写镜头；近摄
+> **close-up**: 特写镜头；近摄
  > 
 > **davinci**：达芬奇
  > 
 > **far and wide**：广泛地；四面八方；普遍
  > 
-> **Venus：**金星
+> **Venus**: 金星
  > 
 > **high-resolution**：高分辨率的，高清晰度的
  > 
-> **characterisation：**描述方法；界定方法the way in which sb/sth is described or defined
+> **characterisation**: 描述方法；界定方法the way in which sb/sth is described or defined
  > 
 > 欧罗巴快船（**Europa Clipper**）是美国航天局正在开发的一项行星际任务，由一个轨道器和几个子卫星（可能）组成。
  > 
@@ -160,7 +166,7 @@ Or perhaps there could be life without any membranes at all. Lifelike chemical r
  > 
 > 操作性/操作型定义
  > 
-> **excess：**过分行为；过量；过剩
+> **excess**: 过分行为；过量；过剩
  > 
 > **isotope**：同位素
  > 
@@ -184,7 +190,7 @@ Or perhaps there could be life without any membranes at all. Lifelike chemical r
  > 
 > **sediment**：沉积物；泥沙
  > 
-> **microbe：**微生物
+> **microbe**: 微生物
  > 
 > **sulphate**：硫酸盐
  > 
@@ -207,6 +213,8 @@ Or perhaps there could be life without any membranes at all. Lifelike chemical r
 > **scoop**：挖;舀
  > 
 > **concentration**：浓度
+ > 
+> **The past as a clue to the present**
  > 
 
 19.Such methods would widen the astrobiological search wherever it was possible to obtain a sample—in other words any world in the solar system to which researchers can send a probe—and apply to it tools such as miniaturised, space-hardened mass spectrometers. For planets going around other stars, though, things are obviously trickier. Few people think human beings or their machines will visit any of the rapidly expanding population of these exoplanets anytime soon. Astrobiologists are instead considering other ways to search for new agnostic biosignatures. Michael Wong, an astrobiologist at the Carnegie Institution for Science, in Washington, dc, presented a technique that applies what is known as network science to data about exoplanets’ atmospheres. These data can be gathered using telescopes on, or orbiting, Earth.

@@ -13,16 +13,16 @@ description: America has a plan to gut China’s chipmaking ecosystem
  > 
 > **wafer**:圆片，晶片；薄片，干胶片；薄饼；圣饼
  > 
-> **silicon wafer:**硅片；硅圆片
+> **silicon wafer**: 硅片；硅圆片
  > 
 > **atom beam**:原子束
  > 
 
 3.The Chinese government’s efforts to develop a large and advanced semiconductor industry at home using these **mind­boggling** technologies have led to a rapid shift in the source of the revenues for the firms making it over the past five years. In 2014 the five main toolmakers sold gear worth $3.3bn, 10% of the global market, to China. Today the country is their largest market by a significant margin, making up a quarter of global revenues (see chart). Of the $23bn in sales for Applied Materials, the largest equipment­maker, during its latest fiscal year, $7.5bn came from China. It accounts for over a third of **Lam Research**’s revenues of $14.6bn, the largest share of any big tool maker (though the firm notes that some portion of Chinese sales are made to multinational firms that operate there).
 
-> **mind­boggling:**难以置信的；难以想象的
+> **mind­boggling**: 难以置信的；难以想象的
  > 
-> **Lam Research:**科林研发
+> **Lam Research**: 科林研发
  > 
 
 ![](./archive/img/boxcndjNUT5lzkfJdFYAbWTOxqX.png)
@@ -34,9 +34,9 @@ description: America has a plan to gut China’s chipmaking ecosystem
 
 5.America’s government has long sought solutions to this uncomfortable problem. In December 2020 it placed **smic**, China’s leading chipmaker, on an export blacklist. Any American company wishing to sell products to smic had to apply for a licence. But tools have kept flowing to the Chinese firm, in part because America acted alone. The Chinese government’s lavish subsidies have instead started finding their way to non-American competitors. **Applied Materials** noted that this might help other firms as, in effect, shutting it out of China “could result in our losing technology leadership relative to our international competitors”.
 
-> **smic:**中芯国际公司
+> **smic**: 中芯国际公司
  > 
-> **Applied Material：**应用材料公司Applied Materials, Inc.:全球最大半导体设备商
+> **Applied Material**: 应用材料公司Applied Materials, Inc.:全球最大半导体设备商
  > 
 
 6.The problem is becoming more acute. semi, the global semiconductor-tooling trade body, announced on April 12th that worldwide industry revenues from China grew by 58% in 2021, to $29.6bn, cementing its place as the world’s largest market. Political pressure is rising. In March two Republican lawmakers wrote to America’s Department of Commerce demanding a tightening of export controls on chip technology going to China, specifically mentioning chipmaking equipment.
@@ -53,7 +53,7 @@ description: America has a plan to gut China’s chipmaking ecosystem
 
 8.Over the past four months the American toolmakers have started working with the government, through Akin Gump, a firm of lawyers and lobbyists based in Washington, dc, to find a way round the problem. The toolmakers formed the Coalition of Semiconductor Equipment Manufacturers late last year to further that aim, using Akin Gump to represent them. Lawyers have been **poring over** the products of Applied Materials, Lam Research and kla in an attempt to identify workable export controls under which less advanced pieces of equipment that are not used for cutting-edge manufacturing might still be sold to China, while more advanced tools would be prohibited. That would allow the toolmakers to **retain** some portion of their Chinese revenues.
 
-> **AKIN GUMP：**美国艾金岗波律师事务所
+> **AKIN GUMP**: 美国艾金岗波律师事务所
  > 
 > **pore over**:钻研
  > 
@@ -64,7 +64,7 @@ description: America has a plan to gut China’s chipmaking ecosystem
 
 > **Hinge on**：取决于
  > 
-> **Put heads together：**一起商讨问题；聚在一起商量、集思广益
+> **Put heads together**: 一起商讨问题；聚在一起商量、集思广益
  > 
 
 11.The plan may yet fall apart. China is unlikely to accept it **meekly**. Hawks in Washington may push for harder restrictions. Defining what equipment can continue to be exported to China may prove too difficult. But if it works, Chinese chipmakers would need decades to catch up with the West—and America would have met its goals of suppressing Chinese semiconductor development while causing minimal harm to its own industry.

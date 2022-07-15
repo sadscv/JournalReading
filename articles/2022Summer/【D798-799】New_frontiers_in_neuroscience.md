@@ -13,6 +13,9 @@ description: Recent discoveries about the biological underpinnings of human beha
 2 “The brain creates the mind, so understanding how this happens shines new light on our psychological theories and interventions,” said Kristen A. Lindquist, PhD, an associate professor of psychology and neuroscience at the University of North Carolina (UNC) at Chapel Hill. “In turn, understanding psychological theory and measurement of behavior means we can understand the functional meaning of firing neurons and blood flow to brain regions.”
 While psychologists’ understanding of the biological processes involved in behavior has been evolving for years, a few neuroscience-related trends stood out in 2021.
 
+> **Brain connectivity**
+ > 
+
 3 Neuroimaging has long helped researchers understand the brain regions associated with specific traits or behaviors. More recently, psychologists have begun to study the connectivity between various regions. Rather than simply identifying increased blood flow in one area, psychologists are using advanced technology to study the correlation between blood flow changes in more than one brain region. While typical brain imaging suggests the magnitude of change, connectivity highlights possible dynamics at play in more complex behaviors.
 
 4 A simple example: If you see a piece of chocolate, your prefrontal cortex may light up along with your pleasure center, suggesting you’re trying to resist the thing you crave. Studying this type of connectivity helps psychologists understand the processes behind certain behaviors and psychological disorders and create better treatments, says Lindquist.
@@ -48,6 +51,12 @@ In other words, people can have the same output but different neural pathways to
 
 > **plasticity**：可塑性
  > 
+> **Brains** **converging**
+ > 
+> Understanding the human mind also requires understanding the social environment—what happens in the brain when we interact with other people. Using brain-imaging studies of pairs in social interactions, psychologists are now able to understand how social dynamics affect cognition, according to Thalia Wheatley, PhD, a professor of human relations at Dartmouth College.
+ > 
+> “We’re constantly influencing and adapting to others, relying on one another to help us think,” said Wheatley. “We’ve been so focused as psychologists on mapping out the single brain, and now we’re beginning to understand what happens in the brain when two minds are dynamically engaged.”
+ > 
 > **converge**：(道路、江河等) 会合 [正式]
  > 
 
@@ -55,6 +64,16 @@ In other words, people can have the same output but different neural pathways to
 For example, in one 2017 study, Hasson and his colleagues suggested different interpretations of a short story to two groups of participants and used neuroimaging to understand how each interpretation affected their brain activity as they listened to the story. Listeners’ brain activity aligned depending on the context they received before the story, suggesting that information from news sources can shape people’s beliefs and essentially result in groupthink (Psychological Science, Vol. 28, No. 3, 2017). “If one line is enough to make you similar to other people, imagine how what you are listening to all day does,” Hasson said.
 
 > 以下是上段所述实验简介
+ > 
+> Subjects listened to an adapted version of the J. D. Salinger short story “Pretty Mouth and Green My Eyes.” The adapted version was shorter than the original and included some sentences that were not present in the original text. It was read by a professional actor and ran 11 min, 32 s. The story was preceded by 18 s of neutral music and 3 s of silence, and it was followed by an additional 15 s of silence. These music and silence periods were discarded from all analyses. The story is about a phone conversation between two friends, Arthur and Lee. Arthur has returned home after a party after losing track of his wife, Joanie. He is calling Lee to share his concerns over her whereabouts. Lee is at home, and a woman is lying on the bed next to him. The woman’s identity is ambiguous—she may or may not be Joanie, Arthur’s wife. To disambiguate the story, we provided subjects with two different brief introductions (contexts) pointing toward two different interpretations. In the cheating condition, the context specified that Arthur’s wife is cheating on him with Lee (sentences that differed between the two conditions are printed in italics):
+ > 
+> It is late at night and the phone is ringing. On one end of the line is Arthur; Arthur just came home from a party. He left the party without finding his wife, Joanie. As always, Joanie was flirting with everybody at the party. Arthur is very upset. On the other end is Lee, Arthur’s friend. He is at home with Joanie, Arthur’s wife. Lee and Joanie have just returned from the same party. They have been having an affair for over a year now. They are thinking about the excuse Lee will use to calm Arthur this time.
+ > 
+> The paranoia context specified that Arthur is paranoid and that his wife is not cheating on him:
+ > 
+> It is late at night and the phone is ringing. On one end of the line is Arthur; Arthur just came home from a party. He left the party without finding his wife, Joanie. As always, Arthur is paranoid, worrying that she might be having an affair, which is not true. On the other end is Lee, Arthur’s friend. He is at home with his girlfriend, Rose. Lee and Rose have just returned from the same party, and are desperate to go to sleep. They do not know anything about Joanie’s whereabouts, and are tired of dealing with Arthur’s overreactions.
+ > 
+> The two contexts were intended to affect the interpretation of the characters’ beliefs and emotions throughout the story. Story comprehension and the effect of context on story interpretation were assessed using a questionnaire at the conclusion of the experiment
  > 
 > Day 798截止处 （暂定）
  > 
@@ -71,6 +90,8 @@ For example, in one 2017 study, Hasson and his colleagues suggested different in
 3 While understanding when synchrony happens is an important piece of the puzzle, Wheatley says, research should also investigate other dynamics such as when people may want to diverge in their thought patterns, breaking synchrony to **facilitate** independent thought. This understanding not only will help researchers understand cognition but also could help clinicians in practice. “When we understand more about the hidden dynamics of conversation, there will be natural implications for talk therapy,” she said.
 
 > **facilitate** ：促进；促使；使便利
+ > 
+> **Using** **polygenic risk scores**
  > 
 
 4 Thanks to recent advancements in the field of genetics, psychologists are seizing on new opportunities to study the specific genes associated with **susceptibility** for certain behaviors and, more important, how to use this knowledge to help people.
@@ -111,6 +132,8 @@ For example, Shaw and his colleagues conducted a randomized controlled study to 
 Su found in a study published in 2021 that people with a genetic **propensity** for alcohol use disorder are more likely to have sensation-seeking personality traits, and that social support can prevent those traits from developing into problem drinking (Journal of Abnormal Psychology, Vol. 130, No. 5, 2021). This is consistent with earlier research that found that individuals who have a higher polygenic risk score for alcohol dependence are less likely to abuse alcohol if they are in a Family Check-Up intervention group (Kuo, S. I., et al., Prevention Science, Vol. 20, No. 7, 2019).
 
 > **propensity**：倾向、习性
+ > 
+> The first part is simple, because et is pronounced as **[et]**. The second part, al. can be pronounced in three different ways: 1. As [æl], identical to the name “Al”, listen here. 2. As [ɔːl], just like the word “all”, listen here.
  > 
 
 8 “Knowing how the genetic risk for alcohol manifests can help us work with sensation seekers and help them find healthy ways to channel their predisposition,” said Su.

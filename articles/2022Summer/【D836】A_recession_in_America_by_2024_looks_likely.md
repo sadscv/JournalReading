@@ -55,6 +55,8 @@ description: The coming downturn. It should be mild—but fear its consequences
 
 > **handouts**：施舍物; 救济品; 救济金
  > 
+> **From the roaring to the raging 2020s**
+ > 
 
 11.If America’s economy does shrink in the next year or two, it could even alter the country’s long-term direction. The best response to a downturn during which inflation remained high would be pro-growth reforms, such as lower tariffs and more competition. Instead, recession may fuel populism and protectionism and even return Donald Trump to the presidency. Three of the past four recessions coincided with presidential elections or shortly preceded them. Each time the party controlling the White House lost power.
 
