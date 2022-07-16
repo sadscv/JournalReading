@@ -68,6 +68,7 @@
     * [【D856】Constructive_improvements](articles/2022Summer/【D856】Constructive_improvements.md)
     * [【D857(重读D806)】How_to_save_the_Supreme_Court_from_itself](articles/2022Summer/【D857(重读D806)】How_to_save_the_Supreme_Court_from_itself.md)
     * [【D858】What_Manhattan’s_street-food_vendors_reveal_about_their_city](articles/2022Summer/【D858】What_Manhattan’s_street-food_vendors_reveal_about_their_city.md)
+    * [【D877】Will_the_PowerPoint_load?](articles/2022Summer/【D877】Will_the_PowerPoint_load?.md)
   * [Day 071](articles/day071.md)
   * [Day 100](articles/day100.md)
   * [Day 346](articles/day346.md)
