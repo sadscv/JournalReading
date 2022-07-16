@@ -31,8 +31,8 @@ description: Why did a local official, at the turn of the twentieth century, mai
 > **Mole**: 痣
  > 
 
-![](./archive/img/boxcnxmNXgEkwLvEXhCdE6fe4Pt.png)
-![](./archive/img/boxcn3kYGC06fgLtcEks0lFF5Qb.png)
+![](./img/boxcnxmNXgEkwLvEXhCdE6fe4Pt.png)
+![](./img/boxcn3kYGC06fgLtcEks0lFF5Qb.png)
 
 3 The **weathered** pages furnish the thinnest slivers of the lives led by Chinese people in nineteenth-century California. Multiple generations are represented in the document. Yup Gee, age fifty-six, a resident of the mining town of **Alleghany**, is identified as the mother of “Ah Moon”; roughly thirty pages later, we meet Quok Moon, a twenty-two-year-old miner who was born in the same town. **Census** records point to them being mother and son. The youngest subject, a round-cheeked teen-ager named Eva Yee Chung, was born on the other side of the country, in New York City. The last few photographs, taken several decades after the others, show their subjects dressed mostly in elegant Western **attire**, perhaps indicating a certain degree of affluence. Quong Dong Bing, age twenty-six, is in a suit and tie, his hair neatly **combed** back; Tong Ka Jou, age twenty-three, wears a **polka-dot** bow tie.
 
@@ -64,7 +64,7 @@ description: Why did a local official, at the turn of the twentieth century, mai
 > **wry**：啼笑皆非的；挖苦的
  > 
 
-![](./archive/img/boxcnGz106T8s9y1exRCrSAMMuc.png)
+![](./img/boxcnGz106T8s9y1exRCrSAMMuc.png)
 
 5 Even more **foreboding** is the tally of twenty-one people who are marked as dead. Yung Jung, a fifty-eight-year-old miner, who was nearly six feet tall, “froze to death on Lost Creek” in February of 1895. Wong Sang, a sixty-one-year-old miner with a **stubble** on his chin and **mournful** eyes, was “killed” in 1905. For most of the dead, there is no explanation: Jo Jung, miner, age sixty-seven; Lock Yan, miner, age sixty-three; Chin Foo, cook, age sixty-five. The entry for Wong Fun, a fifty-two-year-old miner, contains only the frightening observation, “Burned.”
 
@@ -77,7 +77,7 @@ description: Why did a local official, at the turn of the twentieth century, mai
 > **observation**：（尤指据所见、所闻、所读而作的）评论
  > 
 
-![](./archive/img/boxcniMPb2LszZd9mvF7XXfoCOF.png)
+![](./img/boxcniMPb2LszZd9mvF7XXfoCOF.png)
 
 6 **Archivist**s at the California Historical Society are unsure about how long the ledger has been in their collection, or how it was acquired. Marie Silva, a manuscripts archivist, discovered it in one of the society’s basement **vault**s in 2011. Immediately upon examining it, she sensed the weight of the images. “It just felt extremely significant to me,” she told me. “I think it was seeing all of these photographs of all of the people and then realizing this might be the only surviving record of these people.” She guessed that the document had a surveillance purpose during the era of Chinese exclusion, but also felt moved by the ways the pictures conveyed a sense of the personalities of the people depicted. While cataloguing the album, she took the unusual step of typing in the name of every person listed, in case someone might one day come looking for traces of an ancestor. The historical society recently made a digitized version of the ledger available online and, beginning on January 28th, will display it publicly for the first time, as part of an exhibition on exclusion-era photographs.
 
@@ -86,8 +86,8 @@ description: Why did a local official, at the turn of the twentieth century, mai
 > **vault**：保险库；墓穴；穹顶
  > 
 
-![](./archive/img/boxcnebeLQSHa7glZgu18yALykg.png)
-![](./archive/img/boxcndelOvlcDQRWCJ2SdC3RVCn.png)
+![](./img/boxcnebeLQSHa7glZgu18yALykg.png)
+![](./img/boxcndelOvlcDQRWCJ2SdC3RVCn.png)
 
 7 Much about the document has remained mysterious. Who was DD Beatty, and why did he take these photographs? What was John T. Mason doing, maintaining the ledger for so many years? I started to find some answers in old issues of the Mountain Messenger, Downieville’s local newspaper, and other historical records. I learned that Mason was a longtime resident of Downieville, whose family had crossed the Great Plains from **Missouri** during the gold rush. He was made constable in Downieville in 1884, and later became a deputy **sheriff** and the justice of the peace. A book published in 1930 about Mason’s adventures in mining country describes a thriving Chinatown in Downieville, and characterized Mason as being “friendly with the **Celestials**,” adding that he “could handle the chop-sticks to perfection.”
 
@@ -106,7 +106,7 @@ description: Why did a local official, at the turn of the twentieth century, mai
 > **definite**：明确的；一定的
  > 
 
-![](./archive/img/boxcnmMDCssm7R8IYFO1PisvF0g.png)
+![](./img/boxcnmMDCssm7R8IYFO1PisvF0g.png)
 
 10 An alliance of Chinese mutual-aid associations, known as the Six Companies, pledged to resist the registration requirement, calling it “an insult that has not been **inflict**ed upon the subjects of any other nation.” The groups took their fight all the way to the Supreme Court—and lost. The Mountain Messenger cheered the Court’s decision and provided readers with regular updates on the requirements being imposed on the Chinese. “They must **furnish** with their registration papers two unmounted photographs of the face of the applicant, an inch and a half from the base of the hair to the point of the chin,” an article on January 6, 1894, said. “These photographs must be paid for by these **heathens**.”
 

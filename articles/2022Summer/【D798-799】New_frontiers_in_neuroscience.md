@@ -79,7 +79,7 @@ For example, in one 2017 study, Hasson and his colleagues suggested different in
  > 
 
 ### Stimuli and experimental design
-![](./archive/img/boxcnsIE6qM516axVMkVC0xEojc.png)
+![](./img/boxcnsIE6qM516axVMkVC0xEojc.png)
 
 ---
 

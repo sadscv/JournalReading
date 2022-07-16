@@ -102,7 +102,7 @@ description: The world’s best-known engineer takes on the problem of free spee
 > **succumb**:屈服；屈从；抵挡不住
  > 
 
-![](./archive/img/boxcnW8itHqzYkEdvRzEUpz6Shd.png)
+![](./img/boxcnW8itHqzYkEdvRzEUpz6Shd.png)
 
 10.Mr Musk will not have an entirely free hand. Australia, Britain, the  eu and India, have all been working on tech-­regulation. Thierry Breton, a senior eu official, noted that “It’s not [Mr Musk’s] rules that will apply here.” Mr Musk’s other investors are nervous. The more time he devotes to Twitter, the less he will have for his other ventures. Shares in Tesla fell by 12% after news of the Twitter deal.
 

@@ -35,7 +35,7 @@ description:  Getting to the bottom of the plunge in America’s stockmarket
 > **sell­off**：(打折扣)销完；卖清(存货)；廉价出售
  > 
 
-![](./archive/img/boxcnGQs6QhMN1K0DjS9UOJewCd.png)
+![](./img/boxcnGQs6QhMN1K0DjS9UOJewCd.png)
 
 5.One question is whether the market **slump** signals deeper trouble in the economy. America’s unemployment rate is just 3.6% and more than 11m jobs remain unfilled. But the more zealous the Fed has to be, the more likely it is to cause a **recession**. Meanwhile, war in Ukraine has stoked energy prices. And China’s zero­-covid policy is damaging its economy and adding to supply­chain **snarl­up**s around the world.
 

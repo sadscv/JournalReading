@@ -17,7 +17,7 @@ description: The hawks are taking flight
 > **swing into action**：积极行动起来
  > 
 
-![](./archive/img/boxcnpyYaphYZ3D6kkBqfYdwGzh.png)
+![](./img/boxcnpyYaphYZ3D6kkBqfYdwGzh.png)
 
 3 Explanations for the Fed’s mistake fit into three related categories: a failure of imagination, a technical trap and institutional inertia. In failing to see how bad things might get, the Fed was hardly alone. When inflation **perked up** a year ago, most analysts and investors pointed to **dislocations** from the pandemic. With people avoiding crowded places, demand for goods such as cars and computers had boomed just as companies were struggling to make them. As covid-19 faded away, so would inflation.
 
@@ -51,7 +51,7 @@ description: The hawks are taking flight
 
 8 At some level the Fed has now corrected its three mistakes. It is alert to the reality of inflation; it has, in effect, shelved its average-inflation framework; and institutional momentum has moved towards tightening, so that even its erstwhile doves sound relatively hawkish. Alongside a steep path of rate increases, the Fed is expected to start shrinking its balance-sheet next month. “It is not clear that moving any faster would gain you more credibility or more inflation reduction. But it is clear that it would massively increase the likelihood of recession,” says Mr Posen. As it stands, the Fed has never before managed to reduce inflation from such lofty levels without inducing a downturn. Mr Powell himself conceded last month that a soft landing would be hard to pull off.
 
-![](./archive/img/boxcnqBVNHQNGnEhjm0uFLKopUf.png)
+![](./img/boxcnqBVNHQNGnEhjm0uFLKopUf.png)
 
 9 Even so, some still sense over-confidence. The median forecast of the Fed’s rate-setting committee has been branded as “**immaculate disinflation**”: according to its projections in March, inflation is expected to come down to 2.3% (on the Fed’s preferred gauge) in 2024, despite short-term interest rates reaching only 2.8%. Put crudely, this implies that real rates will be barely positive and yet inflation will somehow **fizzle out**.
 

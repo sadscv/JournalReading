@@ -49,7 +49,7 @@ description: The conflict shaped the economy as well as vice versa
 > **extravagant** :奢侈的；挥霍的；铺张浪费的
  > 
 
-![](./archive/img/boxcnbGYiAYu4AJGz4PrCx9tABc.png)
+![](./img/boxcnbGYiAYu4AJGz4PrCx9tABc.png)
 
 5 Yet while the Union’s finances seemed in danger of collapsing early in the war, Lincoln’s administration soon began constructing the machinery to effectively tap the strength of the American economy. From 1862 the federal government started issuing a **fiat** currency—called “greenbacks”, for the colour of the ink used in printing on the **reverse side**. In 1863 Congress **enact**ed Chase’s plan for a national banking system, in which federally chartered and supervised banks issued Treasury notes and held federal bonds. The inflationary potential of such measures was kept in check by a big expansion of federal taxation—including the central government’s first-ever income tax.
 

@@ -3,6 +3,8 @@ description: A struggle over artistic freedom suggests a better way out of the c
 ---
 
 # D802 Philip Guston’s paintings are controversial. But here they are
+![](./img/boxcnREmgBv10KLoMVMjFzlSfZg.png)
+
 1 “Probably the only thing one can really learn”, Philip Guston eventually concluded, “is the capacity to be able to change.” The modern artist’s fate, he said, was “constant change”. As a painter he embraced that fate—and in **posterity** his work has proved both an index of change and a challenge to it. A new show in Boston charts his restless genius; it is also the canvas for a struggle over art’s freedom and obligations, and the **contested** balance between them.
 
 > **posterity**：后代
@@ -34,7 +36,7 @@ description: A struggle over artistic freedom suggests a better way out of the c
 
 4 Well, who was he? The son of Jewish refugees from Odessa, he changed his name from Goldstein to evade anti-Semitism. The Klan was active in the Los Angeles of his youth and his early work also evoked its crimes, alongside other fascistic atrocities. He turned away from abstraction in part out of an enduring sense of political duty. “What kind of man am I”, he felt in the 1960s, “sitting at home, reading magazines, going into a fury about everything—and then going into my studio to adjust a red to a blue.”
 
-![](./archive/img/boxcnNWhGFKfHRBbTK3SJTnDVJh.png)
+![](./img/boxcnNWhGFKfHRBbTK3SJTnDVJh.png)
 
 5 As for the later hoods themselves: Guston delighted in telling stories with them, and in the expressions he could conjure in their almost blank **visages**. At bottom, though, they were—and are—a **reproach**. They are terrible in their ordinariness, surrounded with everyday **bric-a-brac**, glimpsed smoking or riding in a **boxy** car. In “The Studio” one sketches a self-portrait, blood on his hand and costume. The stitching in the hoods matches and merges with the window slits in the buildings Guston painted. His hoods are knitted into society. They are everywhere.
 

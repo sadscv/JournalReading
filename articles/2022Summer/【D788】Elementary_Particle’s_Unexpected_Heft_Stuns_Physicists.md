@@ -3,6 +3,8 @@ description: A new analysis by the CDF collaboration is a bolt from the blue, fi
 ---
 
 # D788 Elementary Particle’s Unexpected Heft Stuns Physicists
+![](./img/boxcnb1fVeT8eyIVM1yI66V8DgK.png)
+
 1 In particle physics, data long outlives the **detector**s that generate it. A decade ago the 4,100-metric-ton Collider Detector at Fermilab (CDF) reached the end of its life and was shut down, stripped of its parts for use in other experiments. Now a fresh analysis of old CDF data has unearthed a stunning **discrepancy** in the mass of an elementary particle, the W boson, that could point the way to new, as yet undiscovered particles and interactions.
 The W boson is massive, some 80 times heavier than a **proton**. Crucially, the W boson is responsible for certain forms of radioactive decay, allowing **neutron**s to convert into protons. Because its mass is constrained by (and itself constrains) many other particles and parameters within the Standard Model—particle physicists’ theory of fundamental particles and how they behave—the W boson has become a target for researchers seeking to understand where and how their best theories fail.
 

@@ -19,8 +19,8 @@ description: Can Chinese big tech learn to love Big Brother?
 > **shed **: 摆脱；去除；蜕；落
  > 
 
-![](./archive/img/boxcnbWRanqUX8c0bt5OnaklAye.png)
-![](./archive/img/boxcn8s1q1MJTTnc7sJJBFDKs3f.png)
+![](./img/boxcnbWRanqUX8c0bt5OnaklAye.png)
+![](./img/boxcn8s1q1MJTTnc7sJJBFDKs3f.png)
 
 3.The **techlash** is moving into a new phase. The sorry state of the Chinese economy has forced regulators to delay further planned corporate punishment in the hope that the industry can help recharge growth. In the most positive signal for tech in over a year, the central government said on April 29th that it planned to normalise regulation and to “promote the healthy development of the platform economy”. The share prices of several firms, including Alibaba, soared at the news. But some new rules have been merely put off rather than withdrawn, according to the  Wall Street Journal. And much damage has already been done. The entrepreneurs behind China's biggest tech successes have come to a **grim reckoning**: that because of government meddling they will be unable to innovate, and may even become boring.
 

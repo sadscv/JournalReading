@@ -25,7 +25,7 @@ description: America has a plan to gut China’s chipmaking ecosystem
 > **Lam Research**: 科林研发
  > 
 
-![](./archive/img/boxcndjNUT5lzkfJdFYAbWTOxqX.png)
+![](./img/boxcndjNUT5lzkfJdFYAbWTOxqX.png)
 
 4.This new reliance has created political and commercial problems, particularly for the trio of American toolmakers: Applied Materials, kla and Lam Research. The Chinese government has thrown hundreds of billions of dollars at domestic chipmakers. Because each of the American trio is dominant at a different step of the process, the unavoidable conclusion is that America’s most advanced technology is furthering China’s economic goals. There is strong bipartisan agreement in Washington that this is unacceptable.
 

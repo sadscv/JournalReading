@@ -79,7 +79,7 @@ The showroom, however, was not Franz Mohr’s place. His realm was the basement,
 > **squeak**：短促而尖厉地叫；吱吱叫；嘎吱作响
  > 
 
-![](./archive/img/boxcnJaGmNI0HgNnKQnRPgdE3gf.png)
+![](./img/boxcnJaGmNI0HgNnKQnRPgdE3gf.png)
 
 8.It was Horowitz, though, and Horowitz’s piano, with whom Mr Mohr’s life became most tightly **entwined**. After a few delicate years, Horowitz would have no tuner but him. The piano in question, one of six the maestro used, had been built for him by Steinway in 1941, and regulated so lovingly by Mr Mohr since 1965 or so that its insides were as good as new. On this Horowitz could display his whole range, from whispering **pianissimi** to thundering **fortissimi**: mostly because it was a Steinway, as Mr Mohr loyally insisted, whose secret lay in the quality of the wood in it, but also because he had given a really high tension to the repetition spring. After Horowitz’s death in 1989 he continued to care for it, tuning and regulating it and accompanying it on tour round America, so that other pianists could play it—though this would not, he cautioned, no way! make them play like Horowitz afterwards.
 
